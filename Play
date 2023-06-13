@@ -677,9 +677,6 @@ https://webudit.salamus1.lol/lb/premium119/index.m3u8|referer=https://widevine.l
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea165a213eb/a1365312720d43638c0d8a41b1789958.png" group-title="RACING TV",Motor Racing TV
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea165a213eb/a1365312720d43638c0d8a41b1789958.pnghttp://127.0.0.1/" group-title="RACING TV", UK | MotorRacing HD Backup
-http://kuchini.site:8080/multi6741/ab72059e/295426
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="RACING TV",Racing com TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index268.m3u8
@@ -1860,20 +1857,19 @@ https://siloh.pluto.tv/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
 https://siloh.pluto.tv/lilo/production/CopaLibertadores/ARG/24-7/master.m3u8
 
 
-
 ====RMC Sports====
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="OLAHRAGA" group-title="SPORTS", RMC Sports 1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="SPORTS", RMC Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium119/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="OLAHRAGA" group-title="SPORTS", RMC Sports 2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="SPORTS", RMC Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium120/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="OLAHRAGA" group-title="SPORTS", RMC Sports 3
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="SPORTS", RMC Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/279991
