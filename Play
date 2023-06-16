@@ -763,7 +763,7 @@ http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/201086
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1BmH00T/ziggo-racing-removebg-preview.png" group-title="RACING TV", NL | ZIGGO Racing HD
 http://kuchini.site:8080/multi6741/ab72059e/4515
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="Racing TV",Edge Sport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="RACING TV",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/501ZsjPd/Dxb-Racing-C-1417x591-removebg-preview.png" group-title="RACING TV",Dubai Racing
