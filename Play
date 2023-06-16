@@ -1398,6 +1398,10 @@ https://webudit.cdnhks.lol/lb/premium823/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium824/index.m3u8|referer=https://widevine.licenses4.me/
 
+#EXTINF:-1 tvg-id="fs1" tvg-name="" tvg-logo="https://i.imgur.com/sbtmPHT.png" group-title="FOX SPORTS",FOX CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium369/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
 =====FIGHTSPORTS====
