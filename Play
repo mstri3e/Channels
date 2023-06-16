@@ -2774,22 +2774,22 @@ http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2502
 
 ====Ziggo Test====
 
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 1
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 1 ( teleshop 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium390/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudit.cdnhks.lol/lb/premium399/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 2
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 2 vivo plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium391/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudit.cdnhks.lol/lb/premium403/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 3
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 3 winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium392/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudit.cdnhks.lol/lb/premium406/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 4
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 4 ( Ziggp Select )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.cdnhks.lol/lb/premium393/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2797,14 +2797,14 @@ https://webudit.cdnhks.lol/lb/premium393/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium394/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudit.cdnhks.lol/lb/premium409/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium395/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudit.cdnhks.lol/lb/premium412/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 7
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 7 Ziggo Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.cdnhks.lol/lb/premium396/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
