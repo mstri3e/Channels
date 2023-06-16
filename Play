@@ -720,8 +720,6 @@ https://webudit.cdnhks.lol/lb/premium119/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwmTwRYq/moto-america.png" group-title="RACING TV",Moto America
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
 
-https://i.postimg.cc/DwmTwRYq/moto-america.png
-
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea165a213eb/a1365312720d43638c0d8a41b1789958.png" group-title="RACING TV",Motor Racing TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -5039,6 +5037,9 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="KNOWLEDGE", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/XD8Vr0d.jpg",NASA TV MEDIA
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="KNOWLEDGE", Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
