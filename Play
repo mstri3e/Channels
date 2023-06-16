@@ -666,7 +666,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium424/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea165a213eb/a1365312720d43638c0d8a41b1789958.png" group-title="Live MOTOGP",Motor Racing TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="Live MOTOGP",Motor Racing TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -674,7 +674,7 @@ https://webudit.cdnhks.lol/lb/premium424/index.m3u8|referer=https://widevine.lic
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea165a213eb/a1365312720d43638c0d8a41b1789958.png" group-title="Live MOTOGP",Motor Racing TV ( Backup )
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="Live MOTOGP",Motor Racing TV ( Backup )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -717,10 +717,10 @@ https://webudit.cdnhks.lol/lb/premium119/index.m3u8|referer=https://widevine.lic
 
 =====Racing TV=====
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwmTwRYq/moto-america.png" group-title="RACING TV",Moto America
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx3SYhKd/moto-america-removebg-preview.png" group-title="RACING TV",Moto America
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea165a213eb/a1365312720d43638c0d8a41b1789958.png" group-title="RACING TV",Motor Racing TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -728,7 +728,15 @@ https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea165a213eb/a1365312720d43638c0d8a41b1789958.png" group-title="RACING TV",Motor Racing TV ( Backup )
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV #1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV ( Backup )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -755,7 +763,7 @@ http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/201086
 #EXTINF:-1 tvg-logo="https://bit.ly/3ffzRO3" group-title="RACING TV", NL | ZIGGO Racing HD
 http://kuchini.site:8080/multi6741/ab72059e/4515
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="SPORTS",Motor Racing Edge Sport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="SPORTS",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="RACING TV",Dubai Racing
@@ -2375,7 +2383,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea165a213eb/a1365312720d43638c0d8a41b1789958.png" group-title="SPORTS 1",Motor Racing TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="SPORTS 1",Motor Racing TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2383,7 +2391,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea165a213eb/a1365312720d43638c0d8a41b1789958.png" group-title="SPORTS 1",Motor Racing TV ( Backup )
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="SPORTS 1",Motor Racing TV ( Backup )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2989,10 +2997,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.postimg.cc/90rfX6tq/Galaxy-Premium.png" group-title="MOVIES",Galaxy Premium
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.postimg.cc/brpvPz31/Galaxy-Premium-removebg-preview.png" group-title="MOVIES",Galaxy Premium
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.postimg.cc/90rfX6tq/Galaxy-Premium.png" group-title="MOVIES",Galaxy Premium
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.postimg.cc/brpvPz31/Galaxy-Premium-removebg-preview.png" group-title="MOVIES",Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
