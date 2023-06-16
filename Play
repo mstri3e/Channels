@@ -751,22 +751,22 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index268.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="RACING TV", UK | Racing TV HD
 http://kuchini.site:8080/multi6741/ab72059e/731
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cp5PZ8s/sky-sports-racing.jpg" group-title="RACING TV", UK | Sky Sports Racing HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV", UK | Sky Sports Racing HD
 http://kuchini.site:8080/multi6741/ab72059e/163132
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T378g0LK/sky-racing.png" group-title="RACING TV", AU | SKY Racing 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPTGhkrX/SKY-1-removebg-preview.png" group-title="RACING TV", AU | SKY Racing 1 HD
 http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/201085
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T378g0LK/sky-racing.png" group-title="RACING TV", AU | SKY Racing 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv0P22cX/SKY-2-removebg-preview.png" group-title="RACING TV", AU | SKY Racing 2 HD
 http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/201086
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3ffzRO3" group-title="RACING TV", NL | ZIGGO Racing HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1BmH00T/ziggo-racing-removebg-preview.png" group-title="RACING TV", NL | ZIGGO Racing HD
 http://kuchini.site:8080/multi6741/ab72059e/4515
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="SPORTS",Edge Sport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="Racing TV",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="RACING TV",Dubai Racing
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/501ZsjPd/Dxb-Racing-C-1417x591-removebg-preview.png" group-title="RACING TV",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-g5kxWrkTxzg/WxHWbSiaaQI/AAAAAAAATjE/N7pEyjlZmQYiw_J0ZdCZLYdZz-jLlopCQCLcBGAs/s1600/dubai_ae_racing_2.png" group-title="RACING TV",Dubai Racing 2
@@ -775,7 +775,7 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.94061278628a654e847a7adeb899771d?rik=hWB2hA%2fKPP1IIw&riu=http%3a%2f%2fadmango.cdn.mangomolo.com%2fanalytics%2fuploads%2f71%2f5bfea86c98.png&ehk=UeMSkBMPWZGs6eNCXGf29qYjq7AlUiMnO%2bsRvi4bNbs%3d&risl=&pid=ImgRaw&r=0" group-title="RACING TV",Dubai Racing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/XYCrP3LC/fox-sport-racing.jpg" group-title="RACING TV", CAR | Fox Sports Racing HD
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV", CAR | Fox Sports Racing HD
 http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2327
 
 
@@ -796,7 +796,7 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 http://ky-iptv.com:80/bruno123/bruno321/1101108.ts
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827d54aae33d56/a35aba41e139458d943185da7f8fe828.jpg" group-title="ABU DHABI SPORTS",BALAP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="ABU DHABI SPORTS",BALAP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -804,7 +804,7 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827d54aae33d56/a35aba41e139458d943185da7f8fe828.jpg" group-title="ABU DHABI SPORTS",BALAP ( Backup )
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="ABU DHABI SPORTS",BALAP ( Backup )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -812,7 +812,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="ABU DHABI SPORTS",Dubai Racing
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/501ZsjPd/Dxb-Racing-C-1417x591-removebg-preview.png" group-title="ABU DHABI SPORTS",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-g5kxWrkTxzg/WxHWbSiaaQI/AAAAAAAATjE/N7pEyjlZmQYiw_J0ZdCZLYdZz-jLlopCQCLcBGAs/s1600/dubai_ae_racing_2.png" group-title="ABU DHABI SPORTS",Dubai Racing 2
@@ -1372,7 +1372,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-ID="foxsport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCd7UvOnIlL9uu_y9luBnTQtB4G0f-jSvNyQ&usqp=CAU" group-title="FOX SPORTS",FOX SPORT 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:0  tvg-ID="foxsportracing" tvg-logo="https://i.postimg.cc/XYCrP3LC/fox-sport-racing.jpg" group-title="FOX SPORTS",Fox Sports Racing HD
+#EXTINF:0  tvg-ID="foxsportracing" tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="FOX SPORTS",Fox Sports Racing HD
 http://kuchini.site:8080/multi6741/ab72059e/2327
 http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2327
 
@@ -1577,7 +1577,7 @@ https://smart-tv.livedoomovies.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8|Refe
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cp5PZ8s/sky-sports-racing.jpg" group-title="Sky Sports",Sky Sports Racing HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="Sky Sports",Sky Sports Racing HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium554/index.m3u8
@@ -1909,7 +1909,7 @@ https://webudit.cdnhks.lol/lb/premium131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/san-marino-rtv-sport-2021-logo-DE84A78C93-seeklogo.com.png" group-title="SPORTS" ,RTV Sports
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ffzRO3" group-title="ZIGGO SPORT",Ziggo Sport Racing
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1BmH00T/ziggo-racing-removebg-preview.png" group-title="ZIGGO SPORT",Ziggo Sport Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://xtv.ooo:8080/03017940658/03017940658/229735
@@ -2367,7 +2367,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729ceb0dd
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827d54aae33d56/a35aba41e139458d943185da7f8fe828.jpg" group-title="SPORTS 1",BALAP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="SPORTS 1",BALAP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2375,7 +2375,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729ceb0dd
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827d54aae33d56/a35aba41e139458d943185da7f8fe828.jpg" group-title="SPORTS 1",BALAP ( Backup )
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="SPORTS 1",BALAP ( Backup )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3407,25 +3407,25 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 
 ====ETV====
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28GZYdFh/ETV.jpg" group-title="MOVIES",Etv Bioskop
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t27LtB3/etv-removebg-preview.png" group-title="MOVIES",Etv Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 http://kuchini.site:8080/multi6741/ab72059e/298526
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298526
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28GZYdFh/ETV.jpg" group-title="MOVIES",Etv Bioskop 02
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t27LtB3/etv-removebg-preview.png" group-title="MOVIES",Etv Bioskop 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 http://kuchini.site:8080/multi6741/ab72059e/298527
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298527
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28GZYdFh/ETV.jpg" group-title="MOVIES",Etv Bioskop 03
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t27LtB3/etv-removebg-preview.png" group-title="MOVIES",Etv Bioskop 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 http://kuchini.site:8080/multi6741/ab72059e/298528
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298528
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28GZYdFh/ETV.jpg" group-title="MOVIES",Etv Bioskop 04
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t27LtB3/etv-removebg-preview.png" group-title="MOVIES",Etv Bioskop 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 http://kuchini.site:8080/multi6741/ab72059e/298529
