@@ -2800,6 +2800,7 @@ http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2502
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="TV CHAMPIONS",Champions TV 1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
+http://kuchini.site:8080/multi6741/ab72059e/298512
 
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="TV CHAMPIONS",Champions TV 1 HD
@@ -2818,10 +2819,12 @@ https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="TV CHAMPIONS",Champions TV 2
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
+http://kuchini.site:8080/multi6741/ab72059e/298513
 
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="TV CHAMPIONS",Champions TV 3
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298514
+http://kuchini.site:8080/multi6741/ab72059e/298514
 
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="TV CHAMPIONS",Champions TV 3 HD
@@ -3390,7 +3393,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="MOVIES",Cinemax ( Backup )
 http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3012
-
+http://kuchini.site:8080/multi6741/ab72059e/197964
 
 ====MOVIES CUBMU====
 
@@ -3442,6 +3445,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+http://kuchini.site:8080/multi6741/ab72059e/298524
 
 
 ====ETV====
@@ -4079,8 +4083,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456047
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq7DdfQS/ANGRY-BIRDS.png" group-title="CARTOONS INDONESIA", Angry Birds Toons
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298493
+http://kuchini.site:8080/multi6741/ab72059e/298493
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq7DdfQS/ANGRY-BIRDS.png" group-title="CARTOONS INDONESIA", Angry Birds Toons #1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq7DdfQS/ANGRY-BIRDS.png" group-title="CARTOONS INDONESIA", Angry Birds Toons #2
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298493
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcSg16gj/BABY-BUS.png" group-title="CARTOONS INDONESIA", BabyBus Indonesia #1
@@ -4120,6 +4125,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LhFYGT7G/DONALD-DUCK.png" group-title="CARTOONS INDONESIA", Donald Ducks
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298495
+http://kuchini.site:8080/multi6741/ab72059e/298495
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LhFYGT7G/DONALD-DUCK.png" group-title="CARTOONS INDONESIA",Donald Ducks #1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298495
@@ -4132,6 +4138,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298496
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv1LGrpX/DORAEMON.jpg" group-title="CARTOONS INDONESIA",Doraemon #2
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298498
+http://kuchini.site:8080/multi6741/ab72059e/298496
 
 #EXTINF:-1 tvg-logo="" group-title="CARTOONS INDONESIA",Just For Laughs
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298497
@@ -4141,9 +4148,12 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298499
 
 #EXTINF:-1  #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYppNXSs/MR-BEAN.jpg" group-title="CARTOONS INDONESIA",Mr Bean Cartoon
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
+http://kuchini.site:8080/multi6741/ab72059e/298498
 
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYppNXSs/MR-BEAN.jpg" group-title="CARTOONS INDONESIA",Mr Bean Classic #1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298499
+http://kuchini.site:8080/multi6741/ab72059e/298499
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsqS9x3F/TOM-N-JERRY.jpg" group-title="CARTOONS INDONESIA",Tom And Jerry
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298500
@@ -4157,6 +4167,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298501
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4cTR42F/UPIN-IPIN.jpg" group-title="CARTOONS INDONESIA",Upin Ipin #1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
+http://kuchini.site:8080/multi6741/ab72059e/298501
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtQ9BRrD/ZOOMOO.png" group-title="CARTOONS INDONESIA", ZooMoo
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264751
@@ -4337,7 +4348,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2e
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSKC0Tj/WARKOP-DKI.jpg" group-title="WARKOP DKI", Warkop DKI
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298502
-
+http://kuchini.site:8080/multi6741/ab72059e/298502
 
 
 =====KARTUN=====
@@ -5164,6 +5175,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.m3u8
+http://kuchini.site:8080/multi6741/ab72059e/298524
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
