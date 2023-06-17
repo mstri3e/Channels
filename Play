@@ -1830,6 +1830,15 @@ https://webudit.cdnhks.lol/lb/premium104/index.m3u8
 
 =====All SPORTS=======
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LWkXSCC/vivo-sports.jpg" group-title="SPORTS",Vivo Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.cdnhks.lol/lb/premium391/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ls7cjR7L/winsports-removebg-preview.png" group-title="SPORTS",Win Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.cdnhks.lol/lb/premium392/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BrNpDPLB99WqMz5Keap7zUjypS3ZFHz88Q&usqp=CAU" group-title="SPORTS",Kanalen Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2301,6 +2310,16 @@ https://sport.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 ====NBA NFL MLB Sports====
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.cdnhks.lol/lb/premium406/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports HD #1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz
+https://webudit.cdnhks.lol/lb/premium409/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS 1",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -2321,7 +2340,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.cdnhks.lol/lb/premium405/index.m3u8|referer=https://widevine.licenses4.me/
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRux7EtXTMTT880AQ8IQEuIeAEium0VJQ3pkA&usqp=CAU" group-title="SPORTS 1", MLB Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
@@ -2770,44 +2788,6 @@ http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2500
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c0b24d5e9e2456c93f8fae2e913182c:e06339c46258a695fc8a2e8bfb394b6a
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2502
-
-
-====Ziggo Test====
-
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 1 ( teleshop 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium399/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 2 vivo plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium403/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 3 winsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium406/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 4 ( Ziggp Select )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium393/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium409/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium412/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" group-title="ZIGGO Test",Ziggo Test 7 Ziggo Racing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium396/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 
 ====TVCHAMPIONS====
