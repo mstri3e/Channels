@@ -720,13 +720,14 @@ https://webudit.cdnhks.lol/lb/premium119/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx3SYhKd/moto-america-removebg-preview.png" group-title="RACING TV",Moto America
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+http://210.210.155.37/uq2663/h/h223/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV #1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -750,6 +751,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index268.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="RACING TV", UK | Racing TV HD
 http://kuchini.site:8080/multi6741/ab72059e/731
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/731
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV", UK | Sky Sports Racing HD
 http://kuchini.site:8080/multi6741/ab72059e/163132
@@ -1851,6 +1853,8 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d46
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
 https://lbs-usp-dash-live.cmore.se/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/10659
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/10659
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -2253,6 +2257,7 @@ https://siloh.pluto.tv/lilo/production/CopaLibertadores/ARG/24-7/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
+http://210.210.155.37/uq2663/h/h124/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea03c5313e9/7a84b24e750f43d49799c533c6b9c709.png" group-title="SPORTS",Horizon Sports ( Backup )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2794,6 +2799,7 @@ http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2502
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="TV CHAMPIONS",Champions TV 1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="TV CHAMPIONS",Champions TV 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2811,9 +2817,11 @@ https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="TV CHAMPIONS",Champions TV 2
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298513
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="TV CHAMPIONS",Champions TV 3
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298514
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="TV CHAMPIONS",Champions TV 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2822,12 +2830,18 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298514
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://i.imgur.com/xtRvoj9.png" group-title="TV CHAMPIONS",Champions TV 5
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298491
+
 #EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://i.imgur.com/xtRvoj9.png" group-title="TV CHAMPIONS",Champions TV 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://i.imgur.com/dnQiPdp.png" group-title="TV CHAMPIONS",Champions TV 6
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://i.imgur.com/dnQiPdp.png" group-title="TV CHAMPIONS",Champions TV 6 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3291,6 +3305,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="MOVIES",HBO HD ( Backup )
 http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3008
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197972
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="MOVIES",HBO Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3331,6 +3346,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="MOVIES",HBO Family ( Backup )
 http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3011
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197055
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="MOVIES",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3350,6 +3366,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="MOVIES",HBO Signature ( Backup )
 http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3009
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/221948
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -3369,6 +3386,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="MOVIES",Cinemax ( Backup )
 http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3012
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197964
 
 
 ====MOVIES CUBMU====
@@ -3388,6 +3406,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264801
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg" group-title="MOVIES",Series Zone
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4061,6 +4080,10 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298493
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq7DdfQS/ANGRY-BIRDS.png" group-title="CARTOONS INDONESIA", Angry Birds Toons #1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298493
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq7DdfQS/ANGRY-BIRDS.png" group-title="CARTOONS INDONESIA", Angry Birds Toons #2
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298493
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcSg16gj/BABY-BUS.png" group-title="CARTOONS INDONESIA", BabyBus Indonesia #1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298494
 
@@ -4102,14 +4125,20 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298495
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LhFYGT7G/DONALD-DUCK.png" group-title="CARTOONS INDONESIA",Donald Ducks #1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298495
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv1LGrpX/DORAEMON.jpg" group-title="CARTOONS INDONESIA",Doraemon #1
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298496
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LhFYGT7G/DONALD-DUCK.png" group-title="CARTOONS INDONESIA",Donald Ducks #2
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298495
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv1LGrpX/DORAEMON.jpg" group-title="CARTOONS INDONESIA",Doraemon
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298496
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv1LGrpX/DORAEMON.jpg" group-title="CARTOONS INDONESIA",Doraemon #1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298496
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv1LGrpX/DORAEMON.jpg" group-title="CARTOONS INDONESIA",Doraemon #2
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298498
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv1LGrpX/DORAEMON.jpg" group-title="CARTOONS INDONESIA",Doraemon #3
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298496
 
 #EXTINF:-1 tvg-logo="" group-title="CARTOONS INDONESIA",Just For Laughs
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298497
@@ -4120,8 +4149,14 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298499
 #EXTINF:-1  #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYppNXSs/MR-BEAN.jpg" group-title="CARTOONS INDONESIA",Mr Bean Cartoon
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
 
+#EXTINF:-1  #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYppNXSs/MR-BEAN.jpg" group-title="CARTOONS INDONESIA",Mr Bean Cartoon #1
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298498
+
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYppNXSs/MR-BEAN.jpg" group-title="CARTOONS INDONESIA",Mr Bean Classic #1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298499
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYppNXSs/MR-BEAN.jpg" group-title="CARTOONS INDONESIA",Mr Bean Classic #2
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298499
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsqS9x3F/TOM-N-JERRY.jpg" group-title="CARTOONS INDONESIA",Tom And Jerry
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298500
@@ -4129,11 +4164,17 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298500
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsqS9x3F/TOM-N-JERRY.jpg" group-title="CARTOONS INDONESIA",Tom And Jerry #1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298500
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsqS9x3F/TOM-N-JERRY.jpg" group-title="CARTOONS INDONESIA",Tom And Jerry #2
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298500
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4cTR42F/UPIN-IPIN.jpg" group-title="CARTOONS INDONESIA",Upin Ipin
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298501
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4cTR42F/UPIN-IPIN.jpg" group-title="CARTOONS INDONESIA",Upin Ipin #1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4cTR42F/UPIN-IPIN.jpg" group-title="CARTOONS INDONESIA",Upin Ipin #2
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298501
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtQ9BRrD/ZOOMOO.png" group-title="CARTOONS INDONESIA", ZooMoo
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264751
@@ -4314,6 +4355,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2e
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSKC0Tj/WARKOP-DKI.jpg" group-title="WARKOP DKI", Warkop DKI
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298502
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSKC0Tj/WARKOP-DKI.jpg" group-title="WARKOP DKI", Warkop DKI HD
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298502
 
 
 
