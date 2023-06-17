@@ -2315,7 +2315,7 @@ https://sport.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.cdnhks.lol/lb/premium406/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports HD #1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports HD ( Backup )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz
 https://webudit.cdnhks.lol/lb/premium409/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
