@@ -3769,27 +3769,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 ====HITS MOVIES====
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts= 1660693686" group-title="MOVIES",HITS
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/fLdppRCv/hits-removebg-preview.png" group-title="MOVIES",HITS
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts= 1660693686" group-title="MOVIES",HITS FMX
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/fLdppRCv/hits-removebg-preview.png" group-title="MOVIES",HITS FMX
 https://github.com/mimipipi22/nontontv/raw/main/FMX/hits.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="MOVIES",HITS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLdppRCv/hits-removebg-preview.png" group-title="MOVIES",HITS HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://nxanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts= 1660693686" group-title="MOVIES",Hits Movies HD
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/R0ZvkKJL/hits-movie.jpg" group-title="MOVIES",Hits Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
 https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts= 1660693686" group-title="MOVIES",Hits Movies
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/R0ZvkKJL/hits-movie.jpg" group-title="MOVIES",Hits Movies
 http://edge.linknetott.swiftserve.com/channelgroup4/cg432production/ch324/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts= 1660693686" group-title="MOVIES",Hits Movies #1
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/R0ZvkKJL/hits-movie.jpg" group-title="MOVIES",Hits Movies #1
 https://github.com/mimipipi22/nontontv/raw/main/FMX/hitmovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/43/89/film-logo-initial-letter-x-movie-logo-design-vector-39324389.jpg" group-title="MOVIES",X MOVIE
@@ -5334,7 +5334,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.m3u8
-http://kuchini.site:8080/multi6741/ab72059e/298524
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
@@ -5487,51 +5486,49 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 ====Discovery Channels====
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel (F*)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/discovery.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
-https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Asia
-http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Asia 1
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="KNOWLEDGE", Discovery Indonesia
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Asia FMX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmsVfPjH/discovery-asia.png" group-title="KNOWLEDGE",Discovery Indonesia FMX
+https://github.com/mimipipi22/nontontv/raw/main/FMX/discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmsVfPjH/discovery-asia.png" group-title="KNOWLEDGE",Discovery Asia
+http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmsVfPjH/discovery-asia.png" group-title="KNOWLEDGE", Discovery Asia FMX
 https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Channel HD LUAR
-https://kusnadipepenk.github.io/ntn/disc.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Channel HD LUAR 1
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rwc4tn7y/discovery-hd.png" group-title="KNOWLEDGE",Discovery Channel HD LUAR
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwc4tn7y/discovery-hd.png" group-title="KNOWLEDGE", Discovery Channel HD LUAR 1
+https://kusnadipepenk.github.io/ntn/disc.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Turbo
 https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Science
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjcPxxfT/discovery-SCIENCE.jpg" group-title="KNOWLEDGE", Discovery Science
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryScience.m3u8
 
-#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png",DISCOVERY SCIENCE UK
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11372&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/xjcPxxfT/discovery-SCIENCE.jpg",DISCOVERY SCIENCE UK
+#http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11372&extension=ts&play_token=TQ6cftyhX8
 
-#EXTINF:-1 tvg-id="discovery science" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/34WQfut.png",DISCOVERY SCIENCE (CBM)
+#EXTINF:-1 tvg-id="discovery science" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/xjcPxxfT/discovery-SCIENCE.jpg",DISCOVERY SCIENCE (CBM)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
-#EXTINF:-1 tvg-id="discovery science" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/34WQfut.png",DISCOVERY SCIENCE (CBM) Backup
+#EXTINF:-1 tvg-id="discovery science" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/xjcPxxfT/discovery-SCIENCE.jpg",DISCOVERY SCIENCE (CBM) Backup
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
 
 
