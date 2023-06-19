@@ -2787,14 +2787,12 @@ https://webudit.cdnhks.lol/lb/premium597/index.m3u8|referer=https://widevine.lic
 ====K+ Sports====
 
 #EXTINF:-1 tvg-id="kplussport1.vn" tvg-logo="https://i.imgur.com/wO41sHC.png" group-title="SPORTS",K+ Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTVLCOPT:http-referrer=https://drm.mammothtv.my.id/clearkey/kplus/kplus1
 https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="kplussport2.vn" tvg-logo="https://i.imgur.com/5LTBnLn.png" group-title="SPORTS",K+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTVLCOPT:http-referrer=https://drm.mammothtv.my.id/clearkey/kplus/kplus2
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
