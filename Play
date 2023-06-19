@@ -2786,11 +2786,17 @@ https://webudit.cdnhks.lol/lb/premium597/index.m3u8|referer=https://widevine.lic
 
 ====K+ Sports====
 
-#EXTINF:-1 tvg-id="kplussport1.vn" tvg-logo="https://i.imgur.com/wO41sHC.png" group-title="Sports",K+ Sport 1
+#EXTINF:-1 tvg-id="kplussport1.vn" tvg-logo="https://i.imgur.com/wO41sHC.png" group-title="SPORTS",K+ Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://drm.mammothtv.my.id/clearkey/kplus/kplus1
 https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
 
-#EXTINF:-1 tvg-id="kplussport2.vn" tvg-logo="https://i.imgur.com/5LTBnLn.png" group-title="Sports",K+ Sport 2
+#EXTINF:-1 tvg-id="kplussport2.vn" tvg-logo="https://i.imgur.com/5LTBnLn.png" group-title="SPORTS",K+ Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://drm.mammothtv.my.id/clearkey/kplus/kplus1
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd
+
+
 
 ===ZIGGO===
 
