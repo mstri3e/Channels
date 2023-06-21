@@ -753,13 +753,14 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="RACING TV",Racing com TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="RACING TV",Racing.com TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index268.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="RACING TV", UK | Racing TV HD
-http://kuchini.site:8080/multi6741/ab72059e/731
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/731
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="RACING TV", UK | Racing.com TV ( 720 )
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#http://kuchini.site:8080/multi6741/ab72059e/731
+#http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/731
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV", UK | Sky Sports Racing HD
 http://kuchini.site:8080/multi6741/ab72059e/163132
@@ -848,6 +849,10 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.linius.com/wp-content/uploads/2021/06/Racing.png" group-title="ABU DHABI SPORTS",Racing.com TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index268.m3u8
+
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 
 
@@ -1863,6 +1868,9 @@ https://webudit.cdnhks.lol/lb/premium104/index.m3u8
 
 =====All SPORTS=======
 
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LWkXSCC/vivo-sports.jpg" group-title="SPORTS",Vivo Sports Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -2685,9 +2693,15 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 ====All Sports 1====
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3wr63GrH/auto-moto-tv.png" group-title="SPORTS 1",100 AutoMoto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBoZzLb5zBTVbhenOIvhsPcuezHodLfT4y9g&usqp=CAU" group-title="SPORTS 1",ARRYADIA 3
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="SPORTS 1",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="SPORTS 1",PTV Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
@@ -2706,8 +2720,20 @@ https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Htv7logo2016.png" group-title="SPORTS 1",HTV
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3wr63GrH/auto-moto-tv.png" group-title="SPORTS 1",100 AutoMoto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="HarleyDavidsonFactoryTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="SPORTS 1",Harley Davidson Factory TV (1080p) [Not 24/7]
+https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
+
+#EXTINF:-1 tvg-id="HarleyDavidsonRacingTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="SPORTS 1",Harley Davidson Racing TV (720p) [Not 24/7]
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+
+#EXTINF:-1 tvg-id="HarleyDavidsonRidesTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="SPORTS 1",Harley Davidson Rides TV (1080p) [Not 24/7]
+https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
+
+#EXTINF:-1 tvg-id="NitroCircus.us" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="Sports",Nitro Circus (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSurfGermany.de" tvg-logo="https://i.imgur.com/xB6mLeg.png" group-title="Sports",Pluto TV Surf (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="SPORTS 1",CCTV 5 HD
 https://node2.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
