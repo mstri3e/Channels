@@ -133,9 +133,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
-#EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://i.postimg.cc/D0snbdWp/Mentari-TV.png" group-title="TV NASIONAL INDONESIA",Mentari TV
-http://portalnya.vwoev.opdns.net:80/streams/mentari/index.m3u8
+#EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://i.postimg.cc/D0snbdWp/Mentari-TV.png" group-title="TV NASIONAL INDONESIA",Mentari TV HD
+https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+
+#EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://i.postimg.cc/D0snbdWp/Mentari-TV.png" group-title="TV NASIONAL INDONESIA",Mentari TV ( Backup )
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
+#http://portalnya.vwoev.opdns.net:80/streams/mentari/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
