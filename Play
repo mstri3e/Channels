@@ -6241,7 +6241,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 
 
 ==== THE PET COLLECTIVE====
-EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="KNOWLEDGE",The Pet Collective HD
+
+#EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="KNOWLEDGE",The Pet Collective HD
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollectiveSpain.es" tvg-logo="https://i.imgur.com/F4hEPMK.png" group-title="KNOWLEDGE",The Pet Collective HD ES
