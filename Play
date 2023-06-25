@@ -800,8 +800,14 @@ http://kuchini.site:8080/multi6741/ab72059e/163132
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPTGhkrX/SKY-1-removebg-preview.png" group-title="RACING TV", AU | SKY Racing 1 HD
 http://kuchini.site:8080/silversatcom/J662bwtY7Tev877u/201085
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPTGhkrX/SKY-1-removebg-preview.png" group-title="RACING TV", AU | SKY Racing 1 HD ( Backup )
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/201085
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv0P22cX/SKY-2-removebg-preview.png" group-title="RACING TV", AU | SKY Racing 2 HD
 http://kuchini.site:8080/silversatcom/J662bwtY7Tev877u/201086
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv0P22cX/SKY-2-removebg-preview.png" group-title="RACING TV", AU | SKY Racing 2 HD ( Backup )
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/201086
  
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="RACING TV", NL | ZIGGO Racing HD
 http://kuchini.site:8080/multi6741/ab72059e/4515
