@@ -6225,17 +6225,14 @@ https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 
 ====KNOWLEDGE====
 
-#EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-logo="https://i.postimg.cc/Fsds3vWq/biznet-adv-removebg-preview.png" group-title="KNOWLEDGE",Biznet Adventure (720p)
+#EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-logo="https://i.postimg.cc/Fsds3vWq/biznet-adv-removebg-preview.png" group-title="KNOWLEDGE",Biznet Adventure 4K 
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BiznetLifestyle.id" tvg-logo="https://i.postimg.cc/Fsds3vWq/biznet-adv-removebg-preview.png" group-title="LIFESTYLE",Biznet Lifestyle (480p)
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsds3vWq/biznet-adv-removebg-preview.png" group-title="KNOWLEDGE", Biznet Adventure 4K
+#http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrvt2EoWkgUzdmqC_1zX3ANUJz-CC2pPasg&usqp=CAU" group-title="KNOWLEDGE",OUTSIDE HD
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="KNOWLEDGE", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0UVMjzwwG7vgi7nsnog5XNyoB59sBWQqRw&usqp=CAU" group-title="KNOWLEDGE",PEOPLE AWESOME HD
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
