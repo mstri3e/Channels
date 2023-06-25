@@ -799,11 +799,9 @@ http://kuchini.site:8080/multi6741/ab72059e/163132
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPTGhkrX/SKY-1-removebg-preview.png" group-title="RACING TV", AU | SKY Racing 1 HD
 http://kuchini.site:8080/silversatcom/J662bwtY7Tev877u/201085
-#http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/201085
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv0P22cX/SKY-2-removebg-preview.png" group-title="RACING TV", AU | SKY Racing 2 HD
 http://kuchini.site:8080/silversatcom/J662bwtY7Tev877u/201086
-#http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/201086
  
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="RACING TV", NL | ZIGGO Racing HD
 http://kuchini.site:8080/multi6741/ab72059e/4515
@@ -1948,6 +1946,9 @@ https://webudit.cdnhks.lol/lb/premium104/index.m3u8
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="SPORTS",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-logo="https://i.imgur.com/9oyc88J.png" group-title="SPORTS",Adventure Sports TV (360p) [Not 24/7]
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LWkXSCC/vivo-sports.jpg" group-title="SPORTS",Vivo Sports Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -4348,18 +4349,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 ====STAR MOVIES====
 
 #EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png" group-title="MOVIES INT",STAR MOVIES
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
-http://starshare.live:8080/live/4839858492/3729488393/979.m3u8
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/280254
+#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
+#http://starshare.live:8080/live/4839858492/3729488393/979.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.postimg.cc/mg2MJGtK/STAR-MOVIE-SELECT-removebg-preview.png" group-title="MOVIES INT",STAR MOVIES SELECT
-http://starshare.live:8080/live/4839858492/3729488393/23270.m3u8
+#http://starshare.live:8080/live/4839858492/3729488393/23270.m3u8
 #https://anon.devds.site/link.m3u8?hash=aHR0cDovL3Bhc3RlLnphbHR2Lm15LmlkL3Jhdy9LdHo4QlBmdDE2
 
-#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.postimg.cc/mg2MJGtK/STAR-MOVIE-SELECT-removebg-preview.png" group-title="MOVIES INT",STAR MOVIES SELECT
-#http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=1116489&extension=m3u8&play_token=QVvsIHyBit
+#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.postimg.cc/mg2MJGtK/STAR-MOVIE-SELECT-removebg-preview.png" group-title="MOVIES INT",STAR MOVIES SELECT HD
+http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=1116489&extension=m3u8&play_token=QVvsIHyBit
 
 #EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.postimg.cc/mg2MJGtK/STAR-MOVIE-SELECT-removebg-preview.png" group-title="MOVIES INT",STAR MOVIES SELECT
-#http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=155729&extension=m3u8&play_token=886yUf4Rim
+http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=155729&extension=m3u8&play_token=886yUf4Rim
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932" group-title="MOVIES INT",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
@@ -5366,7 +5368,14 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298502
 http://kuchini.site:8080/multi6741/ab72059e/298502
 
 
-=====KARTUN=====
+=====CARTOONS=====
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sfM1wSD6/SUPER-CARTOONS-removebg-preview.png" group-title="CARTOONS",Supertoons TV HD
+https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sfM1wSD6/SUPER-CARTOONS-removebg-preview.png" group-title="CARTOONS",Supertoons TV HD 1
+https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/327-3270547_tayo-the-little-bus-logo-png.png" group-title="CARTOONS",Tayo TV
 https://cdn-ue1-prod.tsv2.amag.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
@@ -6147,7 +6156,10 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u
 
 ====OUTDOOR====
 
-#EXTINF:-1 tvg-id="KonniyMir.ru" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="Outdoor",Конный Мир (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TheBoatShow.us" tvg-logo="https://i.imgur.com/qlhS2zw.png" group-title="Outdoor",The Boat Show (720p)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+
+#EXTINF:-1 tvg-id="KonniyMir.ru" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="Outdoor",КoHнный Мир (576p) [Geo-blocked]
 http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/uhEn9SF.png" group-title="Outdoor",Hunt Channel (1080p)
@@ -6171,6 +6183,9 @@ https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxu
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="Outdoor",Italian Fishing TV
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="Outdoor",STIRR PursuitUp (720p)
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
+
 
 
 ====KNOWLEDGE====
@@ -6183,6 +6198,20 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0UVMjzwwG7vgi7nsnog5XNyoB59sBWQqRw&usqp=CAU" group-title="KNOWLEDGE",PEOPLE AWESOME HD
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
+
+==== THE PET COLLECTIVE====
+EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="KNOWLEDGE",The Pet Collective HD
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollectiveSpain.es" tvg-logo="https://i.imgur.com/F4hEPMK.png" group-title="KNOWLEDGE",The Pet Collective HD ES
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="KNOWLEDGE",The Pet Collective (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollectiveSweden.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="KNOWLEDGE",The Pet Collective International
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 
 ====Digione====
 
