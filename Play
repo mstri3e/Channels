@@ -1,4 +1,10 @@
-=====TV NASIONAL INDONESIA INDONESIA=======
+=========================================================================================TV NASIONAL INDONESIA INDONESIA============================================================================================
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/61/Balai_Kota_Channel.png/revision/latest/scale-to-width-down/250?cb=20210705101603" group-title="TV NASIONAL INDONESIA",Balai Kota (F*)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikota.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/13/Bandungtv_2011.png/180px-Bandungtv_2011.png" group-title="TV NASIONAL INDONESIA",Balai Kota Bandung (F*)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikotabdg.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name= "ANTV" tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="TV NASIONAL INDONESIA",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -375,7 +381,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 
 
-===DAERAH===
+==================================================================================DAERAH================================================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="TV NASIONAL DAERAH",JOWO
 http://103.152.118.53/streams/jowo/index.m3u8
@@ -648,7 +654,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.com
 
 
-====Live ( Formula 1 )=====
+================================================================================================================Live ( Formula 1 )=================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5tcj8GwS/formula.png" group-title="Live Formula 1 (F1)",Canal+ Formula 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -685,7 +691,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
-====Live (MotoGP)====
+================================================================================================================Live (MotoGP)================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/brL2TTzN/motogp.jpg" group-title="Live MOTOGP",Canal+ Motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -731,7 +737,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 
-=====Live UFC=====
+=================================================================================================================Live UFC=================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MrK0nt/J4x/main/ufci.jpg" group-title="Live UFC",UFC (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -759,7 +765,7 @@ https://webudit.cdnhks.lol/lb/premium31/index.m3u8
 https://webudit.cdnhks.lol/lb/premium119/index.m3u8|referer=https://widevine.licenses4.me/
 
 
-=====Racing TV=====
+=================================================================================================================RACING TV=================================================================================================================
 
 #EXTINF:-1 tvg-id="HarleyDavidsonRacingTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="RACING TV",Harley Davidson Racing TV (720p) [Not 24/7]
 https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
@@ -852,7 +858,7 @@ http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2327
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 
-=====ABU DHABI DUBAI======
+=================================================================================================================ABU DHABI DUBAI==================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="ABU DHABI SPORTS", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -935,7 +941,7 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 
 
-=====CLUB TV=====
+=================================================================================================================CLUB TV=================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbeR7ync1MSdj1NYFXZeHpsRSRdI-KfKuVQ&usqp=CAU" group-title="CLUB TV",Barca TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1004,7 +1010,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 
 
-====useeprimesports=====
+================================================================================================================useeprimesports=================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="Usee Prime Sports", USEE PRIME HD
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
@@ -1030,7 +1036,7 @@ https://raw.githubusercontent.com/thefirefox12537/streams/master/yusisport_loro.
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 
-=====MNCSports=====
+=================================================================================================================MNC SPORTS======================================================================================================
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Saluran Sepak Bola" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="MNC Sports", MNC Soccer Channels 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1068,7 +1074,35 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
-====BILLIARDS====
+=================================================================================================================OTOMOTIF=================================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3wr63GrH/auto-moto-tv.png" group-title="AUTOMOTIF",100 AutoMoto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MotorSurMedia.py" tvg-logo="https://i.imgur.com/vhoMFZK.png" group-title="AUTOMOTIF",Motor Sur Media (720p) [Not 24/7]
+https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-logo="https://i.imgur.com/GGIV06c.png" group-title="AUTOMOTIF",Pluto TV Auto Motor Sport (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVCars.us" tvg-logo="https://i.imgur.com/Tm3VFmq.png" group-title="AUTOMOTIF",Pluto TV Cars (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b3a4249444e05d09cc46&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=663&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVFullCustomGarage.us" tvg-logo="https://i.imgur.com/5aV71i4.png" group-title="AUTOMOTIF",Pluto TV Full Custom Garage (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="AUTOMOTIF",PowerNation
+https://rtmtv-samsung-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Choppertown.us" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="AUTOMOTIF",STIRR Choppertown (720p)
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="AUTOMOTIF",Top Gear (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="AVTO24.ru" tvg-logo="https://i.imgur.com/qSp0CJG.png" group-title="AUTOMOTIF",Авто 24 (576p) [Geo-blocked]
+http://185.52.77.67:8080/Avto24/tracks-v1a1/mono.m3u8
+=================================================================================================================BILLIARDS======================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt1pT0HC/download.png" group-title="BILLIARD",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
@@ -1080,8 +1114,9 @@ https://stream.sarapan.workers.dev/channel/UCOwcct1FjXWzlvmQxaR4Y8Q.m3u8
 #EXTINF:-1 tvg-id="FTF.us" tvg-logo="https://i.imgur.com/wCAwYZ7.png" group-title="BILLIARD",FTF SPORTS
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 
-
-====ARENASPORTS====
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3wr63GrH/auto-moto-tv.png" group-title="SPORTS 1",100 AutoMoto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+=================================================================================================================ARENA SPORTS======================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2dFqUoXCqCY2s3eCCJCTDGff1n2niYJO-w&usqp=CAU" group-title="Arena Sports",Arena Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1149,7 +1184,7 @@ https://webudit.cdnhks.lol/lb/premium139/index.m3u8?|referer=https://widevine.li
 http://325481063776488174.of529.xyz:80/play/jean81/jean09092022/488174.ts
 
 
-====ASTRO=====
+=================================================================================================================ASTRO======================================================================================================
 
 #EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1183,38 +1218,38 @@ https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 https://webudit.cdnhks.lol/lb/premium370/index.m3u8
 
 
-=====BT Sports======
+=========================================================================================================BT Sports==========================================================================================================
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="BT SPORTS",BT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/270
+#http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
+#http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/270
 https://webudit.cdnhks.lol/lb/premium31/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="BT SPORTS",BT Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/273
+#http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
+#http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/273
 https://webudit.cdnhks.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="BT SPORTS",BT Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/271
+#http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
+#http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/271
 https://webudit.cdnhks.lol/lb/premium33/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="BT SPORTS",BT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298471
+#http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
+#http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298471
 https://webudit.cdnhks.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 
-=====Beinsports=====
+====================================================================================================================Beinsports=============================================================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="beIN Sports", beIN Sports Premium 1
@@ -1371,7 +1406,7 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283294
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/15962
 
 
-====DAZN=====
+================================================================================================================================DAZN==========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="DAZN",Dazn F1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1428,7 +1463,7 @@ https://webudit.cdnhks.lol/lb/premium447/index.m3u8
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
 
 
-=====ESPN====
+=====================================================================================================================ESPN===================================================================================================
 
 #EXTINF:-1 tvg-id="ESPN.1NL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjzlignFKlJ4dGEtP4PT626XSjaP9CDUhaA&usqp=CAU" group-title="ESPN",ESPN 1 US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1462,7 +1497,7 @@ https://webudit.cdnhks.lol/lb/premium375/index.m3u8?|referer=https://widevine.li
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 
 
-=====FOXSPORTS=====
+===========================================================================================================FOXSPORTS======================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/09/fox-sports-1.png" group-title="FOX SPORTS",FS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45571&extension=ts&play_token=zulkarnain@.ts
@@ -1531,7 +1566,7 @@ https://webudit.cdnhks.lol/lb/premium824/index.m3u8|referer=https://widevine.lic
 https://webudit.cdnhks.lol/lb/premium369/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
-=====FIGHTSPORTS====
+=======================================================================================================FIGHTSPORTS==========================================================================================
 
 #EXTINF:-1 tvg-id="FITE" tvg-name="FITE" tvg-logo="https://i.ibb.co/djhmLdW/FITE.png" group-title="FIGHT SPORTS",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
@@ -1579,7 +1614,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
 
 
-====Smackdown WWE====
+================================================================================================Smackdown WWE=============================================================================================================
 
 #EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="FIGHT SPORTS",WWE Network HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1607,7 +1642,7 @@ https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
-===MOVISTAR=====
+======================================================================================================MOVISTAR=============================================================================================================
 
 #EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: M. Formula 1 FHD" tvg-logo="http://181.233.124.38:80/images/2576dbdce64fb7cfa8459628edfd89a2.png" group-title="MOVISTAR",Movistar Formula 1 FHD
 http://ky-iptv.com:80/bruno123/bruno321/219546.ts
@@ -1674,7 +1709,7 @@ https://webudit.cdnhks.lol/lb/premium539/index.m3u8
 https://webudit.cdnhks.lol/lb/premium540/index.m3u8
 
 
-====SPOTV====
+==================================================================================================SPOTV====================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhZ00vvM1a09PrRNcsbwVnDE_tTxORhQU8g&usqp=CAU" group-title="SPOTV", SPOTV AKTIF
 https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=8756f4d6996bb4d827f2248bd6d7d72b&time=1680689584
@@ -1712,7 +1747,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 https://smart-tv.livedoomovies.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
-=====SKY SPORT=======
+===========================================================================================================================SKY SPORT========================================================================================
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/SkyBaru-Sports-logo-2020.png?width=1350" group-title="Sky Sports",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1769,7 +1804,7 @@ https://webudit.cdnhks.lol/lb/premium36/index.m3u8?|referer=https://widevine.lic
 https://webudit.cdnhks.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 
-====SUPERSPORTS====
+=========================================================================================================SUPERSPORTS==============================================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALQi8QergCOEc-eRYRPKRVtmH9YLIWQaH_A&usqp=CAU" group-title="SUPERSPORTS",Supersport Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1838,7 +1873,7 @@ https://webudit.cdnhks.lol/lb/premium418/index.m3u8|referer=https://widevine.lic
 https://webudit.cdnhks.lol/lb/premium419/index.m3u8|referer=https://widevine.licenses4.me/
 
 
-====Prima Sports====
+===================================================================================================Prima Sports=============================================================================================================
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/26aa4ab429eca97ba1460df75b3dc791.png" group-title="Prima Sports",Prima Sport 1
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2229
@@ -1866,7 +1901,7 @@ http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/147300
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/297626
 
 
-====Sportv=====
+====================================================================================================Sportv==================================================================================================================
 
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png" group-title="SPORTV",Sport TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1899,7 +1934,7 @@ https://webudit.cdnhks.lol/lb/premium79/index.m3u8|referer=https://widevine.lice
 https://webudit.cdnhks.lol/lb/premium80/index.m3u8|referer=https://widevine.licenses4.me/
 
 
-=====SK SPORTS KLUB=====
+=======================================================================================SK SPORTS KLUB===============================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6GFNujd2i4CKLn9xjF_ZpWCKTyAKtRQuXA&usqp=CAU" group-title="SK SPORTS KLUB",Sport Klub 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1965,7 +2000,7 @@ https://webudit.cdnhks.lol/lb/premium103/index.m3u8
 https://webudit.cdnhks.lol/lb/premium104/index.m3u8
 
 
-=====All SPORTS=======
+=====================================================================================All SPORTS============================================================================================================================
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="SPORTS",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -2082,7 +2117,7 @@ http://210.210.155.37/uq2663/h/h124/index.m3u8
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
 
-====KSA SPORTS 1234====
+============================================================================================================KSA SPORTS 1234================================================================================================
 
 #EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="SPORTS",KSA Sports 1 (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/9.m3u8
@@ -2097,7 +2132,7 @@ https://edge.taghtia.com/sa/16.m3u8
 https://edge.taghtia.com/sa/17.m3u8
 
 
-====RTA RTV SPORTS====
+===================================================================================================================RTA RTV SPORTS===========================================================================================
 
 #EXTINF:-1 tvg-id="RTASport.af" tvg-logo="https://i.imgur.com/AsqVIp7.png" group-title="SPORTS",RTA Sports
 https://hls.rtasport.live/hls/stream.m3u8
@@ -2109,7 +2144,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 
 
-====K+ Sports====
+==========================================================================================================K+ Sports================================================================================================================
 
 #EXTINF:-1 tvg-id="kplussport1.vn" tvg-logo="https://i.imgur.com/wO41sHC.png" group-title="SPORTS",K+ Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2124,7 +2159,7 @@ https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd|User-Agent="Mozilla/
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
-====Sports Digital Fussball====
+==========================================================================================================Sports Digital Fussball============================================================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1200px-Sport-Digital.svg.png" group-title="SPORTS",Sport Digital Fussball
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2138,7 +2173,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 https://webudit.cdnhks.lol/lb/premium571/index.m3u8
 
 
-====SSC Sports====
+======================================================================================================SSC Sports=====================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EGGuHqr6f2GBksRUQVUBRy_CPxppFX_KGA&usqp=CAU" group-title="SPORTS",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2151,7 +2186,7 @@ https://webudit.cdnhks.lol/lb/premium614/index.m3u8
 https://webudit.cdnhks.lol/lb/premium615/index.m3u8
 
 
-====Sony Sports====
+========================================================================================Sony Sports===================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="SPORTS",Sony Six
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2188,7 +2223,7 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 
-====Unify Sports====
+======================================================================================================Unify Sports==================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -2201,7 +2236,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
-====V Sports====
+=====================================================================================================V Sports=================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCAg_kqdlbh1XEHOkcXtvLueFZ2pmtHtqrg&usqp=CAU" group-title="SPORTS",V SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2228,7 +2263,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d7664
 #https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 
-====Pluto Sports====
+=============================================================================================================Pluto Sports=================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntNXWCTgqnNnYRs0zp6i85IJ2cKfnpcKjtg&usqp=CAU" group-title="SPORTS",Libertadores Pluto
 https://siloh.pluto.tv/lilo/production/CopaLibertadores/ROLA/24-7/master.m3u8
@@ -2240,7 +2275,7 @@ https://siloh.pluto.tv/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
 https://siloh.pluto.tv/lilo/production/CopaLibertadores/ARG/24-7/master.m3u8
 
 
-====RMC Sports====
+=================================================================================================================RMC Sports===================================================================================================
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="SPORTS", RMC Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -2259,7 +2294,7 @@ http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/279991
 
 
 
-====Diema Sports====
+=====================================================================================Diema Sports==============================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7ITF6ylRXAA0f02n4aJSR4-AAsgRoh8RFg&usqp=CAU" group-title="SPORTS",DIEMA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2274,7 +2309,7 @@ https://webudit.cdnhks.lol/lb/premium466/index.m3u8|referer=https://widevine.lic
 https://webudit.cdnhks.lol/lb/premium467/index.m3u8|referer=https://widevine.licenses4.me/
 
 
-====Sportv===
+======================================================================================================Sportv======================================================================================================
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="SPORTS",Sportv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2289,7 +2324,7 @@ https://webudit.cdnhks.lol/lb/premium79/index.m3u8|referer=https://widevine.lice
 https://webudit.cdnhks.lol/lb/premium80/index.m3u8|referer=https://widevine.licenses4.me/
 
 
-====EPT Sports====
+============================================================================================================EPT Sports=================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYrPQsZQ8GzCUmXCDT4rgp8ajhaFQq7H52VA&usqp=CAU" group-title="SPORTS",EPT Sports 1
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
@@ -2298,7 +2333,7 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/main
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
 
 
-====Max Sports====
+====================================================================================================Max Sports=============================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcMKOFdZ4clFzAPBHt1gD5ut-oGzP8RJbuw&usqp=CAU" group-title="SPORTS",Max Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2321,7 +2356,7 @@ https://webudit.cdnhks.lol/lb/premium474/index.m3u8
 https://webudit.cdnhks.lol/lb/premium475/index.m3u8
 
 
-====Polsat Sports====
+==============================================================================================================Polsat Sports===================================================================================================
 
 #EXTINF:-1 grup tvg-id="polsat.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Polsat_Sport_Logo.png" group-title="SPORTS", Polsat Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2341,7 +2376,7 @@ https://ddy4.cdnhks.lol/ddy4/premium50/tracks-v1a1/mono.m3u8?|referer=https://wi
 https://webudit.cdnhks.lol/lb/premium540/index.m3u8
 
 
-===TUDN===
+====================================================================================================================TUDN===================================================================================================
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="SPORTS",TUDN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2357,7 +2392,7 @@ https://webudit.cdnhks.lol/ddh1/premium66/playlist.m3u8
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 
-====Canal Sports===
+=============================================================================================================Canal Sports============================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2386,7 +2421,7 @@ https://webudit.cdnhks.lol/lb/premium541/index.m3u8
 https://webudit.cdnhks.lol/lb/premium542/index.m3u8
 
 
-====Eurosports====
+=================================================================================================Eurosports==============================================================================================
 
 #EXTINF:-1 tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" group-title="SPORTS",Eurosport HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg319production/ch21/02.m3u8
@@ -2410,7 +2445,7 @@ https://webudit.cdnhks.lol/lb/premium42/index.m3u8?|referer=https://widevine.lic
 #http://redmonkeytv.com:8080/Samer2023/Samer2023/191305
 
 
-====Match Futbol====
+=============================================================================================Match Futbol===========================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmYqBzuly8UGCV0oa2qgYyO6slu9qzR0C1vA&usqp=CAU" group-title="SPORTS", MATCH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2433,7 +2468,7 @@ https://webudit.cdnhks.lol/lb/premium137/index.m3u8?|referer=https://widevine.li
 https://webudit.cdnhks.lol/lb/premium138/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 
-====SPORTS PREMIUM====
+=========================================================================================SPORTS PREMIUM===================================================================================================
 
 #EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="SPORT PREMIUM",NBA TV
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941562&play_token=zulkarnain@.ts
@@ -2762,7 +2797,6 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://i.postimg.cc/JzVDwzFh/20221114-212146.png" group-title="SPORT PREMIUM",Fox Sport 3 Mexico
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png",DAZN Bein Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2807,13 +2841,10 @@ https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2603/default_primary.mpd
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
-====All Sports 1====
+============================================================================All Sports 1==============================================================================================
 
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-logo="https://i.imgur.com/9oyc88J.png" group-title="SPORTS 1",Adventure Sports TV [Not 24/7]
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3wr63GrH/auto-moto-tv.png" group-title="SPORTS 1",100 AutoMoto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATG.se" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="SPORTS",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
@@ -6193,7 +6224,7 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
 
 
-====OUTDOOR====
+=============================================================================OUTDOOR===============================================================================================================
 
 #EXTINF:-1 tvg-id="TheBoatShow.us" tvg-logo="https://i.imgur.com/qlhS2zw.png" group-title="Outdoor",The Boat Show (720p)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
@@ -6225,9 +6256,12 @@ https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.us" tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="Outdoor",STIRR PursuitUp (720p)
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 
+#EXTINF:-1 tvg-id="travelch.id" tvg-logo="https://i.postimg.cc/13BwCY0N/travel-removebg-preview.png" group-title="Outdoor", Travel CH
+http://91.233.215.250:7272/07pqiSOeAdHpghx
 
 
-====KNOWLEDGE====
+
+===============================================================================KNOWLEDGE==================================================================================================
 
 #EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-logo="https://i.postimg.cc/Fsds3vWq/biznet-adv-removebg-preview.png" group-title="KNOWLEDGE",Biznet Adventure 4K 
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
