@@ -1138,8 +1138,6 @@ https://stream.sarapan.workers.dev/channel/UCOwcct1FjXWzlvmQxaR4Y8Q.m3u8
 #EXTINF:-1 tvg-id="FTF.us" tvg-logo="https://i.imgur.com/wCAwYZ7.png" group-title="BILLIARD",FTF SPORTS
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3wr63GrH/auto-moto-tv.png" group-title="SPORTS 1",100 AutoMoto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 =================================================================================================================ARENA SPORTS======================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2dFqUoXCqCY2s3eCCJCTDGff1n2niYJO-w&usqp=CAU" group-title="Arena Sports",Arena Sports 1
@@ -2529,7 +2527,6 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=9415
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="SPORT PREMIUM",Astro Arena
 http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/157485
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="SPORT PREMIUM",Now Sports 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110615&extension=ts&play_token=zulkarnain@.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="SPORT PREMIUM",Now Sports 2
@@ -2544,8 +2541,6 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110619&extension
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension=ts&play_token=zulkarnain@.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-c.png" group-title="SPORT PREMIUM",Now Sports 7
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110621&extension=ts&play_token=zulkarnain@.ts
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/05/espn.png" group-title="SPORT PREMIUM",ESPN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45579&extension=ts&play_token=zulkarnain@.ts
@@ -2947,7 +2942,7 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
 
-====SPORTS TV====
+====================================================================================================================================SPORTS TV====================================================================================================================================
 
 #EXTINF:-1 tvg-id="SportsConnect.za" tvg-logo="https://i.imgur.com/CZ2wQig.png" group-title="SPORTS 1",Sports Connect (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
@@ -2975,7 +2970,7 @@ https://webudit.cdnhks.lol/lb/premium406/index.m3u8|referer=https://widevine.lic
 https://webudit.cdnhks.lol/lb/premium409/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 
-====NBA NFL MLB Sports====
+====================================================================================================================================NBA NFL MLB Sports====================================================================================================================================
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS 1",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -3003,7 +2998,7 @@ https://webudit.cdnhks.lol/lb/premium405/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.cdnhks.lol/lb/premium399/index.m3u8|referer=https://widevine.licenses4.me/
 
-====PLUTO TV SPORTS====
+====================================================================================================================================PLUTO TV SPORTS====================================================================================================================================
 
 #EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-logo="https://i.imgur.com/fmyakPG.png" group-title="SPORTS 1",Action Sports Pluto TV  (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
@@ -3022,7 +3017,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7
 
 
 
-====SPORTS CUBMU====
+====================================================================================================================================SPORTS CUBMU====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b703a262be7/8cc7a41bcc724b4ea668a5ca1aecac90.jpg" group-title="SPORTS 1",Football TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3156,7 +3151,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
 
-====Orange Sports====
+====================================================================================================================================Orange Sports====================================================================================================================================
 
 #EXTINF:-1 tvg-id="OrangeSport1.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orange_Sport_Slovakia_logo.png/1200px-Orange_Sport_Slovakia_logo.png" group-title="SPORTS 1",Orange Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3180,7 +3175,7 @@ http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/12730
 
 
 
-====Digi Sports====
+====================================================================================================================================Digi Sports====================================================================================================================================
 
 #EXTINF:-1 tvg-id="DigiSport1Romania.ro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SzokCLVAG2Zfj2QMEYvZrnk0wKbtI-yBlQ&usqp=CAU" group-title="SPORTS 1",Digi Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3203,7 +3198,7 @@ https://webudit.cdnhks.lol/lb/premium403/index.m3u8?|referer=https://widevine.li
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/4219
 
 
-====PREMIERE SPORTS====
+====================================================================================================================================PREMIERE SPORTS====================================================================================================================================
 
 #EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS",Premiere Sports HD
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
@@ -3240,7 +3235,7 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/premiersport.m3u8
 
 
 
-====Eleven Sports====
+====================================================================================================================================Eleven Sports====================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORTS 1",E1even Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -3275,7 +3270,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1509
 
 
 
-====True Premiere====
+====================================================================================================================================True Premiere====================================================================================================================================
 
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="Sepakbola Premier Sejati 1" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="SPORTS 1",True Premiere Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -3304,7 +3299,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 
 
-====True Sports====
+====================================================================================================================================True Sports====================================================================================================================================
 
 #EXTINF:-1 tvg-id="TrueSports1.th" tvg-name="TrueSports 1" tvg-logo="https://dl.dropboxusercontent.com/s/3ypeowly0e6zqdb/truesports1.png" group-title="SPORTS 1",TrueSports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -3333,7 +3328,7 @@ https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
 
 
-====TSN Sports====
+====================================================================================================================================TSN Sports====================================================================================================================================
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJsp6AOvdWs_tEDVxwoDa1A0exFDpKahp8EA&usqp=CAU" group-title="SPORTS 1",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3361,7 +3356,7 @@ https://webudit.cdnhks.lol/lb/premium114/index.m3u8|referer=https://widevine.lic
 https://webudit.cdnhks.lol/lb/premium115/index.m3u8|referer=https://widevine.licenses4.me/
 
 
-====TNT SPORTS BRAZIL====
+====================================================================================================================================TNT SPORTS BRAZIL====================================================================================================================================
 
 #EXTINF:-1 tvg-id="TNTSports1Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="SPORTS 1",TNT Sports 1 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -3380,7 +3375,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 
 
-====J Sports====
+====================================================================================================================================J Sports====================================================================================================================================
 
 #EXTINF:-1 tvg-id="JSports1.jp" tvg-name="J Sports 1" tvg-logo="https://dl.dropboxusercontent.com/s/y5bcqcswr6cwvj5/jsports1.png" group-title="SPORTS 1",J Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3399,7 +3394,7 @@ https://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
 
 
-===Golf Tennis====
+===================================================================================================================================Golf Tennis====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec40cec31736f/7a5da94bdbd24ff790b84f892d4aa1e6.png" group-title="SPORTS 1",Golf+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3438,7 +3433,7 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 
-====TVS SPORTS====
+====================================================================================================================================TVS SPORTS====================================================================================================================================
 
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="SPORTS 1",TVS Boxing (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
@@ -3459,7 +3454,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 
-====Via Play====
+====================================================================================================================================Via Play====================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfI95lOmHekAtZ3WnzL1gvywWiqpPDILko1g&usqp=CAU" group-title="SPORTS 1" ,Via play SPORTS 1 Inggris
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3474,7 +3469,7 @@ https://webudit.cdnhks.lol/lb/premium550/index.m3u8|referer=https://widevine.lic
 https://webudit.cdnhks.lol/lb/premium597/index.m3u8|referer=https://widevine.licenses4.me/
 
 
-====WORLD POKER TOUR====
+====================================================================================================================================WORLD POKER TOUR====================================================================================================================================
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="SPORTS 1",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
@@ -3483,7 +3478,7 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 
-====RUSSIA SPORTS====
+====================================================================================================================================RUSSIA SPORTS====================================================================================================================================
 
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="SPORTS 1",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
@@ -3495,7 +3490,7 @@ http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
 https://strm.yandex.ru/kal/start/start0.m3u8
 
 
-=====STIRR Stadium====
+=====================================================================================================================================STIRR Stadium====================================================================================================================================
 
 #EXTINF:-1 tvg-id="stirrstadium" tvg-logo="https://i.postimg.cc/RVt9nZsD/stadium-removebg-preview.png" group-title="SPORTS 1",STIRR Stadium (720p)
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
@@ -3503,11 +3498,7 @@ https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
 #EXTINF:-1 tvg-id="stirrstadium" tvg-logo="https://i.postimg.cc/RVt9nZsD/stadium-removebg-preview.png" group-title="SPORTS 1",STIRR Stadium (720p) ( Backup )
 https://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="SPORTS 1",Hipódromo de las Américas (480p) [Geo-blocked]
-http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-
-
-===ZIGGO===
+===================================================================================================================================ZIGGO SPORTS===================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ziggosportdocu.png" group-title="ZIGGO SPORT",Ziggo Sport Docu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3546,7 +3537,7 @@ http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2500
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2502
 
 
-====OPTUS LIVE====
+====================================================================================================================================OPTUS LIVE====================================================================================================================================
 
 #EXTINF:-1 group-title="OPTUS SPORT LIVE" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm=w600-h300-pc0xffffff-pd" , AU | Optus Sport 1ⓧ (OPTUS SPORT)
 http://45.12.1.14:80/live/hmuvFX904/HZdoGg402/99552.m3u8
@@ -3565,7 +3556,7 @@ http://45.12.1.14:80/hmuvFX904/HZdoGg402/99558
 #EXTINF:-1 group-title="OPTUS SPORT LIVE" tvg-logo="https://play-lh.googleusercontent.com/sMTdmB-Hiy6Wb7vmeMraJcYhUHrZf4G706TIYI51vOfYmm_n-WkkRHGAap5oVtJw0hsm=w600-h300-pc0xffffff-pd" , AU | Optus Sport 8ⓧ (OPTUS SPORT)
 
 
-====TVCHAMPIONS====
+====================================================================================================================================TVCHAMPIONS====================================================================================================================================
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="TV CHAMPIONS",Champions TV 1
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
@@ -3665,7 +3656,7 @@ https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa9
 https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd
 
 
-====SKY CINEMA====
+====================================================================================================================================SKY CINEMA====================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/skycinemaaction.png" group-title="SKY CINEMA MOVIES",SKY CINEMA ACTION
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79471&extension=ts&play_token=HMFfs8lHwd
@@ -3736,7 +3727,7 @@ https://webudit.cdnhks.lol/lb/premium680/index.m3u8?|referer=https://widevine.li
 https://webudit.cdnhks.lol/lb/premium681/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
-====3MOVIE====
+====================================================================================================================================3MOVIE====================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -3762,6 +3753,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522360_ico.png?ts=1655232857" group-title="MOVIES",ONE
+http://210.210.155.37/uq2663/h/h143/index.m3u8|User-Agent=Lavf/56.15.102
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="MOVIES",HBO Signature HD ( nyv )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
@@ -3769,7 +3763,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
 
-====CITRA GROUP====
+====================================================================================================================================CITRA GROUP====================================================================================================================================
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="MOVIES",Citra Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
@@ -3788,7 +3782,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u
 
 
 
-====IMC====
+====================================================================================================================================IMC====================================================================================================================================
 
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.ibb.co/Kh8mQ2r/channel-14-modified.png" group-title="MOVIES", IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3806,7 +3800,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 
-====AXN====
+====================================================================================================================================AXN====================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -3826,7 +3820,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u
 
 
 
-====KIX====
+====================================================================================================================================KIX====================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -3843,7 +3837,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
 
-====TVN====
+====================================================================================================================================TVN====================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -3871,9 +3865,9 @@ http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
 
 
-====Paramount Network===
+====================================================================================================================================Paramount Network===================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236263_ico.png?ts=1663825106" group-title="MOVIES",Paramount
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236263_ico.png?ts=1663825106" group-title="MOVIES",Paramount +
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a 6ae51-6f9d- 4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=, https://play.google.com/store/apps /details?id=com.samsung.android.tvplus&samsung_app_name=Seluler+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="MOVIES",Paramount Network HD
@@ -3888,7 +3882,7 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/paramount.m3u8
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
 
-====Galaxy Premium====
+====================================================================================================================================Galaxy Premium====================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -3921,7 +3915,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 https://beetv.my.id/x/usee-galaxypremium-gojokkk.m3u8
 
 
-====Rock Action dan Entertainment====
+====================================================================================================================================Rock Action dan Entertainment====================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -3964,7 +3958,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298566
 
 
-===My Family dan My Cinema====
+===================================================================================================================================My Family dan My Cinema====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_big.png?v=1" group-title="MOVIES",My Family Channel FHD
 http://210.210.155.37/uq2663/h/h194/index.m3u8
@@ -4011,7 +4005,7 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8
 http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
 
 
-====HBO MOVIES GROUP CUBMU====
+====================================================================================================================================HBO MOVIES GROUP CUBMU====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="MOVIES",HBO HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4116,7 +4110,7 @@ http://kuchini.site:8080/live/xplatinum/FnDHVs5XQz2Zs68R/197964.m3u8
 #http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3012
 
 
-====MOVIES CUBMU====
+====================================================================================================================================MOVIES CUBMU====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be26e4325724/df2bd1819bb74e2ea38e40ebf9d60e14.png" group-title="MOVIES",Bioskop Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4167,7 +4161,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 
-====ETV====
+====================================================================================================================================ETV====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1t27LtB3/etv-removebg-preview.png" group-title="MOVIES",Etv Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -4190,7 +4184,7 @@ http://kuchini.site:8080/multi6741/ab72059e/298528
 http://kuchini.site:8080/multi6741/ab72059e/298529
 
 
-====GEM====
+====================================================================================================================================GEM====================================================================================================================================
 
 #EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png" group-title="MOVIES",GEM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -4203,7 +4197,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941635&extension=ts&play_token=ovIlzYCoic
 
 
-====Thril====
+====================================================================================================================================Thril====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498504_ico.png?ts=1655156867" group-title="MOVIES",THRILL
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
@@ -4215,7 +4209,7 @@ http://210.210.155.37/qwr9ew/s/s34/index.m3u8|User-Agent=Lavf/56.15.102
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 
-====HITS MOVIES====
+====================================================================================================================================HITS MOVIES====================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/fLdppRCv/hits-removebg-preview.png" group-title="MOVIES",HITS
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
@@ -4245,7 +4239,7 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/hitmovie.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
-====Zee Bioskop====
+====================================================================================================================================Zee Bioskop====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1655232909" group-title="MOVIES",ZEE BIOSKOP HD FMX
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
@@ -4266,7 +4260,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
-====CCM Group====
+====================================================================================================================================CCM Group====================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts= 1660693249" group-title="MOVIES",Cinema World
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
@@ -4301,7 +4295,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 
 
-===WARNER TV CUBMU====
+===================================================================================================================================WARNER TV CUBMU====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRBqp_e3cfVmQA5wBhaakdWCC3pm2N1FPrA&usqp=CAU" group-title="MOVIES",Warner TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4326,7 +4320,7 @@ https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157594
 
 
-===AXN ONE HD LUAR===
+===================================================================================================================================AXN ONE HD LUAR===================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png?v=1" group-title="MOVIES INT",AXN 2
 http://173.225.246.25:8889/udp/239.203.20.4:4003
@@ -4340,16 +4334,13 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="MOVIES INT",ONE HD
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522360_ico.png?ts=1655232857" group-title="MOVIES INT",ONE
-http://210.210.155.37/uq2663/h/h143/index.m3u8|User-Agent=Lavf/56.15.102
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/44aJ4YV.png" group-title="MOVIES INT",Xing Kong TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 
-====STAR MOVIES====
+=======================================================================================================================================STAR MOVIES=======================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png" group-title="MOVIES INT",STAR MOVIES
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/280254
@@ -4377,7 +4368,7 @@ https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
 
-====WOW GROUP===
+=======================================================================================================================================WOW GROUP======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4lUic2y3IrMCRP3y_UZYSsdrCU6Squf48Q&usqp=CAU" group-title="MOVIES INT",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
@@ -4431,7 +4422,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 
-====HBO MOVIES GROUP LUAR ====
+=======================================================================================================================================HBO MOVIES GROUP LUAR =======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvkj5B6T/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T173346-082.png" group-title="MOVIES INT",&Pictures HD
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/16958
@@ -4498,7 +4489,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 
-====GOLDEN MOVIES====
+=======================================================================================================================================GOLDEN MOVIES=======================================================================================================================================
 
 #EXTINF:-1 tvg-id="goldenhd.es" tvg-logo="https://i.imgur.com/5cQTSHO.png" group-title="MOVIES INT",Golden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -4525,7 +4516,7 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
 
-====BluTV====
+=======================================================================================================================================BluTV=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236290_ico.png?ts=1663828486" group-title="MOVIES INT",BluTV Play 1
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
@@ -4534,7 +4525,7 @@ http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 
 
-====Pluto TV====
+=======================================================================================================================================Pluto TV=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236257_ico.png?ts=1663825417" group-title="MOVIES INT",PlutoTV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&device Version=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat= &deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -4552,7 +4543,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c00077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&device Version=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat= &deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
-====Rakuten Group====
+=======================================================================================================================================Rakuten Group=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="MOVIES INT",Rakuten Action
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -4591,7 +4582,7 @@ https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsY
 https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf 19e175&ads.dnt=0&ads.us_privacy= 1---
 
 
-====UNIVERSAL MOVIES====
+=======================================================================================================================================UNIVERSAL MOVIES=======================================================================================================================================
 
 #EXTINF:-1 tvg-id="UniversalReality.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?path-prefix=es" group-title="MOVIES INT",Universal Reality
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -4624,7 +4615,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 
 
-====SONY MOVIES====
+=======================================================================================================================================SONY MOVIES=======================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
@@ -4647,7 +4638,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
 
-====Tap Action Movies====
+=======================================================================================================================================Tap Action Movies=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFbmYcT/tap.jpg" group-title="MOVIES INT",Tap Action Flix
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926149&extension=ts&play_token=aNLdXPvmxg
@@ -4656,7 +4647,7 @@ http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926149&extension=
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926152&extension=ts&play_token=kKv5j71CJN
 
 
-====CINEMACHI GROUP====
+=======================================================================================================================================CINEMACHI GROUP=======================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -4709,7 +4700,7 @@ https://punya.mammothtv.my.id/vision/cinemachi-xtra.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 
-====NHK WORLD====
+=======================================================================================================================================NHK WORLD=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="MOVIES INT",NHK WORLD JAPAN
 http://210.210.155.37/uq2663/h/h23/index.m3u8
@@ -4719,7 +4710,7 @@ http://watchlive.my.id/sa_dash_vmx/NHKWorldPremium.mpd
 
 
 
-====HBO MOVIES GROUP MAXSTREAM=====
+=======================================================================================================================================HBO MOVIES GROUP MAXSTREAM========================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="MOVIES MAX",HBO HD MAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4787,7 +4778,7 @@ http://watchlive.my.id/sa_dash_vmx/NHKWorldPremium.mpd
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
 
-====Hiburan====
+=======================================================================================================================================Hiburan=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg" group-title="Hiburan",Series Zone
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4988,7 +4979,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68582449a2e01825972ddc
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
 
 
-===Rekreasi===
+======================================================================================================================================Rekreasi======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="Rekreasi",Eat N Go
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5167,7 +5158,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456047
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456047dc34366/manifest.mpd
 
 
-====CARTOONS INDONESIA====
+=======================================================================================================================================CARTOONS INDONESIA=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq7DdfQS/ANGRY-BIRDS.png" group-title="CARTOONS INDONESIA", Angry Birds Toons
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298493
@@ -5242,7 +5233,6 @@ http://kuchini.site:8080/multi6741/ab72059e/298498
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298499
 http://kuchini.site:8080/multi6741/ab72059e/298499
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsqS9x3F/TOM-N-JERRY.jpg" group-title="CARTOONS INDONESIA",Tom And Jerry
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298500
 
@@ -5290,7 +5280,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
 http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 
 
-=====kids====
+========================================================================================================================================KIDS=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png/revision/latest?cb=20210422144418" group-title="KIDS", Baby TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5364,7 +5354,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f218
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqC4Bngv/CARTOON-TV-TAG-PREMIUM-removebg-preview.png" group-title="KIDS", Cartoon TV Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5443,14 +5432,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-====WARKOP DKI====
+=======================================================================================================================================WARKOP DKI=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSKC0Tj/WARKOP-DKI.jpg" group-title="WARKOP DKI", Warkop DKI
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298502
 http://kuchini.site:8080/multi6741/ab72059e/298502
 
 
-=====CARTOONS=====
+========================================================================================================================================CARTOONS========================================================================================================================================
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sfM1wSD6/SUPER-CARTOONS-removebg-preview.png" group-title="CARTOONS",Supertoons TV HD
@@ -5500,7 +5489,6 @@ https://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportico.com/wp-content/uploads/2019/10/nick-logo-200x200-2.png" group-title="CARTOONS", Nickelodeon
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png" group-title="CARTOONS",Nick Junior
@@ -5524,7 +5512,6 @@ http://37.48.101.149:5012/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="CARTOONS",Aniplus
 http://210.210.155.37/dr9445/h/h02/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="CARTOONS",Aniplus #1
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
@@ -5798,7 +5785,7 @@ https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 
 
-===NEWS===
+======================================================================================================================================NEWS======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3QDvZQg/AFRICA-NEWS.png" group-title="NEWS", Africanews
 https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
@@ -6047,7 +6034,7 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 
 
-====RELIGIUS====
+=======================================================================================================================================RELIGIUS=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="RELIGIUS", Sunnah Jalan Pasti TV
 https://h1.intechmedia.net/intech/ch17.m3u8
@@ -6236,7 +6223,7 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
 
 
-=============================================================================OUTDOOR===============================================================================================================
+=====================================================================================================OUTDOOR===============================================================================================================
 
 #EXTINF:-1 tvg-id="TheBoatShow.us" tvg-logo="https://i.imgur.com/qlhS2zw.png" group-title="Outdoor",The Boat Show (720p)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
@@ -6273,7 +6260,7 @@ http://91.233.215.250:7272/07pqiSOeAdHpghx
 
 
 
-===============================================================================KNOWLEDGE==================================================================================================
+=====================================================================================================KNOWLEDGE==============================================================================================================
 
 #EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-logo="https://i.postimg.cc/Fsds3vWq/biznet-adv-removebg-preview.png" group-title="KNOWLEDGE",Biznet Adventure 4K 
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -6291,7 +6278,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-==== THE PET COLLECTIVE====
+======================================================================================================================================= THE PET COLLECTIVE=======================================================================================================================================
 
 #EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="KNOWLEDGE",The Pet Collective HD
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
@@ -6306,7 +6293,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 
 
-====Digione====
+=======================================================================================================================================Digione=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="KNOWLEDGE", Digione
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
@@ -6318,7 +6305,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4c
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
 
 
-====Global Trekker====
+=======================================================================================================================================Global Trekker=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="KNOWLEDGE", Global Trekker
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
@@ -6410,7 +6397,7 @@ https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
-====Animal Planet====
+=======================================================================================================================================Animal Planet=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="KNOWLEDGE", Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -6434,9 +6421,8 @@ KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 
 
+=======================================================================================================================================Nasa TV=======================================================================================================================================
 
-
-====Nasa TV====
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="KNOWLEDGE", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
@@ -6469,7 +6455,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 
-====History====
+=======================================================================================================================================History=======================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -6503,6 +6489,9 @@ https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KNOWLEDGE",History #3
 #http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/162519.m3u8
 
+
+========================================================================================================================================HORSE TV==========================================================================================================================================
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="KNOWLEDGE", Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
@@ -6512,10 +6501,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-s
 #EXTINF:-1 tvg-id="HorseTV.it" tvg-logo="https://i.imgur.com/kRVSBtV.png" group-title="KNOWLEDGE",Horse TV
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/horsetv_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="SPORTS 1",Hipódromo de las Américas (480p) [Geo-blocked]
+http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 
 
-====Discovery Channels====
-
+=======================================================================================================================================Discovery Channels=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="KNOWLEDGE", Discovery Indonesia
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
@@ -6556,8 +6546,6 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/dash/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/dash/default.mpd
 
-
-
 #EXTINF:-1 tvg-id="discovery science" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/9XdfhVFx/discovery-SCIENCE-removebg-preview.png",DISCOVERY SCIENCE (CBM)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -6575,8 +6563,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/dash/default.mpd
 #https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
 
-
-=====National Geo====
+========================================================================================================================================National Geo=======================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -6614,7 +6601,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u
 
 
 
-===Pengetahuan===
+======================================================================================================================================Pengetahuan======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060a6dbbb40b8/e6ad4148d45148f189db13925065fa5b.jpg" group-title="Pengetahuan",HowTo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6713,9 +6700,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fb1
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fb1bd5435f/manifest.mpd
 
 
-
-
-====RADIOONLINE====
+=======================================================================================================================================RADIOONLINE=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO ONLINE", Smart FM Jakarta
 https://cast2.my-control-panel.com/proxy/radioso3/stream
@@ -6961,8 +6946,7 @@ http://astro1.rastream.com/hitz
 https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
 
 
-
-====MUSIC====
+=======================================================================================================================================MUSIC=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu8jWYK6KpRcvUISDt4i2G9Q_7nUDgJTCRYg&usqp=CAU" group-title="MUSIK", Mastii
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/PlayBoxTV/Masti_1/chunks.m3u8
@@ -7053,7 +7037,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
 
-====TVMALAYSIA====
+=======================================================================================================================================TVMALAYSIA=======================================================================================================================================
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest/scale-to-width-down/300?cb=20220902052331" group-title="TV MALAYSIA", Hypp Sensasi
@@ -7133,7 +7117,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5|Referer=htt
 
 
 
-====LIFESTYLE====
+=======================================================================================================================================LIFESTYLE=======================================================================================================================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -7310,7 +7294,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
 
 
 
-====TVDUNIA====
+=======================================================================================================================================TVDUNIA=======================================================================================================================================
 
 
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyM8QtMfUVG8H4zCGSEM-ESpQ2fYjsiWVCWw&usqp=CAU" group-title="TV DUNIA",Shenzhen TV
@@ -7525,7 +7509,7 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
 
 
-====ESPORTSGAME====
+=======================================================================================================================================ESPORTSGAME=======================================================================================================================================
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HyHepPukPWNtEFj5ilqF4bZ9d8ZwbCAzRw&usqp=CAU" group-title="ESPORT GAME", Roblox
@@ -7566,7 +7550,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff
 
 
 
-====TVKOREA====
+=======================================================================================================================================TVKOREA=======================================================================================================================================
 
 
 EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/grid/original/129500_pd-drama-terlibat-skandal-ini-penjelasan-pihak-mbc.jpg" group-title="TV KOREA", MBC Andong
@@ -7834,10 +7818,7 @@ http://210.210.155.37/dr9445/h/h20/index.m3u8
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 
 
-
-
-====TVJAPAN====
-
+=======================================================================================================================================TVJAPAN=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png" group-title="TV JAPAN", J SPORTS 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -7900,7 +7881,7 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 
-====TV VIETNAM====
+=======================================================================================================================================TV VIETNAM=======================================================================================================================================
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="TV VIETNAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1
 https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8
@@ -7939,7 +7920,7 @@ https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
 
 
-===== VIETNAM SCTV=====
+======================================================================================================================================== VIETNAM SCTV========================================================================================================================================
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png" group-title="TV VIETNAM", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -8098,7 +8079,7 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8|Referer=http://
 
 
 
-=====DRAKOR====
+========================================================================================================================================DRAKOR=======================================================================================================================================
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD5422GmFxX73_fcF3ApbDOYgfZ8VVOcvC1g&usqp=CAU" group-title="Drakor / Dracin", BAD PROSECUTOR (Episode 1)
@@ -8272,7 +8253,7 @@ https://www.googleapis.com/drive/v3/files/1ewyYbqZhLLm94wpySDWFraClSncW35eQ?alt=
 
 
 
-====VODFILMPREMIUM====
+=======================================================================================================================================VODFILMPREMIUM=======================================================================================================================================
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKEP691.jpg" group-title="VOD FILM PREMIUM", The Violence Action (2022)
@@ -8902,7 +8883,7 @@ https://v2.streamku.xyz/stream/360/z8p7xrae4FaUrq0/__001
 
 
 
-====VODFILMBARAT====
+=======================================================================================================================================VODFILMBARAT=======================================================================================================================================
 
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg" group-title="VOD Film Barat", Doctor Strange in The Multiverse of Madness 2022
@@ -9007,7 +8988,7 @@ https://s3.ap-southeast-1.wasabisys.com/cloud.dubbindo.xyz/upload/videos/2022/06
 
 
 
-====VODANIMASI====
+=======================================================================================================================================VODANIMASI=======================================================================================================================================
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6A8cV208UPInKfDdXGuWcWqNT5yurGWCAXA&usqp=CAU" group-title="VOD Animasi", Altered Carbon: Resleeved (2020)
@@ -9258,7 +9239,7 @@ https://cldup.com/umeprGE6CKg/PBahru.mp4
 
 
 
-=====VODFILMINDONESIA=====
+========================================================================================================================================VODFILMINDONESIA========================================================================================================================================
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yeXHDPTad5C1ekUznj0OWeFyBgD.jpg" group-title="VOD Film Indo", Makmum 2019
