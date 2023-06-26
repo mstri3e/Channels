@@ -3753,8 +3753,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522360_ico.png?ts=1655232857" group-title="MOVIES",ONE
-http://210.210.155.37/uq2663/h/h143/index.m3u8|User-Agent=Lavf/56.15.102
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="MOVIES",ONE HD
+https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="MOVIES",HBO Signature HD ( nyv )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4023,8 +4025,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="MOVIES",HBO HD ( Android 6 )
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/197972
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="MOVIES",HBO HD ( Android 6 )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/197972
 #http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3008
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="MOVIES",HBO Hits HD
@@ -4043,10 +4046,14 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="MOVIES",HBO Hits HD ( Android 6 )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/196480
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="MOVIES",HBO Hits HD ( Android 6 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/196480
+#http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/196480
 #http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3010
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="MOVIES",HBO Family
@@ -4065,8 +4072,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="MOVIES",HBO Family ( Android 6 )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/197055
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="MOVIES",HBO Family ( Android 6 )
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/197055
+#http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/197055
 #http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3011
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="MOVIES",HBO Signature
@@ -4085,8 +4096,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="MOVIES",HBO Signature ( Android 6 )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/221948
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="MOVIES",HBO Signature ( Android 6 )
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/221948
+#http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/221948
 #http://mantra.vwoev.opdns.net:25461/home_smile_lokal/Wdk8VzyYTG/3009
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4328,6 +4343,9 @@ http://173.225.246.25:8889/udp/239.203.20.4:4003
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/jv/c/c0/FOX_Movies_Premium_Asia.png" group-title="MOVIES INT",FOX MOVIES
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522360_ico.png?ts=1655232857" group-title="MOVIES INT",ONE
+http://210.210.155.37/uq2663/h/h143/index.m3u8|User-Agent=Lavf/56.15.102
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
