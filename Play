@@ -836,6 +836,46 @@ http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2327
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 
+========================================================================================================================================HORSE TV==========================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="HORSE TV",Racing.com HORSE TV ( 720 )
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#http://kuchini.site:8080/multi6741/ab72059e/731
+#http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/731
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="HORSE TV",Racing.com HORSE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index268.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/501ZsjPd/Dxb-Racing-C-1417x591-removebg-preview.png" group-title="HORSE TV",Dubai Racing HORSE TV
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-g5kxWrkTxzg/WxHWbSiaaQI/AAAAAAAATjE/N7pEyjlZmQYiw_J0ZdCZLYdZz-jLlopCQCLcBGAs/s1600/dubai_ae_racing_2.png" group-title="HORSE TV",Dubai Racing 2 HORSE TV
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.94061278628a654e847a7adeb899771d?rik=hWB2hA%2fKPP1IIw&riu=http%3a%2f%2fadmango.cdn.mangomolo.com%2fanalytics%2fuploads%2f71%2f5bfea86c98.png&ehk=UeMSkBMPWZGs6eNCXGf29qYjq7AlUiMnO%2bsRvi4bNbs%3d&risl=&pid=ImgRaw&r=0" group-title="HORSE TV",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="HORSE TV", Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="HORSE TV",Horse and Country Free
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseTV.it" tvg-logo="https://i.imgur.com/kRVSBtV.png" group-title="HORSE TV",Horse TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="HORSE TV",Hipódromo de las Américas (480p) [Geo-blocked]
+http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KonniyMir.ru" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="HORSE TV",HORSE KOHHнный Мир (576p) [Geo-blocked]
+http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yas.ae" tvg-logo="https://i.imgur.com/bvAAXLW.png" group-title="HORSE TV",YAS HORSE (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+
+
 =================================================================================================================ABU DHABI DUBAI==================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="ABU DHABI SPORTS", ABU DHABI SPORTS 1
@@ -6483,42 +6523,6 @@ https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KNOWLEDGE",History #3
 #http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/162519.m3u8
-
-
-========================================================================================================================================HORSE TV==========================================================================================================================================
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="HORSE TV",Racing.com TV ( 720 )
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#http://kuchini.site:8080/multi6741/ab72059e/731
-#http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/731
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="HORSE TV",Racing.com TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index268.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/501ZsjPd/Dxb-Racing-C-1417x591-removebg-preview.png" group-title="HORSE TV",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-g5kxWrkTxzg/WxHWbSiaaQI/AAAAAAAATjE/N7pEyjlZmQYiw_J0ZdCZLYdZz-jLlopCQCLcBGAs/s1600/dubai_ae_racing_2.png" group-title="HORSE TV",Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.94061278628a654e847a7adeb899771d?rik=hWB2hA%2fKPP1IIw&riu=http%3a%2f%2fadmango.cdn.mangomolo.com%2fanalytics%2fuploads%2f71%2f5bfea86c98.png&ehk=UeMSkBMPWZGs6eNCXGf29qYjq7AlUiMnO%2bsRvi4bNbs%3d&risl=&pid=ImgRaw&r=0" group-title="HORSE TV",Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="HORSE TV", Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="HORSE TV",Horse and Country Free
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HorseTV.it" tvg-logo="https://i.imgur.com/kRVSBtV.png" group-title="HORSE TV",Horse TV
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/horsetv_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="HORSE TV",Hipódromo de las Américas (480p) [Geo-blocked]
-http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KonniyMir.ru" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="HORSE TV",HORSE KOHHнный Мир (576p) [Geo-blocked]
-http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
 
 
 =======================================================================================================================================Discovery Channels=======================================================================================================================================
