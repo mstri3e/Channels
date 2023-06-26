@@ -667,7 +667,6 @@ https://webudit.cdnhks.lol/lb/premium60/index.m3u8?|referer=https://widevine.lic
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Live Formula 1 (F1)",Dazn F1 ES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1672
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104702
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Live Formula 1 (F1)",Dazn F1 ES FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -811,7 +810,12 @@ https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSurfGermany.de" tvg-logo="https://i.imgur.com/xB6mLeg.png" group-title="RACING TV",Surf Pluto TV (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV", UK | Sky Sports Racing HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV",Sky Sports Racing HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium554/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV", UK | Sky Sports Racing
 http://kuchini.site:8080/multi6741/ab72059e/163132
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPTGhkrX/SKY-1-removebg-preview.png" group-title="RACING TV", AU | SKY Racing 1 HD
