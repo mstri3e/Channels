@@ -797,11 +797,6 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="RACING TV", UK | Racing.com TV ( 720 )
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#http://kuchini.site:8080/multi6741/ab72059e/731
-#http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/731
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBL0pCCp/ski-tv-removebg-preview.png" group-title="RACING TV",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
 
@@ -6491,6 +6486,11 @@ https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 
 
 ========================================================================================================================================HORSE TV==========================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="HORSE TV",Racing.com TV ( 720 )
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#http://kuchini.site:8080/multi6741/ab72059e/731
+#http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/731
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="HORSE TV",Racing.com TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
