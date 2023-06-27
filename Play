@@ -380,6 +380,39 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 #EXTINF:-1 tvg-id="VTV.id" tvg-name= "VTV" tvg-logo="https://i.postimg.cc/rwGGNBXM/VTV-Indonesia-2023.png" group-title="TV NASIONAL INDONESIA",VTV HD
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi I (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi III (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi IV (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi IX (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi V (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi VI (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi VII (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi VIII (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi X (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen Komisi XI (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
+
 
 ==================================================================================DAERAH================================================================================================
 
@@ -652,6 +685,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="TV NASIONAL DAERAH", TVRI Kaltim
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.com
+
+
 
 
 ================================================================================================================Live ( Formula 1 )=================================================================================================================
@@ -1411,6 +1446,19 @@ http://kuchini.site:8080/multi6741/ab72059e/298528
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 http://kuchini.site:8080/multi6741/ab72059e/298529
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="MOVIES",Etv Bioskop HD
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298526
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="MOVIES",Etv Bioskop  HD 02
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298527
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="MOVIES",Etv Bioskop HD 03
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298528
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="MOVIES",Etv Bioskop HD 04
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298529
+
 
 
 ====================================================================================================================================GEM====================================================================================================================================
@@ -5259,12 +5307,10 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.maxtvs.net/admin/img/channel/fbd5e104dfb5e868621a.png" group-title="ABU DHABI SPORTS", ABU DHABI SPORTS 3
-http://ky-iptv.com:80/bruno123/bruno321/1101107.ts
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.maxtvs.net/admin/img/channel/fbd5e104dfb5e868621a.png" group-title="ABU DHABI SPORTS", ABU DHABI SPORTS 4
-http://ky-iptv.com:80/bruno123/bruno321/1101108.ts
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="ABU DHABI SPORTS",BALAP
@@ -5419,6 +5465,12 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/48310
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/dazn-linear
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png" group-title="SPORTS",LFC televisi
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png" group-title="CLUB TV",LFC televisi HD
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
@@ -5993,12 +6045,11 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 ======================================================================================================MOVISTAR=============================================================================================================
 
 #EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: M. Formula 1 FHD" tvg-logo="http://181.233.124.38:80/images/2576dbdce64fb7cfa8459628edfd89a2.png" group-title="MOVISTAR",Movistar Formula 1 FHD
-http://ky-iptv.com:80/bruno123/bruno321/219546.ts
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/1672
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar. svg.png" group-title="MOVISTAR",Movistar La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-http://ky-iptv.com:80/bruno123/bruno321/219559.ts
 https://webudit.cdnhks.lol/lb/premium84/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar. svg.png" group-title="MOVISTAR",Movistar Vamos
@@ -7741,7 +7792,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68571b3914b01720e7ff43
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="SPORTS 1",Channel Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://ky-iptv.com:80/bruno123/bruno321/219062.ts
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/26575
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="SPORTS 1",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
