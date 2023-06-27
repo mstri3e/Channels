@@ -5940,43 +5940,29 @@ http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2327
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium820/index.m3u8|referer=https://widevine.licenses4.me/
 
-
-#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 501" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="Australia",AU: Fox Sports 501
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/279034
-#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 502" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="Australia",AU: Fox Sports 502
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/81784
-#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 503" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="Australia",AU: Fox Sports 503
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/280192
-#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 504" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="Australia",AU: Fox Sports 504
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/280193
-#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 505" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="Australia",AU: Fox Sports 505
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/144772
-#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 506" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="Australia",AU: Fox Sports 506
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/279033
-#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 507" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="Australia",AU: Fox Sports 507
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/280194
-
 #EXTINF:-1 tvg-id="13280" tvg-name="" tvg-logo="https://i.imgur.com/TEeNNRn.png" group-title="FOX SPORTS",FOX SPORTS FOOTY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium822/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="13185" tvg-name="" tvg-logo="https://i.imgur.com/4y6VYOa.png" group-title="FOX SPORTS",FOX SPORTS 501
+#EXTINF:-1 tvg-id="13185" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="FOX SPORTS",FOX SPORTS 501
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium819/index.m3u8|referer=https://widevine.licenses4.me/
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/279034
+#https://webudit.cdnhks.lol/lb/premium819/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="13185" tvg-name="" tvg-logo="https://i.imgur.com/4y6VYOa.png" group-title="FOX SPORTS",FOX SPORTS 502
+#EXTINF:-1 tvg-id="13185" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="FOX SPORTS",FOX SPORTS 502
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium820/index.m3u8|referer=https://widevine.licenses4.me/
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/81784
+#https://webudit.cdnhks.lol/lb/premium820/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="13185" tvg-name="" tvg-logo="https://i.imgur.com/4y6VYOa.png" group-title="FOX SPORTS",FOX SPORTS 503
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium821/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="13185" tvg-name="" tvg-logo="https://i.imgur.com/4y6VYOa.png" group-title="FOX SPORTS",FOX SPORTS 504
+#EXTINF:-1 tvg-id="13185" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="FOX SPORTS",FOX SPORTS 504
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium822/index.m3u8|referer=https://widevine.licenses4.me/
@@ -5991,10 +5977,11 @@ https://webudit.cdnhks.lol/lb/premium823/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium824/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="13185" tvg-name="" tvg-logo="https://i.imgur.com/4y6VYOa.png" group-title="FOX SPORTS",FOX SPORTS 507
+#EXTINF:-1 tvg-id="13185" tvg-name="" tvg-logo="https://i.postimg.cc/k5wJGLmc/fox-507-removebg-preview.png" group-title="FOX SPORTS",FOX SPORTS 507
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium825/index.m3u8|referer=https://widevine.licenses4.me/
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/280194
 
 #EXTINF:-1 tvg-id="fs1" tvg-name="" tvg-logo="https://i.imgur.com/sbtmPHT.png" group-title="FOX SPORTS",FOX CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
