@@ -6035,7 +6035,7 @@ http://watchlive.my.id/hls/main.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpySvChZ/impact.jpg" group-title="FIGHT SPORTS",WWE IMPACT! Wrestling
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/640px-Impact_Wrestling_Logo.svg.png" group-title="FIGHT SPORTS",WWE IMPACT! Wrestling
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="FIGHT SPORTS",WWE IMPACT! Wrestling
