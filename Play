@@ -1952,15 +1952,15 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 
 =======================================================================================================================================HBO MOVIES GROUP LUAR =======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvkj5B6T/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T173346-082.png" group-title="MOVIES INTERNATIONALERNATIONAL",&Pictures HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvkj5B6T/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T173346-082.png" group-title="MOVIES INTERNATIONAL",&Pictures HD
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/16958
 https://toffee-v2.sabbirhasan.trial.rocks/auto/and_picture_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT8qq0qt/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T221241-293.png" group-title="MOVIES INTERNATIONALERNATIONAL",&Prive
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT8qq0qt/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T221241-293.png" group-title="MOVIES INTERNATIONAL",&Prive
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/49557
 https://raw.githubusercontent.com/thefirefox12537/streams/master/endpriv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzr2t9tR/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T221140-346.png" group-title="MMOVIES INTERNATIONALERNATIONAL",&Flix
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzr2t9tR/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T221140-346.png" group-title="MMOVIES INTERNATIONAL",&Flix
 https://raw.githubusercontent.com/thefirefox12537/streams/master/endfliks.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="MOVIES INTERNATIONAL",HBO HD (Luarr)
@@ -2916,7 +2916,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/USAJ3504531A_20210525T051610.png" group-title="CARTOONS INTERNATIONAL",MinecrafTV
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device Lon=0&deviceDNT= %7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/USBB90000726_20220125T050031.png" group-title="CARTOONS",PBS KIDS
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/USBB90000726_20220125T050031.png" group-title="CARTOONS INTERNATIONAL",PBS KIDS
 https://d3afonbm0qxmbc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-elbbbj7vf6xsf-prod/est.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Teletubbies_Logo.png/220px-Teletubbies_Logo.png" group-title="CARTOONS INTERNATIONAL",Teletubbies TV
