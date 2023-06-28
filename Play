@@ -2670,7 +2670,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/piimages/logo_animax_big.png?v=1" group-title="CARTOONS INTERNATIONAL",Animax #1
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 group-title="CARTOONS" tvg-logo="https://www.useetv.com/piimages/logo_animax_big.png?v=1" group-title="CARTOONS INTERNATIONAL",Animax Jepang
+#EXTINF:-1 tvg-logo="https://www.useetv.com/piimages/logo_animax_big.png?v=1" group-title="CARTOONS INTERNATIONAL",Animax Jepang
 https://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
