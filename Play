@@ -5858,17 +5858,17 @@ https://webudit.cdnhks.lol/lb/premium426/index.m3u8?
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium427/index.m3u8?
 
-#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-name="DAZN 1 Spain" tvg-logo="https://dl.dropboxusercontent.com/s/mp07njrlu3i4aei/dazn2.png" group-title="SPORTS",DAZN 1 Spain
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-name="DAZN 1 Spain" tvg-logo="https://dl.dropboxusercontent.com/s/mp07njrlu3i4aei/dazn2.png" group-title="DAZN",DAZN 1 Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium445/index.m3u8?
 
-#EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-name="DAZN 2 Spain" tvg-logo="https://dl.dropboxusercontent.com/s/mp07njrlu3i4aei/dazn2.png" group-title="SPORTS",DAZN 2 Spain
+#EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-name="DAZN 2 Spain" tvg-logo="https://dl.dropboxusercontent.com/s/mp07njrlu3i4aei/dazn2.png" group-title="DAZN",DAZN 2 Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium446/index.m3u8?
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/mp07njrlu3i4aei/dazn2.png" group-title="SPORTS",DAZN La Liga HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/mp07njrlu3i4aei/dazn2.png" group-title="DAZN",DAZN La Liga HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium538/index.m3u8?
