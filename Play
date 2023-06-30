@@ -5543,6 +5543,19 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 
 =================================================================================================================ARENA PREMIUM SPORTS======================================================================================================
 
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
+https://malingpunya.mammothtv.workers.dev/dash-wv/linear/2604/default_ott.mpd
+#https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+https://malingpunya.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
+#https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
+
+
 #EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="ARENA PREMIUM SPORTS",Arena Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -5749,14 +5762,14 @@ http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-https://daddyhd.mammothtv.workers.dev/dash-wv/linear/408/default_primary.mpd
-#http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/157561
+https://astro.kutubusuk.workers.dev/dash-wv/linear/408/default_primary.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/157561
 
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="beIN Sports", beIN Sports Malaysia 2
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="beIN Sports", beIN Sports Malaysia 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2705/default_primary.mpd
+https://astro.kutubusuk.workers.dev/dash-wv/linear/2705/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beINSports1Thailand.th" tvg-name="beIN Sports 1 Thailand" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="beIN Sports",beIN Sports Thailand 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -7595,17 +7608,17 @@ https://webudit.cdnhks.lol/lb/premium48/index.m3u8?|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium73/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport France" tvg-logo="https://dl.dropboxusercontent.com/s/cuqmceeumh8dm11/canal%2B.png" group-title="SPORTS",Canal+ Sport
+#EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium122/index.m3u8?
 
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360" tvg-logo="https://dl.dropboxusercontent.com/s/cuqmceeumh8dm11/canal%2B.png" group-title="SPORTS",Canal+ Sport 360
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sports 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium464/index.m3u8?
 
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://dl.dropboxusercontent.com/s/cuqmceeumh8dm11/canal%2B.png" group-title="SPORTS",Canal+ Foot
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Foot
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium463/index.m3u8?
