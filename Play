@@ -1138,6 +1138,9 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Monster-Jam-Logo.png" group-title="RACING TV",Monster Jam
 http://103.152.118.53:80/streams/yt/by-name/MonsterJam/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcTZMLX/image.png" group-title="RACING TV", Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my
+
 ========================================================================================================================================ANIMAL SPORTS==========================================================================================================================================
 
 #EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="ANIMAL SPORTS",BEK TV Sports West 
