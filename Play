@@ -2433,6 +2433,15 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.m3u8
 
+#EXTINF:-1 tvg-id="IndiKids.us" tvg-logo="https://i.postimg.cc/d3kx5hrq/SSN-TIVI-2-14.png" group-title="KIDS" ,INDI KIDS
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298539
+
+#EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://i.postimg.cc/Ls0K5SGG/SSN-TIVI-2-5.png" group-title="KIDS",HOREE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+
+#EXTINF:-1 tvg-id="HipHipHoree.id" tvg-logo="https://i.postimg.cc/qBCGLJR5/20221026-010229.png" group-title="KIDS",Hip-Hip Horee
+http://beetv.my.id/x/vidio-hiphiphoree-gojokkk.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS", Nick Junior
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
