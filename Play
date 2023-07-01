@@ -1080,7 +1080,7 @@ https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="RACING TV",Motor Racing TV 
-http://210.210.155.37/uq2663/h/h223/index.m3u8
+#http://210.210.155.37/uq2663/h/h223/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1088,6 +1088,14 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD 1
@@ -1099,13 +1107,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be
 #http://210.210.155.37/uq2663/h/h223/index.m3u8
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBL0pCCp/ski-tv-removebg-preview.png" group-title="RACING TV",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
@@ -1121,8 +1122,13 @@ https://webudit.cdnhks.lol/lb/premium554/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV",Sky Sports Racing
 http://kuchini.site:8080/multi6741/ab72059e/163132
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="RACING TV",ZIGGO Racing HD
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="RACING TV",ZIGGO Sport Racing HD 1
 http://kuchini.site:8080/multi6741/ab72059e/4515
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="ZIGGO SPORT",ZIGGO Sport Racing HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.cdnhks.lol/lb/premium396/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="RACING TV",Edge Sports ( Set Res )
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
@@ -5643,17 +5649,25 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 
 =================================================================================================================ARENA PREMIUM SPORTS======================================================================================================
 
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 https://malingpunya.mammothtv.workers.dev/dash-wv/linear/2604/default_ott.mpd
-#https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena 2
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="SPORT PREMIUM" ,Astro Arena HD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
+https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="SPORT PREMIUM" ,Astro Arena 2 HD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 https://malingpunya.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
-#https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="ARENA PREMIUM SPORTS",Arena Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -6831,13 +6845,13 @@ https://code.vthanhtivi.pw/getlink/cliptv/on-sports/chunklist_b5128000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
+#https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtvcab6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" group-title="SPORTS VIETNAM",ON Sports+ | 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsplus
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
+#https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" group-title="SPORTS VIETNAM", ON Sports Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -6848,7 +6862,7 @@ https://code.vthanhtivi.pw/getlink/cliptv/on-football/chunklist_b5128000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onfootball
-https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
+#https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtvcab23hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" group-title="SPORTS VIETNAM", ON Sports Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -6858,7 +6872,7 @@ https://code.vthanhtivi.pw/getlink/cliptv/on-golf/chunklist_b5128000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-ongolfeng1
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONGOLFTA/manifest.mpd
+#https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONGOLFTA/manifest.mpd
 
 #EXTINF:-1 tvg-id="btv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png" group-title="SPORTS VIETNAM",ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
@@ -6867,13 +6881,13 @@ https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportseng1
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORTTA/manifest.mpd
+#https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORTTA/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/f6818e24-6211-42c5-aad5-4846dd29ee99.png" group-title="SPORTS VIETNAM", ON Sports Football ENG
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onfootballeng1
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONFOOTBALLTA/manifest.mpd
+#https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONFOOTBALLTA/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://livean.yhvserve.com:9083/query/s/tO9COl46v4MdIi1NdbzL0A==.jpg?type=live&thumbnail=thumbnail_small.jpg" group-title="SPORTS VIETNAM", GAORA SPORTS  
 http://code.vthanhtivi.pw/getlink/jptv1/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
