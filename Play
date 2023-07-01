@@ -378,7 +378,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="IndonesiaChannel.id" tvg-name= "IndonesiaChannel" tvg-logo="https://i.postimg.cc/JzQ6zDhN/INDONESIA-CHANNEL.png" group-title="TV NASIONAL INDONESIA",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV.id" tvg-name= "VTV" tvg-logo="https://i.postimg.cc/rwGGNBXM/VTV-Indonesia-2023.png" group-title="TV NASIONAL INDONESIA",VTV HD
+#EXTINF:-1 tvg-id="VTV.id" tvg-name= "VTV" tvg-logo="https://i.postimg.cc/rwGGNBXM/VTV-Indonesia-2023.png" group-title="TV NASIONAL INDONESIA",VTV ( VIVA TV ) HD
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="TV NASIONAL INDONESIA",TVR Parlemen (720p) [Not 24/7]
@@ -1048,8 +1048,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be
 https://webudit.cdnhks.lol/lb/premium31/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-ID="unifysport1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848" group-title="Live UFC",UNIFY SPORT1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HBvcO3.png" group-title="Live UFC"",Sony Ten 2
@@ -1137,6 +1135,8 @@ http://kuchini.site:8080/multi6741/ab72059e/2327
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw7W7_ONOQ6-4Cvl0ZFBncBmh7DrlTCajqPQ&usqp=CAU" group-title="RACING TV",MAVTV 
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Monster-Jam-Logo.png" group-title="RACING TV",Monster Jam
+http://103.152.118.53:80/streams/yt/by-name/MonsterJam/index.m3u8
 
 ========================================================================================================================================ANIMAL SPORTS==========================================================================================================================================
 
@@ -2376,6 +2376,8 @@ http://watchlive.my.id/sa_dash_vmx/NHKWorldPremium.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
+#EXTINF:-1 group-title="KIDS" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
+http://103.152.118.53:80/streams/mentari/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846166f4d93e5e/8e60b38dbec04327b6a595877c1e94b3.jpg" group-title="KIDS",Cartoon TV Classics
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3284,8 +3286,13 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/globaltrekker.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cNoIHK7I0ntDdjOXAGKllGnGjI5IslgIxA&usqp=CAU" group-title="KNOWLEDGE", DidikTV KPM
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+#EXTINF:-1 tvg-id="ntv7.my" tvg-logo="https://didik.tv/images/logotv2.png" group-title="KNOWLEDGE",Didik TV KPM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+
+#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="KNOWLEDGE", DidikTV KPM
+#https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="KNOWLEDGE", Russia Today Documentary English
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
@@ -4441,17 +4448,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="TV MALAYSIA", Selangor TV
 https://skyios.sky4k.top/S1G_010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header-bak.png" group-title="TV MALAYSIA", TV IKIM
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HSKsXjGPzYw/YJZyXu0hPtI/AAAAAAAAEyA/hvYo0sy9zR0wAqE1-B0KUzi5HZwNwwETgCLcBGAsYHQ/s720/ikim-p.png" group-title="TV MALAYSIA", TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png" group-title="TV MALAYSIA", DidikTV KPM
+
+#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="TV MALAYSIA", DidikTV KPM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png" group-title="TV MALAYSIA", 8TV
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png" group-title="TV MALAYSIA", TV9
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="TV MALAYSIA", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -4472,26 +4476,39 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571257&exten
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="TV MALAYSIA", Astro Rania
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571256&extension=ts&play_token=GcQdZc78Vt
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png" group-title="TV MALAYSIA", OKEY
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1O5co36K2EY/YJZyY1iNgvI/AAAAAAAAEyw/o07C4f2zt5YP74bR4OxTpPCnkBJYQCpOACPcBGAYYCw/s720/okey-p.png" group-title="TV MALAYSIA", OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1296000_slENG.m3u8?id=3|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcTZMLX/image.png" group-title="TV MALAYSIA", Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gqE80UqUOfk/YJZyaL9VUwI/AAAAAAAAEyc/XuL4bCragCw7Tv21MljHT8-Q4R312DcwQCLcBGAsYHQ/s720/tv1-p%2B.png" group-title="TV MALAYSIA", TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nOyvZBs2M0M/YJZybbH0_II/AAAAAAAAEyg/By_ImTa9J-IYl7HO2Gao7tBs7lX_kKxKwCLcBGAsYHQ/s720/tv2-p.png" group-title="TV MALAYSIA", TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7410ppwLv2Y/YJZybaRIr6I/AAAAAAAAEyk/shxOUXe0af85p9boxM7fpcEOCypKEBGrwCLcBGAsYHQ/s720/tv3-p.png" group-title="TV MALAYSIA", TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vHcWdsP/image.png" group-title="TV MALAYSIA", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png" group-title="TV MALAYSIA", TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rks53xDizjs/YJZyTkhe8JI/AAAAAAAAExQ/ERtk2kveQdcO7kFHl7Y6Gbz7ySeZJOMJgCLcBGAsYHQ/s720/8tv-p.png" group-title="TV MALAYSIA", TV8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png" group-title="TV MALAYSIA", TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png" group-title="TV MALAYSIA", TV3
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TaBsKG-Hy8o/YJZybu0aK6I/AAAAAAAAEyo/PQq0mODa1zALTiwD7myVAGb1WQ-8haC3ACLcBGAsYHQ/s720/tv9-p.png" group-title="TV MALAYSIA", TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" group-title="TV MALAYSIA", Drama Sangat
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+https://bystream.my.id/my/dramasangat.m3u8
+#https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198648103" group-title="TV MALAYSIA", TV Alhijrah
 https://live.mana2.my/TVAH/index.m3u8?organizationId=196288014&suiteItemId=196291301
@@ -4504,6 +4521,20 @@ https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=20
 
 #EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="TV MALAYSIA", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxY_PWEaYrFu5LfLjNI6AADufAIEOl-j6_kQsILxBH171YNzFgPshB7DmnnOKatO2HIW1_gSJ430fBzmyfxpM5m8A22HD3GX-PjrWTSQo5AXGxH2EQSqv0dHyIgnhXATVtSrmvVBGVZOpfQ8EjoDtrV0Fli0P0-Hj3WrqwjiQlsjvYLmxCPGkfKknK/s720/RTBGo.png" group-title="TV MALAYSIA",RTB Go 1
+https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxY_PWEaYrFu5LfLjNI6AADufAIEOl-j6_kQsILxBH171YNzFgPshB7DmnnOKatO2HIW1_gSJ430fBzmyfxpM5m8A22HD3GX-PjrWTSQo5AXGxH2EQSqv0dHyIgnhXATVtSrmvVBGVZOpfQ8EjoDtrV0Fli0P0-Hj3WrqwjiQlsjvYLmxCPGkfKknK/s720/RTBGo.png" group-title="TV MALAYSIA",RTB Go 2
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjcOb_uhCmYOX-98_K6KW5e2kbN0t4Nv7GfFzRX0QVBoULOGTUlWlAIKnRAbpu-7mwceKS3LcwMd9u099cdcKXhRWUUXDiVWfEsr8Il575lh6Jh1u57DFO2VarLcPHNhbLEXiRfOjgo3Sko4rIhzaEIZBj6_UwT0d9Ixr8Rizyj1zDQff4bqH0JDblD=s720" , Suria 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#EXTINF:-1 group-title="TV MALAYSIA" tvg-logo="https://1.bp.blogspot.com/-fQgaeJtm5ro/YauUAq5M_rI/AAAAAAAAILA/yryfWMlF2L4OgifiK5Z0q1i9ABMjf_o3wCNcBGAsYHQ/s720/awesome-p.png" , Awesome TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 
 =======================================================================================================================================TVKOREA=======================================================================================================================================
@@ -5812,16 +5843,31 @@ http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="beIN Sports", beIN Sports Malaysia 1
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="beIN Sports", beIN Sports Malaysia 1 OTT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 https://astro.kutubusuk.workers.dev/dash-wv/linear/408/default_primary.mpd
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/157561
 
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="beIN Sports", beIN Sports Malaysia 3
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="beIN Sports", beIN Sports Malaysia 3 OTT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
 https://astro.kutubusuk.workers.dev/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1  tvg-id="beinsports1.my" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="beIN Sports",beIN Sports Malaysia 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=beinmlayu_1
+http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/408/default.mpd
+
+#EXTINF:-1 tvg-id="beinsports2.my" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png" group-title="beIN Sports",beIN Sports Malaysia 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=beinmlayu_2
+http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/5066/default.mpd
+
+#EXTINF:-1 tvg-id="beinsports3.my" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png" group-title="beIN Sports",beIN Sports Malaysia 3 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=beinmlayu_3
+http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 tvg-id="beINSports1Thailand.th" tvg-name="beIN Sports 1 Thailand" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="beIN Sports",beIN Sports Thailand 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -7885,6 +7931,9 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
 #http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcTZMLX/image.png" group-title="SPORTS 1", Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYj3yr3G72EE29go6WEE_x1dRfYTjelnH9A&usqp=CAU" group-title="SPORTS 1",TVN Sports
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 
@@ -7899,6 +7948,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3
 
 #EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="SPORTS 1",CCTV 5 HD
 https://node2.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
+
+#EXTINF:-1 tvg-id="cctv5.cn" tvg-logo="https://i.imgur.com/63sFr5t.png" group-title="SPORTS 1",CCTV-5
+http://103.152.118.53:80/streams/ceceteve/cctv-5/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus.cn" tvg-logo="https://i.imgur.com/HWCJLJP.png" group-title="SPORTS 1",CCTV-5 Plus
+http://103.152.118.53:80/streams/ceceteve/cctv-5-plus/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV-16奥林匹克频道" tvg-logo="https://i.imgur.com/LrUdjie.png" group-title="SPORTS 1",CCTV-16
+http://103.152.118.53:80/streams/ceceteve/cctv-16/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/yypex32z12hppoc/combate.png" group-title="SPORTS 1",COMBATE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
