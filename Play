@@ -1337,6 +1337,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27.mpd
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="MOVIES",Flik
 https://beetv.my.id/x/usee-flik-gojokkk.m3u8
 
+#EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="MOVIES",Flik KCH
+http://kuchini.site:8080/multi6741/ab72059e/165095
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ZuDqYL.png" group-title="MOVIES", Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
