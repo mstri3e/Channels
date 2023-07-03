@@ -1164,6 +1164,9 @@ http://103.152.118.53:80/streams/yt/by-name/MonsterJam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcTZMLX/image.png" group-title="RACING TV", Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzCBgm5h/MOTORSPORT-removebg-preview.png" group-title="RACING TV",Motorrsports 1 TV
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
+
 ========================================================================================================================================ANIMAL SPORTS==========================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="ANIMAL SPORTS",BALAP HD 1
@@ -1982,6 +1985,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 =======================================================================================================================================STAR MOVIES=======================================================================================================================================
 
+#EXTINF:-1 tvg-id="Baywatch.us tvg-logo="https://i.postimg.cc/pLPGdBTY/baywatch-removebg-preview.png" group-title="MOVIES INTERNATIONAL", BAYWATCH HD
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FearFactor.us" tvg-logo="https://i.postimg.cc/5tVxyTzK/FEAR.png" group-title="MOVIES INTERNATIONAL",FEAR FACTOR HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=588128d17d64bc0d0f385c34&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=301&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="MOVIES INTERNATIONAL",DEAL OR NO DEAL (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png" group-title="MOVIES INTERNATIONAL",STAR MOVIES
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/280254
 #http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
@@ -1999,6 +2011,7 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=155729&extension=
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932" group-title="MOVIES INTERNATIONAL",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tFyWVZQ7q6hQ2vBVhtL9tq1rBp1e-f2LFYaPeyhhfoTtpT8B4KUgYlpSti4d86V6u-g" group-title="MOVIES INTERNATIONAL",The Movie Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
@@ -2136,7 +2149,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
-
 
 =======================================================================================================================================GOLDEN MOVIES=======================================================================================================================================
 
@@ -2769,6 +2781,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456010
 
 ========================================================================================================================================CARTOONS INTERNATIONAL========================================================================================================================================
 
+#EXTINF:-1 tvg-id="DuckTV.sk tvg-logo="https://i.postimg.cc/rpsDfHVp/DUCK-removebg-preview.png" group-title="CARTOONS INTERNATIONAL",Duck TV
+https://mmm-ducktv-4-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sfM1wSD6/SUPER-CARTOONS-removebg-preview.png" group-title="CARTOONS INTERNATIONAL",Supertoons TV HD
 https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
