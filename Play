@@ -1935,19 +1935,14 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-id="zeecinemahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="MOVIES",ZEE CINEMA HD VISION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#https://nyanv-live-cdn.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
-
 #EXTINF:-1 tvg-id="zeecinemahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="MOVIES",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=zisinema
 http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/5106/default.mpd
 
-#EXTINF:-1 tvg-id="zeecinemahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="MOVIES",Zee Cinema A
+#EXTINF:-1 tvg-id="zeecinemahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="MOVIES",Zee Cinema Ast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5106/
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/5106
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1655232909" group-title="MOVIES",ZEE BIOSKOP HD HD
@@ -4601,29 +4596,29 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=katrokprima
 http://103.152.118.53:80/streams/astro/dash-staging/dash-wv/linear/1000/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LPvQ65Q/Boo-hometv.jpg" group-title="TV MALAYSIA",ASTRO BOO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2407/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPvQ65Q/Boo-hometv.jpg" group-title="TV MALAYSIA",ASTRO BOO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2407
 http://watchlive.my.id/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJPS7zC/Abo-hometv.jpg" group-title="TV MALAYSIA",ASTRO BOX OFFICE HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2109
 https://1.yurend.xyz/dash-wv/linear/2109/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8zzztb/Colors-hometv.jpg" group-title="TV MALAYSIA",COLORS HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2101
 http://1.yurend.xyz/dash-wv/linear/2101/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0VmD8S/Quan-jia-hometv.jpg" group-title="TV MALAYSIA",ASTRO QUAN JIA HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2507
 http://1.yurend.xyz/dash-wv/linear/2507/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDNCcX9/Xiao-tai-yang-hometv.jpg" group-title="TV MALAYSIA", ASTRO XIAO TAI YANG HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2711
 http://1.yurend.xyz/dash-wv/linear/2711/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GspyP2P/Aod-hometv.jpg" group-title="TV MALAYSIA",ASTRO A0D HD
