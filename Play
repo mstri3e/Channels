@@ -4590,7 +4590,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LPvQ65Q/Boo-hometv.jpg" group-title="TV MALAYSIA",ASTRO BOO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
 
@@ -4600,7 +4600,7 @@ https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
 https://1.yurend.xyz/dash-wv/linear/2109/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8zzztb/Colors-hometv.jpg" group-title="TV MALAYSIA",COLORS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
 http://1.yurend.xyz/dash-wv/linear/2101/default_primary.mpd
 
@@ -4615,7 +4615,7 @@ http://watchlive.my.id/dash-wv/linear/2706/default_primary.mpd
 https://1.yurend.xyz/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0VmD8S/Quan-jia-hometv.jpg" group-title="TV MALAYSIA",ASTRO QUAN JIA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
 http://1.yurend.xyz/dash-wv/linear/2507/default_primary.mpd
 
@@ -4630,7 +4630,7 @@ http://1.yurend.xyz/dash-wv/linear/609/default_primary.mpd
 http://1.yurend.xyz/dash-wv/linear/608/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDNCcX9/Xiao-tai-yang-hometv.jpg" group-title="TV MALAYSIA", ASTRO XIAO TAI YANG HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
 http://1.yurend.xyz/dash-wv/linear/2711/default_primary.mpd
 
