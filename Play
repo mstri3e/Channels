@@ -1370,25 +1370,25 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraBioskop/sa_dash_vmx/CitraBioskop.mpd
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN3hb8rz/CITRA-DANGDUT-removebg-preview.png" group-title="MOVIES",Citra Dangdut
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="MOVIES",Citra Dangdut
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraDangdut/sa_dash_vmx/CitraDangdut.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHjZkjbH/CITRA-DRAMA-removebg-preview.png" group-title="MOVIES",Citra Drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbnztGy.png" group-title="MOVIES",Citra Drama
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraDrama/sa_dash_vmx/CitraDrama.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cC8DV7D/citra-muslim-removebg-preview.png" group-title="MOVIES",Citra Muslim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="MOVIES",Citra Muslim
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraMuslim/sa_dash_vmx/CitraMuslim.mpd
 http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548" group-title="MOVIES",Citra Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="MOVIES",Citra Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraEntertainment/sa_dash_vmx/CitraEntertainment.mpd
@@ -1411,7 +1411,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4r2D8xN.png" group-title="MOVIES",Indonesia Movie Channel
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 
 ====================================================================================================================================AXN====================================================================================================================================
@@ -4563,10 +4563,10 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
 
 
-=======================================================================================================================================TVMALAYSIA=======================================================================================================================================
+=======================================================================================================================================TV MALAYSIA=======================================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest/scale-to-width-down/300?cb=20220902052331" group-title="TV MALAYSIA", Hypp Sensasi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png" group-title="TV MALAYSIA",ASTRO SENSASI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
@@ -4701,7 +4701,7 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Jrh0ssc/Degup-hometv.jpg" group-title="TV MALAYSIA",DEGUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/live/unifitv/degup/
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live16.mpd
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" group-title="TV MALAYSIA", Drama Sangat
 https://bystream.my.id/my/dramasangat.m3u8
