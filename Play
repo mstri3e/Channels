@@ -4567,6 +4567,8 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest/scale-to-width-down/300?cb=20220902052331" group-title="TV MALAYSIA", Hypp Sensasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png" group-title="TV MALAYSIA", Parlmen Dewan Negara
@@ -4628,6 +4630,9 @@ http://watchlive.my.id/dash-wv/linear/2706/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
 https://1.yurend.xyz/dash-wv/linear/211/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fQgaeJtm5ro/YauUAq5M_rI/AAAAAAAAILA/yryfWMlF2L4OgifiK5Z0q1i9ABMjf_o3wCNcBGAsYHQ/s720/awesome-p.png" group-title="TV MALAYSIA",ASTRO AWESOME HD 1
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTgCTDq/Aura-hometv.jpg" group-title="TV MALAYSIA",ASTRO AURA HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4712,8 +4717,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fQgaeJtm5ro/YauUAq5M_rI/AAAAAAAAILA/yryfWMlF2L4OgifiK5Z0q1i9ABMjf_o3wCNcBGAsYHQ/s720/awesome-p.png" group-title="TV MALAYSIA",Awesome TV
-#https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
 
 
 =======================================================================================================================================TVKOREA=======================================================================================================================================
