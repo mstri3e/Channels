@@ -1946,7 +1946,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/5106/default.mpd
 
 #EXTINF:-1 tvg-id="zeecinemahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="MOVIES",Zee Cinema A
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5106/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
@@ -4604,7 +4604,7 @@ http://103.152.118.53:80/streams/astro/dash-staging/dash-wv/linear/1000/default.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LPvQ65Q/Boo-hometv.jpg" group-title="TV MALAYSIA",ASTRO BOO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2407/
-https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
+http://watchlive.my.id/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJPS7zC/Abo-hometv.jpg" group-title="TV MALAYSIA",ASTRO BOX OFFICE HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
