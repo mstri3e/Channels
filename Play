@@ -4581,7 +4581,6 @@ https://skyios.sky4k.top/S1G_010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HSKsXjGPzYw/YJZyXu0hPtI/AAAAAAAAEyA/hvYo0sy9zR0wAqE1-B0KUzi5HZwNwwETgCLcBGAsYHQ/s720/ikim-p.png" group-title="TV MALAYSIA",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="TV MALAYSIA", DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
@@ -4590,50 +4589,50 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="TV MALAYSIA",ASTRO AWANI HD
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LPvQ65Q/Boo-hometv.jpg" group-title="TV MALAYSIA",ASTRO BOO HD 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPvQ65Q/Boo-hometv.jpg" group-title="TV MALAYSIA",ASTRO BOO HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2407/
 https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJPS7zC/Abo-hometv.jpg" group-title="TV MALAYSIA",ASTRO BOX OFFICE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2109/
-http://watchlive.my.id/dash-wv/linear/2109/default_primary.mpd
+https://1.yurend.xyz/dash-wv/linear/2109/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8zzztb/Colors-hometv.jpg" group-title="TV MALAYSIA",COLORS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://1.yurend.xyz/dash-wv/linear/2101/default_primary.mpd
-http://watchlive.my.id/dash-wv/linear/2101/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2101/
+http://1.yurend.xyz/dash-wv/linear/2101/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GspyP2P/Aod-hometv.jpg" group-title="TV MALAYSIA",ASTRO A0D HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://1.yurend.xyz/dash-wv/linear/2706/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2706/
 http://watchlive.my.id/dash-wv/linear/2706/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zNhKyxb/Awesome-hometv.jpg" group-title="TV MALAYSIA",ASTRO AWESOME
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hjJBhNBH/Awesome-hometv-removebg-preview.png" group-title="TV MALAYSIA",ASTRO AWESOME HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
 https://1.yurend.xyz/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0VmD8S/Quan-jia-hometv.jpg" group-title="TV MALAYSIA",ASTRO QUAN JIA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://1.yurend.xyz/dash-wv/linear/2507/default_primary.mpd
-http://watchlive.my.id/dash-wv/linear/2507/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2507/
+http://1.yurend.xyz/dash-wv/linear/2507/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTgCTDq/Aura-hometv.jpg" group-title="TV MALAYSIA",ASTRO AURA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://1.yurend.xyz/dash-wv/linear/609/default_primary.mpd
-http://watchlive.my.id/dash-wv/linear/609/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
+http://1.yurend.xyz/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4b4Dg5/Rania-hometv.jpg" group-title="TV MALAYSIA",ASTRO RANIA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://1.yurend.xyz/dash-wv/linear/608/default_primary.mpd
-http://watchlive.my.id/dash-wv/linear/608/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
+http://1.yurend.xyz/dash-wv/linear/608/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDNCcX9/Xiao-tai-yang-hometv.jpg" group-title="TV MALAYSIA", ASTRO XIAO TAI YANG HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://1.yurend.xyz/dash-wv/linear/2711/default_primary.mpd
-http://watchlive.my.id/dash-wv/linear/2711/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2711/
+http://1.yurend.xyz/dash-wv/linear/2711/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ExbL2Tz9h5n51eOWlmUbABJOUCoqAAbz8A&usqp=CAU" group-title="TV MALAYSIA",ASTRO WARNA
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=ADhoODj7kx
@@ -4709,7 +4708,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #EXTINF:-1 group-title="TV MALAYSIA" tvg-logo="https://1.bp.blogspot.com/-fQgaeJtm5ro/YauUAq5M_rI/AAAAAAAAILA/yryfWMlF2L4OgifiK5Z0q1i9ABMjf_o3wCNcBGAsYHQ/s720/awesome-p.png" , Awesome TV
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+#https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 
 =======================================================================================================================================TVKOREA=======================================================================================================================================
