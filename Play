@@ -4610,6 +4610,11 @@ http://watchlive.my.id/dash-wv/linear/2101/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.yurend.xyz/dash-wv/linear/2706/default_primary.mpd
 http://watchlive.my.id/dash-wv/linear/2706/default_primary.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zNhKyxb/Awesome-hometv.jpg" group-title="TV MALAYSIA",ASTRO AWESOME
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+https://1.yurend.xyz/dash-wv/linear/211/default_primary.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0VmD8S/Quan-jia-hometv.jpg" group-title="TV MALAYSIA",ASTRO QUAN JIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://1.yurend.xyz/dash-wv/linear/2507/default_primary.mpd
