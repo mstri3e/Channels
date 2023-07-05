@@ -1988,9 +1988,11 @@ http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="Max2U.id" tvg-logo="https://i.postimg.cc/2ybK50kq/max-removebg-preview.png" group-title="FILM",&Max2U (720p)
+#EXTINF:-1 tvg-id="Max2U.id" tvg-logo="https://i.imgur.com/oThj7vs.png" group-title="FILM",&Max2U (720p)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTdvZtLN/Picsart-23-04-17-11-36-46-672.png" group-title="FILM",ATVLI
+http://wowza.convergen.co:1935/atvli/atvli.stream/playlist.m3u8
 
 ===================================================================================================================================WARNER TV CUBMU====================================================================================================================================
 
@@ -2027,13 +2029,13 @@ http://173.225.246.25:8889/udp/239.203.20.4:4003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/jv/c/c0/FOX_Movies_Premium_Asia.png" group-title="FILM LUAR",FOX MOVIES
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522360_ico.png?ts=1655232857" group-title="FILM LUAR",ONE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="FILM LUAR",ONE
 http://210.210.155.37/uq2663/h/h143/index.m3u8|User-Agent=Lavf/56.15.102
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="FILM LUAR",ONE HD
-https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/44aJ4YV.png" group-title="FILM LUAR",Xing Kong TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2057,17 +2059,17 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/280254
 #http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
 #http://starshare.live:8080/live/4839858492/3729488393/979.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.postimg.cc/mg2MJGtK/STAR-MOVIE-SELECT-removebg-preview.png" group-title="FILM LUAR",STAR MOVIES SELECT
+#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="FILM LUAR",STAR MOVIES SELECT
 #http://starshare.live:8080/live/4839858492/3729488393/23270.m3u8
 #https://anon.devds.site/link.m3u8?hash=aHR0cDovL3Bhc3RlLnphbHR2Lm15LmlkL3Jhdy9LdHo4QlBmdDE2
 
-#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.postimg.cc/mg2MJGtK/STAR-MOVIE-SELECT-removebg-preview.png" group-title="FILM LUAR",STAR MOVIES SELECT HD
+#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="FILM LUAR",STAR MOVIES SELECT HD
 http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=1116489&extension=m3u8&play_token=QVvsIHyBit
 
-#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.postimg.cc/mg2MJGtK/STAR-MOVIE-SELECT-removebg-preview.png" group-title="FILM LUAR",STAR MOVIES SELECT
+#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="FILM LUAR",STAR MOVIES SELECT
 http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=155729&extension=m3u8&play_token=886yUf4Rim
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932" group-title="FILM LUAR",Movie Sphere
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="FILM LUAR",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
@@ -2085,25 +2087,25 @@ https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 =======================================================================================================================================WOW GROUP======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4lUic2y3IrMCRP3y_UZYSsdrCU6Squf48Q&usqp=CAU" group-title="FILM LUAR",WOW TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9FNWMfx/wow-removebg-preview.png" group-title="FILM LUAR",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
-#EXTINF:-1 tvg-id="wowowprime" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png" group-title="FILM LUAR", Wow Perdana
+#EXTINF:-1 tvg-id="wowowprime" tvg-logo="https://i.imgur.com/sP1m0wl.png" group-title="FILM LUAR", Wowow Prime
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="wowowlive" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png" group-title="FILM LUAR",Wow Live
+#EXTINF:-1 tvg-id="wowowlive" tvg-logo="https://i.imgur.com/HqkSJxN.png" group-title="FILM LUAR",Wowow Live
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="wowowcinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png" group-title="FILM LUAR",Wowow Bioskop
+#EXTINF:-1 tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/s8oAVs8.png" group-title="FILM LUAR",Wowow Cinema
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png" group-title="FILM LUAR",Wowow Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="FILM LUAR",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260" group-title="FILM LUAR",Black Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/coi8cRR.png" group-title="FILM LUAR",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&app Version=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat= &deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="FILM LUAR", EGG NETWORK TV
+#EXTINF:-1 tvg-logo="https://b2777900.smushcdn.com/2777900/wp-content/uploads/2022/02/eGG_white_160x50.png?lossy=1&strip=1&webp=1" group-title="FILM LUAR", EGG NETWORK TV
 http://210.210.155.37/uq2663/h/h22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236282_ico.png?ts=1663824443" group-title="FILM LUAR",Hollywood Classic
@@ -2123,7 +2125,7 @@ https://lightning-actionhollywood-xiaomi.amag.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20573464_ico.png?ts=1654809632" group-title="FILM LUAR",ATV
 http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="FILM LUAR",Action
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="FILM LUAR",Action
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="FILM LUAR",AMC
@@ -2139,17 +2141,17 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 
 =======================================================================================================================================HBO MOVIES GROUP LUAR =======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvkj5B6T/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T173346-082.png" group-title="FILM LUAR",&Pictures HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest/scale-to-width-down/640" group-title="FILM LUAR",&Pictures HD
 https://stream.mammothtv.my.id/hiburan/and-picture-hd.m3u8
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/16958
 #https://toffee-v2.sabbirhasan.trial.rocks/auto/and_picture_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT8qq0qt/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T221241-293.png" group-title="FILM LUAR",&Prive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeGLNqf.png" group-title="FILM LUAR",&Prive
 https://stream.mammothtv.my.id/film/and-prive.m3u8
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/49557
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/endpriv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzr2t9tR/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-06-01-T221140-346.png" group-title="FILM LUAR",&Flix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/osXsFmU.png" group-title="FILM LUAR",&Flix
 https://stream.mammothtv.my.id/film/and-flix.m3u8
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/endfliks.m3u8
 
@@ -2443,10 +2445,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 
 =======================================================================================================================================NHK WORLD=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="FILM LUAR",NHK WORLD JAPAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM LUAR",NHK WORLD JAPAN
 http://210.210.155.37/uq2663/h/h23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJWpkhJV/nhk-world-premium.png" group-title="FILM LUAR",NHK WORLD PREMIUM
+#EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="FILM LUAR",NHK WORLD PREMIUM
 http://watchlive.my.id/sa_dash_vmx/NHKWorldPremium.mpd
 
 
@@ -6639,7 +6641,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 ======================================================================================================MOVISTAR=============================================================================================================
 
-#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: M. Formula 1 FHD" tvg-logo="http://181.233.124.38:80/images/2576dbdce64fb7cfa8459628edfd89a2.png" group-title="MOVISTAR",Movistar Formula 1 FHD
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: M. Formula 1 FHD" tvg-logo="https://i.postimg.cc/zB9k33s7/M-FORMULA-removebg-preview.png" group-title="MOVISTAR",Movistar Formula 1 FHD
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/1672
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar. svg.png" group-title="MOVISTAR",Movistar La Liga
