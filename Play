@@ -1712,7 +1712,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/760
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="FILM",HBO Family ( Android 6 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
@@ -5897,22 +5896,22 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2604
 https://malingpunya.mammothtv.workers.dev/dash-wv/linear/2604/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2604/default_ott.mpd
+#https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2604/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
+#https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="ARENA PREMIUM SPORTS" ,Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/5057
 https://malingpunya.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="ARENA PREMIUM SPORTS",Arena Sport 1 HD
@@ -5962,19 +5961,21 @@ https://webudit.cdnhks.lol/lb/premium434/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="ARENA PREMIUM SPORTS",Arena Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium134/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudit.cdnhks.lol/lb/premium134/index.m3u8?|referer=https://streamservicehd.click/
+#https://webudit.cdnhks.lol/lb/premium134/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #http://325481063776488195.of529.xyz:80/play/jean81/jean09092022/488195.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="ARENA PREMIUM SPORTS",Arena Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium135/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudit.cdnhks.lol/lb/premium135/index.m3u8?|referer=https://streamservicehd.click/
+#https://webudit.cdnhks.lol/lb/premium135/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="ARENA PREMIUM SPORTS",Arena Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium139/index.m3u8?|referer=https://streamservicehd.click/
+#https://webudit.cdnhks.lol/lb/premium139/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #http://325481063776488197.of529.xyz:80/play/jean81/jean09092022/488197.ts
-https://webudit.cdnhks.lol/lb/premium139/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="ARENA PREMIUM SPORTS",Arena FIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
