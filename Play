@@ -1712,6 +1712,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/760
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="MOVIES",HBO Family ( Android 6 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
@@ -2178,35 +2179,46 @@ http://208.115.225.174:14160
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium321/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="MOVIES INTERNATIONAL",HBO Family US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/760
+
 #EXTINF:-1 group-title="MOVIES INTERNATIONAL" tvg-id="hbo2.es" tvg-logo="https://i.imgur.com/XYYdk4J.png",HBO 2+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5844
+#https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 
 #EXTINF:-1 group-title="MOVIES INTERNATIONAL" tvg-id="hbopop.es" tvg-logo="https://i.imgur.com/5AQb4Ve.png",HBO Pop+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3069
+#https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 
 #EXTINF:-1 group-title="MOVIES INTERNATIONAL" tvg-id="hboxtreme.es" tvg-logo="https://i.imgur.com/23txeRM.png",HBO Xtreme+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/148927
+#https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1 group-title="MOVIES INTERNATIONAL" tvg-id="hboplus.es" tvg-logo="https://i.imgur.com/pCUqRcv.png",HBO+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3058
+#https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 
 #EXTINF:-1 group-title="MOVIES INTERNATIONAL" tvg-id="hbomundi.br" tvg-logo="https://i.imgur.com/y8BiDeS.png",HBO Mundi+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/226015
+#https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 =======================================================================================================================================GOLDEN MOVIES=======================================================================================================================================
 
@@ -2214,25 +2226,29 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/5793
+#https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 
 #EXTINF:-1 tvg-id="goldenedge.es" tvg-logo="https://i.imgur.com/e4orlqQ.png" group-title="MOVIES INTERNATIONAL",Golden Edge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/9076
+#https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
 #EXTINF:-1 tvg-id="goldenplus.es" tvg-logo="https://i.imgur.com/ePXfdrq.png" group-title="MOVIES INTERNATIONAL",Golden Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/3051
+#https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 
 #EXTINF:-1 tvg-id="goldenmultiplex.es" tvg-logo="https://i.imgur.com/5cQTSHO.png" group-title="MOVIES INTERNATIONAL",Golden Multiplex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/3052
+#https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
 
 =======================================================================================================================================BluTV=======================================================================================================================================
@@ -2307,31 +2323,36 @@ https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/291217
+#http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
 #EXTINF:-1 tvg-id="UniversalCrime.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?path-prefix=es" group-title="MOVIES INTERNATIONAL",Universal Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/291222
+#http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 
 #EXTINF:-1 tvg-id="UniversalComedy.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?path-prefix=es" group-title="MOVIES INTERNATIONAL",Universal Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/291224
+#http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 
 #EXTINF:-1 tvg-id="UniversalPremier.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?path-prefix=es" group-title="MOVIES INTERNATIONAL",Universal Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298831
+#http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 
 #EXTINF:-1 tvg-id="UniversalCinema.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?path-prefix=es" group-title="MOVIES INTERNATIONAL",Universal Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/291225
+#http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 
 
 =======================================================================================================================================SONY MOVIES=======================================================================================================================================
@@ -2348,7 +2369,8 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/9115
+#https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="MOVIES INTERNATIONAL",SONY MAX HD
 http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.m3u8
@@ -2546,7 +2568,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png" group-title="KIDS", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang HD 1 (dub indo)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang HD ID
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2560,7 +2582,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+
+#EXTINF:-1 tvg-id="boomerangsoutheastasia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="KIDS",Boomerang ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+http://103.152.118.53:80/streams/trans/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846166f4d93e5e/8e60b38dbec04327b6a595877c1e94b3.jpg" group-title="KIDS",Cartoon TV Classics HD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3516,7 +3543,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="KNOWLEDGE", Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet HD Luar
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet HD
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet Indonesia
@@ -3532,7 +3559,7 @@ KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet HD Luar 1
-https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+#https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 
 
 =======================================================================================================================================Nasa TV=======================================================================================================================================
@@ -3548,10 +3575,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png" group-title="KNOWLEDGE" ,History Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_History_Channel-Logo.svg/2560px-The_History_Channel-Logo.svg.png" group-title="KNOWLEDGE" ,History Indonesia HD
 https://nxanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_History_Channel-Logo.svg/2560px-The_History_Channel-Logo.svg.png" group-title="KNOWLEDGE", History Indonesia 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_History_Channel-Logo.svg/2560px-The_History_Channel-Logo.svg.png" group-title="KNOWLEDGE", History Indonesia FMX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
@@ -3561,18 +3588,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
+#https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="KNOWLEDGE" , History 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="KNOWLEDGE", History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
+#https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_History_Channel-Logo.svg/2560px-The_History_Channel-Logo.svg.png" group-title="KNOWLEDGE", History Forever TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1142px-History_Logo.svg.png" group-title="KNOWLEDGE", History
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/7655
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_History_Channel-Logo.svg/2560px-The_History_Channel-Logo.svg.png" group-title="KNOWLEDGE", History #2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="KNOWLEDGE", History 2
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/14516
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162519
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KNOWLEDGE",History #3
@@ -3612,13 +3640,15 @@ https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryScience.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/dash/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/14529
+#https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/dash/default.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="discoverytheateruk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/640px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/dash/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/172605
+#https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/dash/default.mpd
 
 #EXTINF:-1 tvg-id="discovery science" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/9XdfhVFx/discovery-SCIENCE-removebg-preview.png",DISCOVERY SCIENCE HD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4576,6 +4606,11 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="TV MALAYSIA",ASTRO AWANI HD
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="astroceria.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="TV MALAYSIA",Astro Ceria HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=katrokceria
+http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/2408/default.mpd
 
 #EXTINF:-1 tvg-id="astroprima.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="TV MALAYSIA",ASTRO PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6416,7 +6451,8 @@ https://webudit.cdnhks.lol/lb/premium387/index.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49114957d155cacb2e027af14450b94:0fed6599a8740879a29f1a49ec6d482a
-https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298057
+#https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 
 
 ===========================================================================================================FOXSPORTS======================================================================================================
