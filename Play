@@ -921,7 +921,9 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/pl
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5tcj8GwS/formula.png" group-title="Live Formula 1 (F1)",Canal+ Formula 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/295260
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy2.cdnhks.lol/ddy2/premium151/tracks-v1a1/mono.m3u8
+#http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/295260
 
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="Live Formula 1 (F1)" ,Sky Sports F1 UK HD
@@ -7774,9 +7776,11 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 =============================================================================================================Canal Sports============================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5tcj8GwS/formula.png" group-title="SPORTS",Canal+ Formula 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5tcj8GwS/formula.png" group-title="Live Formula 1 (F1)",Canal+ Formula 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/295260
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy2.cdnhks.lol/ddy2/premium151/tracks-v1a1/mono.m3u8
+#http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/295260
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/brL2TTzN/motogp.jpg" group-title="SPORTS",Canal+ Motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
