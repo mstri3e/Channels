@@ -1265,7 +1265,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-s5AxBKf4WBU/YJbSbqBBfwI/AAAAAAAAE6E/8tTjEsCOOPIBbmrG0DTVD3blQHbAF2zZQCLcBGAsYHQ/s720/soccer%2Bchannel.png" group-title="ID | SPORTS INDONESIA", MNC Soccer Channels HD
 https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNCSPorts" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="MNC Sports",MNC Sports
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNCSPorts" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="ID | SPORTS INDONESIA",MNC Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
@@ -4673,7 +4673,7 @@ https://1.yurend.xyz/dash-wv/linear/5053/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606/
 https://1.yurend.xyz/dash-wv/linear/606/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="TV MALAYSIA,HITS MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="TV MALAYSIA",HITS MOVIES HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305/
 https://1.yurend.xyz/dash-wv/linear/2305/default_primary.mpd
