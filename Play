@@ -177,12 +177,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="TV NASIONAL INDONESIA", Moji
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 #http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="TV NASIONAL INDONESIA", Moji HD
-https://bit.ly/playlist-moji
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="TV NASIONAL INDONESIA"", Moji HD FMX
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
@@ -388,28 +387,28 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="TV NASIONAL DAERAH", Bali TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bantentv.png" group-title="TV NASIONAL DAERAH",Banten TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png" group-title="TV NASIONAL DAERAH",Banten TV HD
 https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.noMBVnqEbVeYz1d64ar6_gHaEK?pid=ImgDet&rs=1" group-title="TV NASIONAL DAERAH", Banten TV HD 1
-https://v2.siar.us/barayatv/live/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png" group-title="TV NASIONAL DAERAH",Banten Raya TV
-https://v2.siar.us/barayatv/live/chunks.m3u8
+#https://v2.siar.us/barayatv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-aFK-3tyS0j0/W_az0Aove9I/AAAAAAAAB6M/-WEt_zhWCvY3Yv5rUxZWr1stttxyz-64wCLcBGAs/s1600/bandung%2Btv.jpg" group-title="TV NASIONAL DAERAH", Bandung TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="TV NASIONAL DAERAH", Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-aFK-3tyS0j0/W_az0Aove9I/AAAAAAAAB6M/-WEt_zhWCvY3Yv5rUxZWr1stttxyz-64wCLcBGAs/s1600/bandung%2Btv.jpg" group-title="TV NASIONAL DAERAH", Bandung TV Vision+
-https://anv-live-cdn-118.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="TV NASIONAL DAERAH", Bandung TV Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#https://anv-live-cdn-118.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzupFAedrKBALQr9Yv4R6ZWht2P5TMJDFPjaA=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV NASIONAL DAERAH", Banjar TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MK1JwPsy/BANJAR-removebg-preview.png" group-title="TV NASIONAL DAERAH", Banjar TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwtdCGtSpwxnDjLyDWjKJRKJguD6jKHg_S0cg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV NASIONAL DAERAH", Batam TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UmtOA2H.png" group-title="TV NASIONAL DAERAH", Batam TV
 http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5y9rXkm/download.jpg" group-title="TV NASIONAL DAERAH", Batu TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="TV NASIONAL DAERAH", Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png" group-title="TV NASIONAL DAERAH", BBS TV
@@ -421,11 +420,17 @@ http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://brtvcoid.b-cdn.net/2022/06/logo-brtv-original.png" group-title="TV NASIONAL DAERAH", BRTV
 https://e1.siar.us/badartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTaXyg1-yCE7t6WHkeK0XlSmzpb7KIBcplg&usqp=CAU" group-title="TV NASIONAL DAERAH", Bungo TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="TV NASIONAL DAERAH", Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-uTT8f31pYpg/XH9emlfmxqI/AAAAAAAAP0k/j6CTmkexKOQ_gQMraxzLk7SnhH_i9gI1wCLcBGAs/s320/frekuensi%2Bctv.jpg" group-title="TV NASIONAL DAERAH", Cahaya TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3f/CTV_Banten.png" group-title="TV NASIONAL DAERAH", Cahaya TV Banten
 https://bravo.kugo.id/ctv/rtmp.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPDunYG.png" group-title="TV NASIONAL DAERAH", Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV NASIONAL DAERAH", Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxvXLnx4f1D8G45LzQSDrm9P5hpPIB2bqwH4wUt=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV NASIONAL DAERAH", DMTV Malang
 https://h1.intechmedia.net/intech/ch51.m3u8
@@ -450,12 +455,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="TV NASIONAL DAERAH", MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="TV NASIONAL DAERAH", Dhoho TV
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV NASIONAL DAERAH", Dhamma TV
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEWZFUeiAwlUSKxXBbpUDwyANh9F5affeDQ&usqp=CAU" group-title="TV NASIONAL DAERAH", Ficom TV
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
@@ -1172,7 +1171,7 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.94061278628a654e847a7adeb899771d?rik=hWB2hA%2fKPP1IIw&riu=http%3a%2f%2fadmango.cdn.mangomolo.com%2fanalytics%2fuploads%2f71%2f5bfea86c98.png&ehk=UeMSkBMPWZGs6eNCXGf29qYjq7AlUiMnO%2bsRvi4bNbs%3d&risl=&pid=ImgRaw&r=0" group-title="ANIMAL SPORTS",Dubai Racing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="ANIMAL SPORTS", Horse and Country
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="ANIMAL SPORTS", Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="ANIMAL SPORTS",Horse and Country Free
@@ -1207,37 +1206,37 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/201086.m3u8
 
 =================================================================================================================MNC SPORTS======================================================================================================
 
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="ID | SPORTS INDONESIA", beIN Sports Indonesia 1
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://postimg.cc/8fd3krNW" group-title="ID | SPORTS INDONESIA", beIN Sports Indonesia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="ID | SPORTS INDONESIA", beIN Sports Indonesia 2
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png" group-title="ID | SPORTS INDONESIA", beIN Sports Indonesia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Saluran Sepak Bola" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="ID | SPORTS INDONESIA", MNC Soccer Channels 
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Saluran Sepak Bola" tvg-logo="https://i.imgur.com/ywxSwV3.png" group-title="ID | SPORTS INDONESIA", MNC Soccer Channels 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-s5AxBKf4WBU/YJbSbqBBfwI/AAAAAAAAE6E/8tTjEsCOOPIBbmrG0DTVD3blQHbAF2zZQCLcBGAsYHQ/s720/soccer%2Bchannel.png" group-title="ID | SPORTS INDONESIA", MNC Soccer Channels HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ywxSwV3.png" group-title="ID | SPORTS INDONESIA", MNC Soccer Channels HD
 https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNCSPorts" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="ID | SPORTS INDONESIA",MNC Sports
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNCSPorts" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png" group-title="ID | SPORTS INDONESIA",MNC Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="ID | SPORTS INDONESIA",MNC Sports
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png" group-title="ID | SPORTS INDONESIA",MNC Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 #https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 grup tvg-id="MNCSports2.id" tvg-name="MNC Sports 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="ID | SPORTS INDONESIA",MNC Sports 2
+#EXTINF:-1 grup tvg-id="MNCSports2.id" tvg-name="MNC Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png" group-title="ID | SPORTS INDONESIA",MNC Sports 2
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 grup tvg-id="MNCSports2.id" tvg-name="MNC Sports 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="ID | SPORTS INDONESIA",MNC Sports 2
@@ -1247,7 +1246,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 grup tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="ID | SPORTS INDONESIA",MNC Sports 3
+#EXTINF:-1 grup tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png" group-title="ID | SPORTS INDONESIA",MNC Sports 3
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 grup tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="ID | SPORTS INDONESIA",MNC Sports 3
@@ -1258,24 +1257,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 ================================================================================================================USEE PRIME SPORTS=================================================================================================================
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="ID | SPORTS INDONESIA"", Moji HD
-https://bit.ly/playlist-moji
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="ID | SPORTS INDONESIA", USEE PRIME HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="ID | SPORTS INDONESIA", USEE PRIME HD
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="ID | SPORTS INDONESIA", USEE PRIME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="ID | SPORTS INDONESIA", USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesport_ver1.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DeA35re.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 1
 https://stream.mammothtv.my.id/olahraga/usee-sport-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_ver1.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QanFnCo.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 2
 https://stream.mammothtv.my.id/olahraga/usee-sport-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesport_ver1.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DeA35re.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 1 HD
 https://raw.githubusercontent.com/SSHSEDANG4/iptv/main/ucispor1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_ver1.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QanFnCo.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 2 HD
 https://raw.githubusercontent.com/thefirefox12537/streams/master/yusisport_loro.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1310,7 +1309,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27.mpd
 https://beetv.my.id/x/usee-flik-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="ID | FILM INDONESIA",Flik KCH
-http://kuchini.site:8080/multi6741/ab72059e/165095
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/165095
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IrS5AOC.png" group-title="ID | FILM INDONESIA",Oke TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2279,22 +2278,22 @@ https://1.yurend.xyz/dash-wv/linear/2605/default_primary.mpd
 
 ===================================================================================================================================AXN ONE HD LUAR===================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNd319Wm/axn-hd-removebg-preview.png" group-title="WORLD | FILM DUNIA",AXN 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNd319Wm/axn-hd-removebg-preview.png" group-title="WRD | FILM DUNIA",AXN 2
 http://173.225.246.25:8889/udp/239.203.20.4:4003
 #http://103.167.167.5:8111/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/jv/c/c0/FOX_Movies_Premium_Asia.png" group-title="WORLD | FILM DUNIA",FOX MOVIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/jv/c/c0/FOX_Movies_Premium_Asia.png" group-title="WRD | FILM DUNIA",FOX MOVIES
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="WORLD | FILM DUNIA",ONE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="WRD | FILM DUNIA",ONE
 http://210.210.155.37/uq2663/h/h143/index.m3u8|User-Agent=Lavf/56.15.102
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="WORLD | FILM DUNIA",ONE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="WRD | FILM DUNIA",ONE HD
 #https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/44aJ4YV.png" group-title="WORLD | FILM DUNIA",Xing Kong TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/44aJ4YV.png" group-title="WRD | FILM DUNIA",Xing Kong TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
@@ -2302,185 +2301,185 @@ https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 =======================================================================================================================================STAR MOVIES=======================================================================================================================================
 
-#EXTINF:-1 tvg-id="Baywatch.us tvg-logo="https://i.postimg.cc/pLPGdBTY/baywatch-removebg-preview.png" group-title="WORLD | FILM DUNIA", BAYWATCH HD
+#EXTINF:-1 tvg-id="Baywatch.us tvg-logo="https://i.postimg.cc/pLPGdBTY/baywatch-removebg-preview.png" group-title="WRD | FILM DUNIA", BAYWATCH HD
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FearFactor.us" tvg-logo="https://i.postimg.cc/5tVxyTzK/FEAR.png" group-title="WORLD | FILM DUNIA",FEAR FACTOR HD
+#EXTINF:-1 tvg-id="FearFactor.us" tvg-logo="https://i.postimg.cc/5tVxyTzK/FEAR.png" group-title="WRD | FILM DUNIA",FEAR FACTOR HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=588128d17d64bc0d0f385c34&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=301&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="WORLD | FILM DUNIA",DEAL OR NO DEAL (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="WRD | FILM DUNIA",DEAL OR NO DEAL (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yYBywC3y/pimp.jpg" group-title="WORLD | FILM DUNIA",Pimp my Ride Italy (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yYBywC3y/pimp.jpg" group-title="WRD | FILM DUNIA",Pimp my Ride Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png" group-title="WORLD | FILM DUNIA",STAR MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png" group-title="WRD | FILM DUNIA",STAR MOVIES
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/280254
 #http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
 #http://starshare.live:8080/live/4839858492/3729488393/979.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="WORLD | FILM DUNIA",STAR MOVIES SELECT
+#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="WRD | FILM DUNIA",STAR MOVIES SELECT
 #http://starshare.live:8080/live/4839858492/3729488393/23270.m3u8
 #https://anon.devds.site/link.m3u8?hash=aHR0cDovL3Bhc3RlLnphbHR2Lm15LmlkL3Jhdy9LdHo4QlBmdDE2
 
-#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="WORLD | FILM DUNIA",STAR MOVIES SELECT HD
+#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="WRD | FILM DUNIA",STAR MOVIES SELECT HD
 http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=1116489&extension=m3u8&play_token=QVvsIHyBit
 
-#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="WORLD | FILM DUNIA",STAR MOVIES SELECT
+#EXTINF:-1 tvg-id="" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="WRD | FILM DUNIA",STAR MOVIES SELECT
 http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=155729&extension=m3u8&play_token=886yUf4Rim
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="WORLD | FILM DUNIA",Movie Sphere
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="WRD | FILM DUNIA",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tFyWVZQ7q6hQ2vBVhtL9tq1rBp1e-f2LFYaPeyhhfoTtpT8B4KUgYlpSti4d86V6u-g" group-title="WORLD | FILM DUNIA",The Movie Hub
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tFyWVZQ7q6hQ2vBVhtL9tq1rBp1e-f2LFYaPeyhhfoTtpT8B4KUgYlpSti4d86V6u-g" group-title="WRD | FILM DUNIA",The Movie Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL4Np0xH/Box-Movie-1.png" group-title="WORLD | FILM DUNIA",BOX Movie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL4Np0xH/Box-Movie-1.png" group-title="WRD | FILM DUNIA",BOX Movie
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/sV9LbSg.png" group-title="WORLD | FILM DUNIA",My Time Movies Network
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/sV9LbSg.png" group-title="WRD | FILM DUNIA",My Time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 =======================================================================================================================================WOW GROUP======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9FNWMfx/wow-removebg-preview.png" group-title="WORLD | FILM DUNIA",Wow TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9FNWMfx/wow-removebg-preview.png" group-title="WRD | FILM DUNIA",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
-#EXTINF:-1 tvg-id="wowowprime" tvg-logo="https://i.imgur.com/sP1m0wl.png" group-title="WORLD | FILM DUNIA", Wowow Prime
+#EXTINF:-1 tvg-id="wowowprime" tvg-logo="https://i.imgur.com/sP1m0wl.png" group-title="WRD | FILM DUNIA", Wowow Prime
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="wowowlive" tvg-logo="https://i.imgur.com/HqkSJxN.png" group-title="WORLD | FILM DUNIA",Wowow Live
+#EXTINF:-1 tvg-id="wowowlive" tvg-logo="https://i.imgur.com/HqkSJxN.png" group-title="WRD | FILM DUNIA",Wowow Live
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/s8oAVs8.png" group-title="WORLD | FILM DUNIA",Wowow Cinema
+#EXTINF:-1 tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/s8oAVs8.png" group-title="WRD | FILM DUNIA",Wowow Cinema
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="WORLD | FILM DUNIA",Wowow Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="WRD | FILM DUNIA",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
 
 =======================================================================================================================================BLACK CINEMA GROUP======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/coi8cRR.png" group-title="WORLD | FILM DUNIA",Black Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/coi8cRR.png" group-title="WRD | FILM DUNIA",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://b2777900.smushcdn.com/2777900/wp-content/uploads/2022/02/eGG_white_160x50.png?lossy=1&strip=1&webp=1" group-title="WORLD | FILM DUNIA", EGG NETWORK TV
+#EXTINF:-1 tvg-logo="https://b2777900.smushcdn.com/2777900/wp-content/uploads/2022/02/eGG_white_160x50.png?lossy=1&strip=1&webp=1" group-title="WRD | FILM DUNIA", EGG NETWORK TV
 http://210.210.155.37/uq2663/h/h22/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236282_ico.png?ts=1663824443" group-title="WORLD | FILM DUNIA",Hollywood Classic
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236282_ico.png?ts=1663824443" group-title="WRD | FILM DUNIA",Hollywood Classic
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/2560px-CJ_ENM_Logo.svg.png" group-title="WORLD | FILM DUNIA",CJ ENM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/2560px-CJ_ENM_Logo.svg.png" group-title="WRD | FILM DUNIA",CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/548813_872a37eb61c2450db5b75907fa9f1cb0~mv2.png" group-title="WORLD | FILM DUNIA",Dark Matter TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/548813_872a37eb61c2450db5b75907fa9f1cb0~mv2.png" group-title="WRD | FILM DUNIA",Dark Matter TV
 https://dmtv-plex.amag.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ID | FILM INDONESIA Hollywood Aksi" tvg-name="ID | FILM INDONESIA Hollywood Aksi" tvg-logo="https://i.imgur.com/B3RHwVN.png" group-title="WORLD | FILM DUNIA", Channel Action Hollywood
+#EXTINF:-1 tvg-id="ID | FILM INDONESIA Hollywood Aksi" tvg-name="ID | FILM INDONESIA Hollywood Aksi" tvg-logo="https://i.imgur.com/B3RHwVN.png" group-title="WRD | FILM DUNIA", Channel Action Hollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lightning-actionhollywood-xiaomi.amag.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="WORLD | FILM DUNIA",ATV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="WRD | FILM DUNIA",ATV
 http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="WORLD | FILM DUNIA",Action
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="WRD | FILM DUNIA",Action
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="WORLD | FILM DUNIA",AMC
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="WRD | FILM DUNIA",AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236273_ico.png?ts=1663824332" group-title="WORLD | FILM DUNIA",BOX Movie
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236273_ico.png?ts=1663824332" group-title="WRD | FILM DUNIA",BOX Movie
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="WORLD | FILM DUNIA",Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="WRD | FILM DUNIA",Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png" group-title="WORLD | FILM DUNIA", SCTV9 HD
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png" group-title="WRD | FILM DUNIA", SCTV9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
 
 =======================================================================================================================================HBO MOVIES GROUP LUAR =======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest/scale-to-width-down/640" group-title="WORLD | FILM DUNIA",&Pictures HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest/scale-to-width-down/640" group-title="WRD | FILM DUNIA",&Pictures HD
 https://stream.mammothtv.my.id/hiburan/and-picture-hd.m3u8
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/16958
 #https://toffee-v2.sabbirhasan.trial.rocks/auto/and_picture_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeGLNqf.png" group-title="WORLD | FILM DUNIA",&Prive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeGLNqf.png" group-title="WRD | FILM DUNIA",&Prive
 https://stream.mammothtv.my.id/ID | FILM INDONESIA/and-prive.m3u8
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/49557
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/endpriv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/osXsFmU.png" group-title="WORLD | FILM DUNIA",&Flix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/osXsFmU.png" group-title="WRD | FILM DUNIA",&Flix
 https://stream.mammothtv.my.id/ID | FILM INDONESIA/and-flix.m3u8
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/endfliks.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="WORLD | FILM DUNIA",HBO HD (Luarr)
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="WRD | FILM DUNIA",HBO HD (Luarr)
 #http://208.115.225.174:14136
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="WORLD | FILM DUNIA",HBO HD (luar)
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="WRD | FILM DUNIA",HBO HD (luar)
 #http://5.255.90.238:5002/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="WORLD | FILM DUNIA",HBO2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="WRD | FILM DUNIA",HBO2 HD
 #http://208.115.225.174:14140
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="WORLD | FILM DUNIA",HBO Mundi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="WRD | FILM DUNIA",HBO Mundi
 #http://208.115.225.174:14148
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6KWeZ30fn4qqv7yBPS2bDzzgwxH-uqmTYA&usqp=CAU" group-title="WORLD | FILM DUNIA",HBO Xtreme
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6KWeZ30fn4qqv7yBPS2bDzzgwxH-uqmTYA&usqp=CAU" group-title="WRD | FILM DUNIA",HBO Xtreme
 #http://208.115.225.174:14165
 
-#EXTINF: -1 tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="WORLD | FILM DUNIA",CINEMAX USA
+#EXTINF: -1 tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="WRD | FILM DUNIA",CINEMAX USA
 http://hidra.live:80/usvhppwq/4C3D7fuen2/302623
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="WORLD | FILM DUNIA",HBO Signature USA
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="WRD | FILM DUNIA",HBO Signature USA
 http://208.115.225.174:14160
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" tvg-id="hboeast.us" group-title="WORLD | FILM DUNIA",HBO USA
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" tvg-id="hboeast.us" group-title="WRD | FILM DUNIA",HBO USA
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium321/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="WORLD | FILM DUNIA",HBO Family US
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="WRD | FILM DUNIA",HBO Family US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/760
 
-#EXTINF:-1 group-title="WORLD | FILM DUNIA" tvg-id="hbo2.es" tvg-logo="https://i.imgur.com/XYYdk4J.png",HBO 2+
+#EXTINF:-1 group-title="WRD | FILM DUNIA" tvg-id="hbo2.es" tvg-logo="https://i.imgur.com/XYYdk4J.png",HBO 2+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5844
 #https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 
-#EXTINF:-1 group-title="WORLD | FILM DUNIA" tvg-id="hbopop.es" tvg-logo="https://i.imgur.com/5AQb4Ve.png",HBO Pop+
+#EXTINF:-1 group-title="WRD | FILM DUNIA" tvg-id="hbopop.es" tvg-logo="https://i.imgur.com/5AQb4Ve.png",HBO Pop+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3069
 #https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 
-#EXTINF:-1 group-title="WORLD | FILM DUNIA" tvg-id="hboxtreme.es" tvg-logo="https://i.imgur.com/23txeRM.png",HBO Xtreme+
+#EXTINF:-1 group-title="WRD | FILM DUNIA" tvg-id="hboxtreme.es" tvg-logo="https://i.imgur.com/23txeRM.png",HBO Xtreme+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/148927
 #https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 
-#EXTINF:-1 group-title="WORLD | FILM DUNIA" tvg-id="hboplus.es" tvg-logo="https://i.imgur.com/pCUqRcv.png",HBO+
+#EXTINF:-1 group-title="WRD | FILM DUNIA" tvg-id="hboplus.es" tvg-logo="https://i.imgur.com/pCUqRcv.png",HBO+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3058
 #https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 
-#EXTINF:-1 group-title="WORLD | FILM DUNIA" tvg-id="hbomundi.br" tvg-logo="https://i.imgur.com/y8BiDeS.png",HBO Mundi+
+#EXTINF:-1 group-title="WRD | FILM DUNIA" tvg-id="hbomundi.br" tvg-logo="https://i.imgur.com/y8BiDeS.png",HBO Mundi+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
@@ -2489,28 +2488,28 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/226015
 
 =======================================================================================================================================GOLDEN MOVIES=======================================================================================================================================
 
-#EXTINF:-1 tvg-id="goldenhd.es" tvg-logo="https://i.imgur.com/5cQTSHO.png" group-title="WORLD | FILM DUNIA",Golden
+#EXTINF:-1 tvg-id="goldenhd.es" tvg-logo="https://i.imgur.com/5cQTSHO.png" group-title="WRD | FILM DUNIA",Golden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/5793
 #https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 
-#EXTINF:-1 tvg-id="goldenedge.es" tvg-logo="https://i.imgur.com/e4orlqQ.png" group-title="WORLD | FILM DUNIA",Golden Edge
+#EXTINF:-1 tvg-id="goldenedge.es" tvg-logo="https://i.imgur.com/e4orlqQ.png" group-title="WRD | FILM DUNIA",Golden Edge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/9076
 #https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
-#EXTINF:-1 tvg-id="goldenplus.es" tvg-logo="https://i.imgur.com/ePXfdrq.png" group-title="WORLD | FILM DUNIA",Golden Plus
+#EXTINF:-1 tvg-id="goldenplus.es" tvg-logo="https://i.imgur.com/ePXfdrq.png" group-title="WRD | FILM DUNIA",Golden Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/3051
 #https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 
-#EXTINF:-1 tvg-id="goldenmultiplex.es" tvg-logo="https://i.imgur.com/5cQTSHO.png" group-title="WORLD | FILM DUNIA",Golden Multiplex
+#EXTINF:-1 tvg-id="goldenmultiplex.es" tvg-logo="https://i.imgur.com/5cQTSHO.png" group-title="WRD | FILM DUNIA",Golden Multiplex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
@@ -2520,101 +2519,101 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/3052
 
 =======================================================================================================================================BluTV=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236290_ico.png?ts=1663828486" group-title="WORLD | FILM DUNIA",BluTV Play 1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236290_ico.png?ts=1663828486" group-title="WRD | FILM DUNIA",BluTV Play 1
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21238464_ico.png?ts=1663828606" group-title="WORLD | FILM DUNIA",BluTV Play 2
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21238464_ico.png?ts=1663828606" group-title="WRD | FILM DUNIA",BluTV Play 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 
 
 =======================================================================================================================================Pluto TV=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236257_ico.png?ts=1663825417" group-title="WORLD | FILM DUNIA",PlutoTV Terror
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236257_ico.png?ts=1663825417" group-title="WRD | FILM DUNIA",PlutoTV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236258_ico.png?ts=1663825524" group-title="WORLD | FILM DUNIA",PlutoTV Horror
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236258_ico.png?ts=1663825524" group-title="WRD | FILM DUNIA",PlutoTV Horror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236259_ico.png?ts=1663825635" group-title="WORLD | FILM DUNIA",PlutoTV Comedy
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236259_ico.png?ts=1663825635" group-title="WRD | FILM DUNIA",PlutoTV Comedy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236260_ico.png?ts=1663825730" group-title="WORLD | FILM DUNIA",PlutoTV Crime
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236260_ico.png?ts=1663825730" group-title="WRD | FILM DUNIA",PlutoTV Crime
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236261_ico.png?ts=1663825827" group-title="WORLD | FILM DUNIA",PlutoTV Action
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236261_ico.png?ts=1663825827" group-title="WRD | FILM DUNIA",PlutoTV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 =======================================================================================================================================Rakuten Group=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="WORLD | FILM DUNIA",Rakuten Action
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="WRD | FILM DUNIA",Rakuten Action
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="WORLD | FILM DUNIA",Rakuten Comedy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="WRD | FILM DUNIA",Rakuten Comedy
 https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="WORLD | FILM DUNIA",Rakuten Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="WRD | FILM DUNIA",Rakuten Family
 http://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WORLD | FILM DUNIA", Rakuten Family 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WRD | FILM DUNIA", Rakuten Family 6
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy= 1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WORLD | FILM DUNIA", Rakuten Family 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WRD | FILM DUNIA", Rakuten Family 7
 https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy= 1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WORLD | FILM DUNIA", Rakuten Family 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WRD | FILM DUNIA", Rakuten Family 8
 https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy= 1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WORLD | FILM DUNIA", Rakuten Family 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WRD | FILM DUNIA", Rakuten Family 9
 https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy= 1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WORLD | FILM DUNIA", Rakuten Family 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WRD | FILM DUNIA", Rakuten Family 10
 https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy= 1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WORLD | FILM DUNIA", Rakuten Family 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WRD | FILM DUNIA", Rakuten Family 11
 https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy= 1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WORLD | FILM DUNIA", Rakuten Family 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WRD | FILM DUNIA", Rakuten Family 12
 https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy= 1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WORLD | FILM DUNIA", Rakuten Family 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WRD | FILM DUNIA", Rakuten Family 13
 https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy= 1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WORLD | FILM DUNIA",Rakuten Family 16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="WRD | FILM DUNIA",Rakuten Family 16
 https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy= 1---
 
 
 =======================================================================================================================================UNIVERSAL MOVIES=======================================================================================================================================
 
-#EXTINF:-1 tvg-id="UniversalReality.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?path-prefix=es" group-title="WORLD | FILM DUNIA",Universal Reality
+#EXTINF:-1 tvg-id="UniversalReality.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?path-prefix=es" group-title="WRD | FILM DUNIA",Universal Reality
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/291217
 #http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
-#EXTINF:-1 tvg-id="UniversalCrime.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?path-prefix=es" group-title="WORLD | FILM DUNIA",Universal Crime
+#EXTINF:-1 tvg-id="UniversalCrime.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?path-prefix=es" group-title="WRD | FILM DUNIA",Universal Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/291222
 #http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 
-#EXTINF:-1 tvg-id="UniversalComedy.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?path-prefix=es" group-title="WORLD | FILM DUNIA",Universal Comedy
+#EXTINF:-1 tvg-id="UniversalComedy.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?path-prefix=es" group-title="WRD | FILM DUNIA",Universal Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/291224
 #http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 
-#EXTINF:-1 tvg-id="UniversalPremier.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?path-prefix=es" group-title="WORLD | FILM DUNIA",Universal Premiere
+#EXTINF:-1 tvg-id="UniversalPremier.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?path-prefix=es" group-title="WRD | FILM DUNIA",Universal Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298831
 #http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 
-#EXTINF:-1 tvg-id="UniversalCinema.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?path-prefix=es" group-title="WORLD | FILM DUNIA",Universal Cinema
+#EXTINF:-1 tvg-id="UniversalCinema.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?path-prefix=es" group-title="WRD | FILM DUNIA",Universal Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
@@ -2626,46 +2625,46 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/291225
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="WORLD | FILM DUNIA",SONY PIX HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="WRD | FILM DUNIA",SONY PIX HD
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/49539
 #https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="WORLD | FILM DUNIA",SONY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="WRD | FILM DUNIA",SONY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/9115
 #https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="WORLD | FILM DUNIA",SONY MAX HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="WRD | FILM DUNIA",SONY MAX HD
 http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.m3u8
 
 
 =======================================================================================================================================CINEMACHI GROUP=======================================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-action.png" group-title="WORLD | FILM DUNIA", Cinemachi Action HD
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-action.png" group-title="WRD | FILM DUNIA", Cinemachi Action HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png" group-title="WORLD | FILM DUNIA", Cinemachi Kids HD
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png" group-title="WRD | FILM DUNIA", Cinemachi Kids HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" group-title="WORLD | FILM DUNIA", Cinemachi HD
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" group-title="WRD | FILM DUNIA", Cinemachi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png" group-title="WORLD | FILM DUNIA", Cinemachi Max HD
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png" group-title="WRD | FILM DUNIA", Cinemachi Max HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" group-title="WORLD | FILM DUNIA", Cinemachi Xtra HD
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" group-title="WRD | FILM DUNIA", Cinemachi Xtra HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
@@ -2673,14 +2672,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 
 =======================================================================================================================================NHK WORLD=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="WORLD | FILM DUNIA",NHK WORLD JAPAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="WRD | FILM DUNIA",NHK WORLD JAPAN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/01.m3u8
 #http://210.210.155.37/uq2663/h/h23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="WORLD | FILM DUNIA",NHK WORLD PREMIUM
+#EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="WRD | FILM DUNIA",NHK WORLD PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
