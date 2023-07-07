@@ -387,6 +387,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="TV NASIONAL DAERAH", Bali TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="TV NASIONAL DAERAH", Balikpapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png" group-title="TV NASIONAL DAERAH",Banten TV HD
 https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 
@@ -432,19 +435,54 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV NASIONAL DAERAH", Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxvXLnx4f1D8G45LzQSDrm9P5hpPIB2bqwH4wUt=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV NASIONAL DAERAH", DMTV Malang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KeaeR1g.png" group-title="TV NASIONAL DAERAH", DMTV Malang
 https://h1.intechmedia.net/intech/ch51.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1CN8W1C/dtvi-removebg-preview.png" group-title="TV NASIONAL DAERAH", DTVI
+https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="TV NASIONAL DAERAH", Duta TV
 https://o1.siar.us/dutatv/live/chunks.m3u8?nimblesessionid=703711
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Inspira_TV.png/400px-Inspira_TV.png" group-title="TV NASIONAL DAERAH", Inspira TV
+#EXTINF:-1 tvg-logo="https://postimg.cc/y3DLJWmW" group-title="TV NASIONAL DAERAH", Ficom TV
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gardarevolusi.tv/logo/logo%20web%201.png" group-title="TV NASIONAL DAERAH", Garda TV
+https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_GPRTV.png" group-title="TV NASIONAL DAERAH", GPR TV
+https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P52FAaB.png" group-title="TV NASIONAL DAERAH", Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LbbDm7K/jaktv-removebg-preview.png" group-title="TV NASIONAL DAERAH", JakTV
+http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LbbDm7K/jaktv-removebg-preview.png" group-title="TV NASIONAL DAERAH", JakTV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://anv-live-cdn-118.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="TV NASIONAL DAERAH", JAMBI TV
+http://122.248.43.138:1935/ch23/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="TV NASIONAL DAERAH", JPM TV
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jpmtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="TV NASIONAL DAERAH"",JPMTV
+http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="TV NASIONAL DAERAH", Jawa pos TV
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV NASIONAL DAERAH", Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="TV NASIONAL DAERAH",JOWO
 http://103.152.118.53/streams/jowo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr3sdicFyvBqGBJEUqy8HcGrTRh1rI167r2w&usqp=CAU" group-title="TV NASIONAL DAERAH", West Java Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhY0ZzX1/west-java-removebg-preview.png" group-title="TV NASIONAL DAERAH", West Java Network
 http://edge.linknetott.swiftserve.com/channelgroup3/cg340production/ch50/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="TV NASIONAL DAERAH", PAL TV
@@ -453,16 +491,13 @@ https://v3.siar.us/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="TV NASIONAL DAERAH", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="TV NASIONAL DAERAH", MTA TV
+#EXTINF:-1 tvg-logo="https://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png" group-title="TV NASIONAL DAERAH", MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEWZFUeiAwlUSKxXBbpUDwyANh9F5affeDQ&usqp=CAU" group-title="TV NASIONAL DAERAH", Ficom TV
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtuWkCaH3Q2iG34u9XKYXbdHWVvBwsOYmFIQ&usqp=CAU" group-title="TV NASIONAL DAERAH", Lingkar TV Pati
+#EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="TV NASIONAL DAERAH", Lingkar TV Pati
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/simpang5tv.png" group-title="TV NASIONAL DAERAH",,Simpang5 TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZC1G0C.png" group-title="TV NASIONAL DAERAH",,Simpang5 TV
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCkTNY9lxhd0K0-gG4QBKRzlxMmhBZQCHpQ&usqp=CAU" group-title="TV NASIONAL DAERAH", Sampit TV
@@ -471,7 +506,7 @@ https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/93/RBTV_Bengkulu.png" group-title="TV NASIONAL DAERAH", RBTV BENGKULU
 https://h1.intechmedia.net/intech/ch59.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtcR32S_Y39mamtKEuuyC76q0dAMrlNyheyQ&usqp=CAU" group-title="TV NASIONAL DAERAH", Tegar TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aRYl8uiMtMA/Xsx8qiuZCzI/AAAAAAAApxQ/YqiRdH6tUI4WTpE9Yx_t2BeTyNr9TGeugCLcBGAsYHQ/s1600/tegar-tv-channel-logo.png" group-title="TV NASIONAL DAERAH", Tegar TV
 http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1639503258.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/51/27/205127b0a765f7a45ef9ad3e4f8a6112.png" group-title="TV NASIONAL DAERAH", Puja TV
@@ -483,31 +518,13 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png" group-title="TV NASIONAL DAERAH", TVPI
 http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11y1uTmD-dGr2jCPqrxjZzpcmkMCFih-jsQ&usqp=CAU" group-title="TV NASIONAL DAERAH", JakTV
-http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11y1uTmD-dGr2jCPqrxjZzpcmkMCFih-jsQ&usqp=CAU" group-title="TV NASIONAL DAERAH", JakTV
-https://anv-live-cdn-118.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV NASIONAL DAERAH", Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="TV NASIONAL DAERAH", Jawa Pos TV
-http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="TV NASIONAL DAERAH", Jawapos TV
-https://v2.siar.us/jawapostv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-id="jpmtv.id" tvg-logo="https://iptv.urfan.web.id/logo/jpm.png" group-title="TV NASIONAL DAERAH"",JPMTV
-http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="TV NASIONAL DAERAH", TATV Solo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="TV NASIONAL DAERAH", TATV Solo
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png/revision/latest?cb=20181005160144" group-title="TV NASIONAL DAERAH", Kawanua TV
 http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/kstv.png" group-title="TV NASIONAL DAERAH",Kilisuci TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKK5rpmV/1681551625750.png" group-title="TV NASIONAL DAERAH",Kilisuci TV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="TV NASIONAL DAERAH", JITV Jogja
@@ -515,12 +532,6 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="TV NASIONAL DAERAH", TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="TV NASIONAL DAERAH", Balikpapan TV
-http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="TV NASIONAL DAERAH", JAMBI TV
-http://122.248.43.138:1935/ch23/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title="TV NASIONAL DAERAH", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
@@ -531,30 +542,27 @@ https://v2.siar.us/primatv/live/chunks.m3u8?nimblesessionid=673726
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png" group-title="TV NASIONAL DAERAH", SAKTI TV
 https://v3.siar.us:443/saktitv/live/chunks.m3u8?nimblesessionid=1227279
 
-#EXTINF:-1 tvg-logo="https://postimg.cc/Yv10Pmwf" group-title="TV NASIONAL DAERAH", Madu TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" group-title="TV NASIONAL DAERAH", Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgKW6bB.png" group-title="TV NASIONAL DAERAH", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hantaran.co/wp-content/uploads/2020/08/padang-tv.jpg" group-title="TV NASIONAL DAERAH", Padang TV
+#EXTINF:-1 tvg-logo="https://padangtv.id/wp-content/uploads/2020/07/logo1-e1595189708614.png" group-title="TV NASIONAL DAERAH", Padang TV
 https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CvgEbvtqgEEzKgmhP3fzgXbrWq5bqFbCf1z6epKPj5hg-GuK1VBqBSjHcVC41etHcSNb86piJxay2PTqz96lakuaY5mPohV7Rzplbvd7GZgeqvVeNKHYKuYPjJw18-35xZWIU54zwI-UyViAYM8Ty4aMVXZ5rhCg2ITH1sKjSnVcvDVBalshTSSDuWrkHG4xfkqSvpnkfviFtnYjlSxOAZ7XYSjLAjmaz1krjZKXGbwXNcKaVzXwCTqoQrqgbgDFW1NwKl9BD4gdWb4Ug_NJUUwDDvLTw2wJUOUXoyhwzMC-nj4AWqZK7cNvi8QFvbyQlq__V7efvHhpVaEQWaI3mwvi1QoztofGZDU8FhVf75r8MzObj_bXXYp124U_ZFfQj459iTfZVEvkd2XH03d2Ros0GNW36I0bowpXSgGGUEnVybXClO0DlOWSJI211Ey7fOSN68B1JAvXwBGtYulLSStrhmojm0WjVtjVnkKRX1e5HSZtDFztTB8miOt2ngcxFjYuqbLYN06refy43F8viTQlWI2XDOcOiPyP1ht1IZkr8MiG66pFz-Abd7mzpkqHkGrYYX7ZW2E6XcibCw3GU-g3Xgx7edMZonC82qpbEmZxvc2Utqmgz28lFvGjZD95PXcU5GQi_yLlYZKLoIcMDQDc65H0lbgSZdqXtaT8wMc9ECMD2pqChHWXL1knKO93vwRibnWzMUUbck7n6nDkeFfP9mS2YIxbyWsOwpaD2sRkzAZv-P63GCANjBw-5LVPavZ6g_G3stEMiQXh7orwb5zl4b37W1azSLZaqKY0ZGF-ef8TnJUdugfXlyBOIJ9jhCY5g2gX_xdLBg0aDKBILyr-8u26LE_uNCABKgl1cy13ZXN0LTIw0wY.m3u8
 https://v3.siar.us/paltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png" group-title="TV NASIONAL DAERAH", Pon TV
 http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/10/7c/a7/107ca7e4d5ed77b136f2dca2f8658673.png" group-title="TV NASIONAL DAERAH", Radar TV Lampung
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwyPGzHR/radar-tv-lampung-removebg-preview.png" group-title="TV NASIONAL DAERAH", Radar TV Lampung
 http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.kcg6S05mOpnQNGJDsjn8QAHaHn?pid=ImgDet&w=500&h=514&rs=1" group-title="TV NASIONAL DAERAH", RCTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png/revision/latest" group-title="TV NASIONAL DAERAH", RCTV
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwD_3QqpNz4sohz3bfP0EO64NPA24LyYzt2w&usqp=CAU" group-title="TV NASIONAL DAERAH", Malang tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cVZNSPW/malang-removebg-preview.png" group-title="TV NASIONAL DAERAH", Malang tv
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJytvoO8XJpinmmxq4xVqSRYukKA_2H7ANqB1A=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV NASIONAL DAERAH", GPR TV
-https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pposm6w.png" group-title="TV NASIONAL DAERAH", Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
@@ -565,23 +573,16 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3c/Cakra-semarang-tv.png/240px-Cakra-semarang-tv.png" group-title="TV NASIONAL DAERAH", Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnNtdHYuYW5kcm9pZF9pY29uX2xsbGFja3Q0/icon.png?w=340&fakeurl=1" group-title="TV NASIONAL DAERAH", SMTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tSmuUMY.png" group-title="TV NASIONAL DAERAH", SMTV
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4n-txSPnsUs/maxresdefault.jpg" group-title="TV NASIONAL DAERAH", Sultra TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/TV_Sultra.png/revision/latest" group-title="TV NASIONAL DAERAH", Sultra TV
 http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.PEvSvcDphf26wTes3BAYYQHaFj?pid=ImgDet&rs=1" group-title="TV NASIONAL DAERAH", TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KW9icSqlC50/maxresdefault_live.jpg" group-title="TV NASIONAL DAERAH", DTVI
-https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw0M_SfVS1d10Wp6ofhnFX0xLJrQODltIlvmg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV NASIONAL DAERAH", Garda TV
-https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3. ggpht.com/a/AATXAJw0M_SfVS1d10Wp6ofhnFX0xLJrQODltIlvmg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV NASIONAL DAERAH", RIAU TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d9/Riau_TV.png" group-title="TV NASIONAL DAERAH", RIAU TV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+http://63b2dc7196c38.streamlock.net:1935/ch11/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="TV NASIONAL DAERAH", TVRI Lampung
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8?checkedby:iptvcat.com
@@ -4342,6 +4343,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Inspira_TV.png/400px-Inspira_TV.png" group-title="RELIGIUS", Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="RELIGIUS", DAAI TV
 https://anv-live-cdn-118.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
