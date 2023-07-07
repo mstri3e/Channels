@@ -1273,7 +1273,8 @@ https://stream.mammothtv.my.id/olahraga/usee-sport-1.m3u8
 https://stream.mammothtv.my.id/olahraga/usee-sport-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DeA35re.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 1 HD
-https://raw.githubusercontent.com/SSHSEDANG4/iptv/main/ucispor1.m3u8
+https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=useesport
+#https://raw.githubusercontent.com/SSHSEDANG4/iptv/main/ucispor1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QanFnCo.png" group-title="ID | SPORTS INDONESIA",USEE SPORT 2 HD
 https://raw.githubusercontent.com/thefirefox12537/streams/master/yusisport_loro.m3u8
@@ -7383,10 +7384,11 @@ http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=16794
 
 ======================================================================================================================================Olahraga 18 HD================================================================================================================================================
 
-#EXTINF:-1 tvg-id="pptv.hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFgjbsQzU46OAMysAFoBdipo9nj4ukfNj9Q&usqp=CAU" group-title="SPORTS", Olahraga18 HD
+#EXTINF:-1 tvg-id="pptv.hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFgjbsQzU46OAMysAFoBdipo9nj4ukfNj9Q&usqp=CAU" group-title="SPORTS",Sports 18 HD
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:1 tvg-id="pptv.hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFgjbsQzU46OAMysAFoBdipo9nj4ukfNj9Q&usqp=CAU" group-title="SPORTS", Olahraga18 HD #1
+#EXTINF:1 tvg-id="pptv.hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFgjbsQzU46OAMysAFoBdipo9nj4ukfNj9Q&usqp=CAU" group-title="SPORTS", Sports 18
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8?txSecret=8d0fdcd770e4b2ac59326e759602c255&txTime=645CD758&_s=stream
 
 ====================================================================================================================================PREMIERE SPORTS=================================================================================================================================================
