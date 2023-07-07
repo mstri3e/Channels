@@ -1282,10 +1282,10 @@ https://raw.githubusercontent.com/thefirefox12537/streams/master/yusisport_loro.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-url="http://www.dens.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="ID | SPORTS INDONESIA",TVRI Sports HD
+#EXTINF:-1 tvg-url="http://www.dens.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="SPORTS INDONESIA",TVRI Sports HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="ID | SPORTS INDONESIA",WWE HD
+#EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="SPORTS INDONESIA",WWE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/5106
 https://1.yurend.xyz/dash-wv/linear/2603/default_primary.mpd
