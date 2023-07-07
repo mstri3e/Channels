@@ -99,7 +99,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="TV NASIONAL INDONESIA",Jakarta Globe
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 
-#EXTINF:-1 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png group-title="TV NASIONAL INDONESIA",JAK TV HD
+#EXTINF:-1 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://i.postimg.cc/7LbbDm7K/jaktv-removebg-preview.png" group-title="TV NASIONAL INDONESIA",JAK TV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png" group-title="TV NASIONAL INDONESIA",JTV HD
