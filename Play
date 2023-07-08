@@ -1518,13 +1518,15 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8023
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8024
 
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="Home TV | Sports",Channel GOLF HD ASTRO
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/1003
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003/
 http://1.yurend.xyz/dash-wv/linear/1003/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="Home TV | Sports",WWE HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/5106
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5106/
 https://1.yurend.xyz/dash-wv/linear/2603/default_primary.mpd
 
 
@@ -2252,9 +2254,10 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BwFc6pF/Iqiyi-hometv.jpg" group-title="FILM MALAYSIA",IQIYI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/1006
-http://watchlive.my.id/dash-wv/linear/1006/default_primary.mpd
+#http://watchlive.my.id/dash-wv/linear/1006/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BwFc6pF/Iqiyi-hometv.jpg" group-title="FILM MALAYSIA",IQIYI OTT
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BwFc6pF/Iqiyi-hometv.jpg" group-title="FILM MALAYSIA",IQIYI HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006/
 https://1.yurend.xyz/dash-wv/linear/1006/default_primary.mpd
@@ -2393,6 +2396,12 @@ http://103.152.118.53:80/streams/astro/dash-staging/dash-wv/linear/1000/default.
 ##EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407/
+https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPvQ65Q/Boo-hometv.jpg" group-title="FILM MALAYSIA",ASTRO BOO HD UJI
+##EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2407/
 https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJPS7zC/Abo-hometv.jpg" group-title="FILM MALAYSIA",ASTRO BOX OFFICE HD
