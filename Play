@@ -148,6 +148,10 @@ https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u
 #https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 #http://portalnya.vwoev.opdns.net:80/streams/mentari/index.m3u8
 
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-name= "MetroGlobeNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="TV NASIONAL INDONESIA",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name= "Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="TV NASIONAL INDONESIA",Metro TV
@@ -1039,18 +1043,6 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3623
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="Home TV | Film Indonesia",Discovery Asia
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501/
-https://1.yurend.xyz/dash-wv/linear/501/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Home TV | Film Indonesia", Love Nature
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5096/
-https://1.yurend.xyz/dash-wv/linear/5096/default_primary.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L4ywZLzt/Dunia-Lain-TV-removebg-preview.png" group-title="Home TV | Film Indonesia", DUNIA LAIN HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3624
@@ -1058,12 +1050,6 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3624
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="Home TV | Film Indonesia", FLIK HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3625
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Home TV | Film Indonesia", Global Trekker
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5094/
-https://1.yurend.xyz/dash-wv/linear/5094/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Home TV | Film Indonesia", HBO HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -1110,32 +1096,61 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3004
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005
 
+
+
+=================================================================================================================HOME TV |KNOWLEDGE MELAYU======================================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Home TV | Knowledge Melayu",Asian Food Network ( AFN )
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500/
+https://1.yurend.xyz/dash-wv/linear/500/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="Home TV | Knowledge Melayu",Discovery Asia
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501/
+https://1.yurend.xyz/dash-wv/linear/501/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Home TV | Knowledge Melayu", DMAX TV HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610/
+https://1.yurend.xyz/dash-wv/linear/2610/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Home TV | Knowledge Melayu", Food Network
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300/
+https://1.yurend.xyz/dash-wv/linear/2300/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Home TV | Knowledge Melayu", Global Trekker
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5094/
+https://1.yurend.xyz/dash-wv/linear/5094/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="Home TV | Knowledge Melayu", HGTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502/
+https://1.yurend.xyz/dash-wv/linear/2502/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Home TV | Knowledge Melayu", Love Nature
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5096/
+https://1.yurend.xyz/dash-wv/linear/5096/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png" group-title="Home TV | Knowledge Melayu", TLC
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709/
+https://1.yurend.xyz/dash-wv/linear/2709/default_primary.mpd
+
+
 =================================================================================================================HOME TV |SPORTS INDONESIA======================================================================================================
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DeA35re.png" group-title="Home TV | Sports", Usee Sports 
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/24
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QanFnCo.png" group-title="Home TV | Sports", Usee Sports 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/25
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="Home TV | Sports", Beins Sport Indonesia 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png group-title="Home TV | Sports", Beins Sport Indonesia 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xds1Bx4n/ptv-sports-removebg-preview.png" group-title="Home TV | Sports", PTV Sports
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8027
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4BHZLdJ/willow.png" group-title="Home TV | Sports", Willows Cricket
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8028
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Home TV | Sports", Astro Super Sports
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -1164,6 +1179,186 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/6
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Home TV | Sports", Astro cricket
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="Home TV | Sports", Beins Sport Indonesia 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png group-title="Home TV | Sports", Beins Sport Indonesia 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Premium 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/48
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Premium 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/49
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Premium 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/50
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/51
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/52
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/53
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/54
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/55
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 6
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/56
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 7
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/57
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport English 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/58
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport English 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/59
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport English 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/60
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport France 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/61
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport France 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/62
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport France 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/63
+
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", beIN Sports Malaysia 1 HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
+#https://astro.kutubusuk.workers.dev/dash-wv/linear/408/default_primary.mpd
+#http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/157561
+
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", beIN Sports Malaysia 2 HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
+https://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
+#https://astro.kutubusuk.workers.dev/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", beIN Sports Malaysia 3 HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
+#https://astro.kutubusuk.workers.dev/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="Home TV | Sports", BT sport 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/43
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png" group-title="Home TV | Sports", BT sport 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/44
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png" group-title="Home TV | Sports", BT sport 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/45
+
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="Home TV | Sports",Channel GOLF HD ASTRO
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003/
+http://1.yurend.xyz/dash-wv/linear/1003/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/2084e3cjes89yv6/eurosport.png" group-title="Home TV | Sports", Euro Sports 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/41
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/2084e3cjes89yv6/eurosport.png" group-title="Home TV | Sports", Euro Sports 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/42
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/1wabbphijo2ien0/fs1.png" group-title="Home TV | Sports", Fox Au Racing
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/85
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="Home TV | Sports", Fox 501
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/86
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="Home TV | Sports", Fox 502
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/87
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4y6VYOa.png" group-title="Home TV | Sports", Fox 503
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/88
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="Home TV | Sports", Fox 504
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/89
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o6EuUwE.png" group-title="Home TV | Sports", Fox 505
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/90
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZHC6fSH.png" group-title="Home TV | Sports", Fox 506
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/91
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k5wJGLmc/fox-507-removebg-preview.png" group-title="Home TV | Sports", Fox 507
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/92
+
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="Home TV | Sports", Moji HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/23
+
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="Home TV | Sports", NBA TV HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/30
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/640px-Polsat_Sport_2021_gradient.svg.png" group-title="Home TV | Sports", Polsat Sport 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7967
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/640px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="Home TV | Sports", Polsat Sport extra
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7968
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/td0rW6W.png" group-title="Home TV | Sports", Polsat news Sport 
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7969
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdpKG6WM/polsat-fight-removebg-preview.png" group-title="Home TV | Sports", Polsat Sport Fight 
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7970
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xds1Bx4n/ptv-sports-removebg-preview.png" group-title="Home TV | Sports", PTV Sports
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8027
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" group-title="Home TV | Sports", Supersports Premier League
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -1253,29 +1448,41 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/38
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/39
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub1.png" group-title="Home TV | Sports", SK Klub 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7971
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub2.png" group-title="Home TV | Sports", SK Klub 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7972
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub3.png" group-title="Home TV | Sports", SK Klub 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7973
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub4.png" group-title="Home TV | Sports", SK Klub 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7974
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub5.png" group-title="Home TV | Sports", SK Klub 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7975
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7aH1f2o.png" group-title="Home TV | Sports", Sony Sports 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8022
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0HBvcO3.png" group-title="Home TV | Sports", Sony Sports 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8023
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/maeN3Jv.png" group-title="Home TV | Sports", Sony Sports 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8024
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/63drN4D9/sky-news-removebg-preview.png" group-title="Home TV | Sports", sky sports news
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/40
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/2084e3cjes89yv6/eurosport.png" group-title="Home TV | Sports", euro sports 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/41
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/2084e3cjes89yv6/eurosport.png" group-title="Home TV | Sports", euro sports 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/42
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="Home TV | Sports", BT sport 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/43
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png" group-title="Home TV | Sports", BT sport 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/44
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png" group-title="Home TV | Sports", BT sport 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/45
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4xDwkGmQ/sport-tv-removebg-preview.png" group-title="Home TV | Sports", Sport TV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -1292,92 +1499,6 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/93
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4xDwkGmQ/sport-tv-removebg-preview.png" group-title="Home TV | Sports", Sport TV 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/94
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Premium 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/48
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Premium 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/49
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Premium 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/50
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/51
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/52
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/53
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 4
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/54
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 5
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/55
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 6
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/56
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport Arab 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/57
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport English 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/58
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport English 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/59
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport English 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/60
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport France 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/61
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport France 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/62
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", Bein sport France 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/63
-
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", beIN Sports Malaysia 1 HD
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
-#https://astro.kutubusuk.workers.dev/dash-wv/linear/408/default_primary.mpd
-#http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/157561
-
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", beIN Sports Malaysia 2 HD
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
-https://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
-#https://astro.kutubusuk.workers.dev/dash-wv/linear/2705/default_primary.mpd
-
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="Home TV | Sports", beIN Sports Malaysia 3 HD
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
-#https://astro.kutubusuk.workers.dev/dash-wv/linear/2705/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4phFp9Y/Ssc-1.jpg" group-title="Home TV | Sports", SSC 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -1459,91 +1580,17 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/83
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/84
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/1wabbphijo2ien0/fs1.png" group-title="Home TV | Sports", Fox Au Racing
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DeA35re.png" group-title="Home TV | Sports", Usee Sports 
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/85
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/24
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="Home TV | Sports", Fox 501
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QanFnCo.png" group-title="Home TV | Sports", Usee Sports 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/86
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/25
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="Home TV | Sports", Fox 502
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4BHZLdJ/willow.png" group-title="Home TV | Sports", Willows Cricket
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/87
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4y6VYOa.png" group-title="Home TV | Sports", Fox 503
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/88
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="Home TV | Sports", Fox 504
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/89
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o6EuUwE.png" group-title="Home TV | Sports", Fox 505
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/90
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZHC6fSH.png" group-title="Home TV | Sports", Fox 506
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/91
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k5wJGLmc/fox-507-removebg-preview.png" group-title="Home TV | Sports", Fox 507
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/92
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/640px-Polsat_Sport_2021_gradient.svg.png" group-title="Home TV | Sports", Polsat Sport 
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7967
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/640px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="Home TV | Sports", Polsat Sport extra
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7968
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/td0rW6W.png" group-title="Home TV | Sports", Polsat news Sport 
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7969
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdpKG6WM/polsat-fight-removebg-preview.png" group-title="Home TV | Sports", Polsat Sport Fight 
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7970
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub1.png" group-title="Home TV | Sports", SK Klub 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7971
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub2.png" group-title="Home TV | Sports", SK Klub 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7972
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub3.png" group-title="Home TV | Sports", SK Klub 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7973
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub4.png" group-title="Home TV | Sports", SK Klub 4
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7974
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/sportklub5.png" group-title="Home TV | Sports", SK Klub 5
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7975
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7aH1f2o.png" group-title="Home TV | Sports", Sony Sports 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8022
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0HBvcO3.png" group-title="Home TV | Sports", Sony Sports 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8023
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/maeN3Jv.png" group-title="Home TV | Sports", Sony Sports 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8024
-
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="Home TV | Sports",Channel GOLF HD ASTRO
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003/
-http://1.yurend.xyz/dash-wv/linear/1003/default_primary.mpd
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8028
 
 #EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="Home TV | Sports",WWE HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -3864,7 +3911,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV HD
 http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV
