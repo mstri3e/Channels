@@ -926,7 +926,8 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/pl
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5tcj8GwS/formula.png" group-title="Live Formula 1 (F1)",Canal+ Formula 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy2.cdnhks.lol/ddy2/premium151/tracks-v1a1/mono.m3u8
+https://ddy1.cdnhks.lol/ddy1/premium151/tracks-v1a1/mono.m3u8
+#https://ddy2.cdnhks.lol/ddy2/premium151/tracks-v1a1/mono.m3u8
 #http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/295260
 
 
@@ -1179,6 +1180,19 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/6
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Home TV | Sports", Astro cricket
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/7
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="Home TV | Sports",Arena Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ddh1.cdnhks.lol/ddh1/premium134/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="Home TV | Sports",Arena Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ddy2.cdnhks.lol/ddy2/premium135/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="Home TV | Sports",Arena Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ddy2.cdnhks.lol/ddy2/premium135/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="Home TV | Sports", Beins Sport Indonesia 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -1591,6 +1605,11 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/25
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4BHZLdJ/willow.png" group-title="Home TV | Sports", Willows Cricket
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8028
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4BHZLdJ/willow.png" group-title="Home TV | Sports", Willows Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium598/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="Home TV | Sports",WWE HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -6204,8 +6223,13 @@ https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
 #https://lbs-usp-dash-live.cmore.se/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
 #http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/10659
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/10659
-http://kuchini.site:8080/multi6741/ab72059e/10659
+#http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/10659
+#http://kuchini.site:8080/multi6741/ab72059e/10659
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzCjNQfG/c-more-removebg-preview.png" group-title="SPORTS",C MORE FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium747/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CBSSports.us" tvg-name="CBBSports.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/CBS_Sports_Network_2021_%28Blue%29.svg/revision/latest/scale-to-width-down/640" group-title="SPORTS",CBS Sports Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -6802,14 +6826,18 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 =============================================================================================================Canal Sports============================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5tcj8GwS/formula.png" group-title="Live Formula 1 (F1)",Canal+ Formula 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5tcj8GwS/formula.png" group-title="SPORTS",Canal+ Formula 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy2.cdnhks.lol/ddy2/premium151/tracks-v1a1/mono.m3u8
+https://ddy1.cdnhks.lol/ddy1/premium151/tracks-v1a1/mono.m3u8
+#https://ddy2.cdnhks.lol/ddy2/premium151/tracks-v1a1/mono.m3u8
 #http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/295260
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/brL2TTzN/motogp.jpg" group-title="SPORTS",Canal+ Motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium152/tracks-v1a1/mono.m3u8
 http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/297423
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sports 1
@@ -7922,31 +7950,60 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/157485
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium370/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASTRO SUPER SPORTS",Astro Cricket HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium370/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SUPER SPORTS",Astro SuperSport 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium43/tracks-v1a1/mono.m3u8
 
 ====================================================================================================================Beinsports=============================================================================================================
 
