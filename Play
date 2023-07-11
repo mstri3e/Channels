@@ -5879,7 +5879,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ywxSwV3.png" group-title="SPORTS INDONESIA",Soccer Channels HD Vision+
 https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNCSPorts" tvg-logo="https://i.postimg.cc/vZ2kZfX5/sports-star-removebg-preview.png" group-title="SPORTS INDONESIA",Sportstar 1 Vision
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNCSPorts" tvg-logo="https://i.postimg.cc/vZ2kZfX5/sports-star-removebg-preview.png" group-title="SPORTS INDONESIA",Sportstars 1 Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
@@ -5891,7 +5891,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 grup tvg-id="MNCSports2.id" tvg-name="MNC Sports 2" tvg-logo="https://i.postimg.cc/vZ2kZfX5/sports-star-removebg-preview.png" group-title="SPORTS INDONESIA",Sportstar 2 Vision
+#EXTINF:-1 grup tvg-id="MNCSports2.id" tvg-name="MNC Sports 2" tvg-logo="https://i.postimg.cc/vZ2kZfX5/sports-star-removebg-preview.png" group-title="SPORTS INDONESIA",Sportstars 2 Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 grup tvg-id="MNCSports2.id" tvg-name="MNC Sports 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS INDONESIA",MNC Sports 2 Vision
@@ -5901,7 +5901,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 grup tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://i.postimg.cc/vZ2kZfX5/sports-star-removebg-preview.png" group-title="SPORTS INDONESIA",Sportstar 3 Vision
+#EXTINF:-1 grup tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://i.postimg.cc/vZ2kZfX5/sports-star-removebg-preview.png" group-title="SPORTS INDONESIA",Sportstars 3 Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 grup tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png" group-title="SPORTS INDONESIA",MNC Sports 3 Vision
