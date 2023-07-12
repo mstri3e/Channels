@@ -1,10 +1,12 @@
 =========================================================================================TV NASIONAL INDONESIA INDONESIA============================================================================================
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/61/Balai_Kota_Channel.png/revision/latest/scale-to-width-down/250?cb=20210705101603" group-title="TV NASIONAL INDONESIA",Balai Kota (F*)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikota.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/61/Balai_Kota_Channel.png/revision/latest/scale-to-width-down/250?cb=20210705101603" group-title="TV NASIONAL INDONESIA",Balai Kota FMX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
+#https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikota.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wdn2FX6/bandung-removebg-preview.png" group-title="TV NASIONAL INDONESIA",Balai Kota Bandung (F*)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikotabdg.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wdn2FX6/bandung-removebg-preview.png" group-title="TV NASIONAL INDONESIA",Balai Kota Bandung FMX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch102)/index.m3u8
+#https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikotabdg.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name= "ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="TV NASIONAL INDONESIA",ANTV Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -86,6 +88,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
       
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="TV NASIONAL INDONESIA",INDOSIAR HD HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="TV NASIONAL INDONESIA",INDOSIAR HD CBM
@@ -1706,34 +1709,36 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="FILM INDONESIA",Citra Bioskop FMX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="FILM INDONESIA",Citra Dangdut FMX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraDangdut/sa_dash_vmx/CitraDangdut.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbnztGy.png" group-title="FILM INDONESIA",Citra Drama FMX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraDrama/sa_dash_vmx/CitraDrama.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="FILM INDONESIA",Citra Muslim FMX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraMuslim/sa_dash_vmx/CitraMuslim.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="FILM INDONESIA",Citra Entertainment FMX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraEntertainment/sa_dash_vmx/CitraEntertainment.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 
 
