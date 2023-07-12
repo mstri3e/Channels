@@ -1,11 +1,13 @@
 =========================================================================================TV NASIONAL INDONESIA INDONESIA============================================================================================
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/61/Balai_Kota_Channel.png/revision/latest/scale-to-width-down/250?cb=20210705101603" group-title="TV NASIONAL INDONESIA",Balai Kota FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg023production/ch73/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikota.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wdn2FX6/bandung-removebg-preview.png" group-title="TV NASIONAL INDONESIA",Balai Kota Bandung FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch102)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg024production/ch102/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch102)/index.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikotabdg.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name= "ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="TV NASIONAL INDONESIA",ANTV Vision
@@ -18,8 +20,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name= "ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="TV NASIONAL INDONESIA",ANTV HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="TV NASIONAL INDONESIA",ANTV HD CBM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -35,10 +37,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c59
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0I8VWXDOA-_aXwj9f0WvBx495INT_p5VPw&usqp=CAU" group-title="TV NASIONAL INDONESIA", Berita Satu FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg547production/ch360/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" group-title="TV NASIONAL INDONESIA", Berita Satu World FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg406production/ch19/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" group-title="TV NASIONAL INDONESIA",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
@@ -63,12 +67,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 https://anv-live-cdn-118.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 tvg-id="DAAI.id" tvg-name="DAAITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="TV NASIONAL INDONESIA",DAAI TV FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u8
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-name= "GarudaTV" tvg-logo="https://i.postimg.cc/mrxWfFtT/Logo-Garuda-TV-Merah-Flat-2022.png" group-title="TV NASIONAL INDONESIA",Garuda TV FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-name= "GarudaTV" tvg-logo="https://i.postimg.cc/mrxWfFtT/Logo-Garuda-TV-Merah-Flat-2022.png" group-title="TV NASIONAL INDONESIA",Garuda TV HD
 http://stream.garuda.tv/live/garudatv/playlist.m3u8
@@ -113,13 +117,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="TV NASIONAL INDONESIA",Jakarta Globe FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg506production/ch2/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
 
 #EXTINF:-1 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://i.postimg.cc/7LbbDm7K/jaktv-removebg-preview.png" group-title="TV NASIONAL INDONESIA",JAK TV HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png" group-title="TV NASIONAL INDONESIA",JTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165091
 
 #EXTINF:-1 tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png" group-title="TV NASIONAL INDONESIA", JTV HD MNC
@@ -133,8 +140,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name= "Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV NASIONAL INDONESIA",Kompas TV HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name= "Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV NASIONAL INDONESIA",Kompas TV HD CBM
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -186,7 +193,8 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name= "Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="TV NASIONAL INDONESIA",Metro TV HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg536production/ch394/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="TV NASIONAL INDONESIA",MNCTV HD Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -206,11 +214,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82
 #http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="TV NASIONAL INDONESIA", Moji HD FMX 1
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="TV NASIONAL INDONESIA"", Moji HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -219,8 +227,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI TV NASIONAL INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="TV NASIONAL INDONESIA"",TVRI HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI TV NASIONAL INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="TV NASIONAL INDONESIA"",TVRI HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRITV NASIONAL INDONESIA)/Stream(04)/index.m3u8
@@ -231,8 +239,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRITV NASION
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="TV NASIONAL INDONESIA",Trans TV HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="TV NASIONAL INDONESIA",Trans TV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
@@ -243,8 +251,8 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="TV NASIONAL INDONESIA",Trans 7 HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="TV NASIONAL INDONESIA",Trans 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
@@ -319,8 +327,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 http://210.210.155.37/qwr9ew/s/s0105/index.m3u8
 
 #EXTINF:-1 tvg-id="TvOne.id" tvg-name= "TVOne" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="TV NASIONAL INDONESIA",TVONE HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch12)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg327production/ch12/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch12)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg327production/ch12/02.m3u8
 
 #EXTINF:-1 tvg-id="TvOne.id" tvg-name="TvOne" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="TV NASIONAL INDONESIA",TVONE HD CBM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -345,8 +353,8 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="TV NASIONAL INDONESIA",SCTV HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch395)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch395)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="TV NASIONAL INDONESIA",SCTV #2
 #https://sv2.mixstreams.net/dens2/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
@@ -489,8 +497,8 @@ https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LbbDm7K/jaktv-removebg-preview.png" group-title="TV NASIONAL DAERAH", JakTV FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LbbDm7K/jaktv-removebg-preview.png" group-title="TV NASIONAL DAERAH", JakTV HD Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -517,8 +525,8 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 http://103.152.118.53/streams/jowo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhY0ZzX1/west-java-removebg-preview.png" group-title="TV NASIONAL DAERAH", West Java Network FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch50)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg340production/ch50/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch50)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg340production/ch50/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="TV NASIONAL DAERAH", PAL TV
 https://v3.siar.us/paltv/live/playlist.m3u8
@@ -805,7 +813,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNew
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAIr6kvUZ56dQ6F5e_ddVsCJx04iWnJ3KhQ&usqp=CAU" group-title="NEWS", Berita Satu FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg406production/ch19/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" group-title="NEWS", Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
@@ -857,8 +866,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-l4m1t7XBgDT9vtTvW7zPAHaDj?pid=ImgDet&rs=1" group-title="NEWS", CCTV-4 FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch209)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg410production/ch209/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch209)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg410production/ch209/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762415_ico.png?ts=1660771120" group-title="NEWS", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5|Referer=https://rtmklik.rtm.gov.my
@@ -891,8 +900,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 #https://anevia114.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png?v=1" group-title="NEWS", SEA Today FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch416)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup5/cg546production/ch416/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch416)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg546production/ch416/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png?v=1" group-title="NEWS", SEA Today MAX
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
@@ -916,8 +925,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_NHK_World_Radio_Japan.jpg" group-title="NEWS", NHK World Japan FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/01.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="NEWS", NHK World Premium Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -940,7 +949,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_big.png" group-title="NEWS", IDX CHANNEL FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg341production/ch389/03.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="NEWS", DW Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1118,7 +1128,8 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3011
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="Home TV | Film Indonesia", ONE TV HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg521production/ch338/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AMUAo8p.png" group-title="Home TV | Film Indonesia", My Cinema Europe
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -1716,7 +1727,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraDangdut/sa_dash_vmx/CitraDangdut.mpd
-http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg438production/ch377/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbnztGy.png" group-title="FILM INDONESIA",Citra Drama FMX
@@ -1739,7 +1750,6 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/02.m3u
 #https://nyanv-live-cdn.mncnow.id/live/eds/CitraEntertainment/sa_dash_vmx/CitraEntertainment.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
-
 
 
 ====================================================================================================================================IMC====================================================================================================================================
@@ -1770,7 +1780,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNd319Wm/axn-hd-removebg-preview.png" group-title="FILM INDONESIA",AXN FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 #https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png?v=1" group-title="FILM INDONESIA",AXN HD
@@ -1821,7 +1832,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM INDONESIA",TVN Premium Indonesia HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
 
 
 ====================================================================================================================================Paramount Network===================================================================================================================================
@@ -1830,10 +1842,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a 6ae51-6f9d- 4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=, https://play.google.com/store/apps /details?id=com.samsung.android.tvplus&samsung_app_name=Seluler+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM INDONESIA",Paramount Network HD FMX 
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
-
-#EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM INDONESIA",Paramount Network HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM INDONESIA",Paramount Network HD
 https://github.com/mimipipi22/nontontv/raw/main/FMX/paramount.m3u8
@@ -1886,11 +1896,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest" group-title="FILM INDONESIA",Rock Action HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/rockact.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest" group-title="FILM INDONESIA",Rock Entertainment HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2225,8 +2237,8 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298529
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png" group-title="FILM INDONESIA",GEM HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
 
 ====================================================================================================================================Thril====================================================================================================================================
@@ -2248,7 +2260,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="FILM INDONESIA",HITS FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg433production/ch326/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="FILM INDONESIA",HITS HD Vision
@@ -2262,8 +2275,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="FILM INDONESIA",Hits Movies HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg432production/ch324/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg432production/ch324/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="FILM INDONESIA",Hits Movies HD
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/hitmovie.m3u8
@@ -2275,8 +2288,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u
 ====================================================================================================================================Zee Bioskop====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM INDONESIA",ZEE BIOSKOP HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM INDONESIA",ZEE BIOSKOP HD Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2746,7 +2759,12 @@ http://210.210.155.37/uq2663/h/h143/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLm6b2Tz/MY-ZEN-removebg-preview.png" group-title="FILM PREMIUM",MY ZEN FMX
+http://edge.linknetott.swiftserve.com/channelgroup3/cg353production/ch348/03.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg353production/ch348/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTJQRb8M/RAI-removebg-preview.png" group-title="FILM PREMIUM",RAI ITALIA FMX
+http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/03.m3u8
 =======================================================================================================================================STAR MOVIES=======================================================================================================================================
 
 #EXTINF:-1 tvg-id="Baywatch.us tvg-logo="https://i.postimg.cc/pLPGdBTY/baywatch-removebg-preview.png" group-title="FILM PREMIUM", BAYWATCH HD
@@ -3086,8 +3104,8 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/9115
 #https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="FILM PREMIUM",SONY MAX HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.m3u8
 
 
 =======================================================================================================================================CINEMACHI GROUP=======================================================================================================================================
@@ -3126,8 +3144,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/01.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/01.m3u8
 #http://210.210.155.37/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="FILM PREMIUM",NHK WORLD PREMIUM Vision
@@ -3156,7 +3174,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #https://beetv.my.id/x/usee-animax-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="KIDS", Animax ID FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.pnghttps://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS",ANIPLUS ID
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
@@ -3333,11 +3352,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u
 #http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=111252&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://i.postimg.cc/Ls0K5SGG/SSN-TIVI-2-5.png" group-title="KIDS",HOREE HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
 #EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://i.postimg.cc/Ls0K5SGG/SSN-TIVI-2-5.png" group-title="KIDS",HOREE HD 1
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
 #EXTINF:-1 tvg-id="HipHipHoree.id" tvg-logo="https://i.postimg.cc/qBCGLJR5/20221026-010229.png" group-title="KIDS",Hip-Hip Horee
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298536
@@ -3417,8 +3436,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS", Nick Junior FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/NICK2023.png/800px-NICK2023.png" group-title="KIDS", Nickelodeon Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3426,7 +3445,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u
 http://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/NICK2023.png/800px-NICK2023.png" group-title="KIDS", Nickelodeon FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/One-Piece-Logo-700x394.png" group-title="KIDS", One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3489,8 +3509,8 @@ https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amag.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts= 1659655700" group-title="CARTOONS",Cartoon Network HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts= 1659655700" group-title="CARTOONS",Cartoon Network (360p)
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/01.m3u8
@@ -3511,11 +3531,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png" group-title="CARTOONS",Nick Junior FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/02.m3u8
 
 #EXTINF:-1 tvg-id="BoomerangSoutheastAsia.us" tvg-name="Boomerang Southeast Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png" group-title="CARTOONS",Boomerang HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
 #http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=17596&extension=m3u8&play_token
 
 #EXTINF:-1 tvg-id="BoomerangSoutheastAsia.us" tvg-name="Boomerang Southeast Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png" group-title="CARTOONS",Boomerang #1
@@ -3944,7 +3965,8 @@ http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_205.png" group-title="KNOWLEDGE", CGTN Documentary FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg033production/ch405/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg" group-title="KNOWLEDGE", Crime + Investigation Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3989,15 +4011,15 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.davinci.tv/wp-content/uploads/2023/02/Da_Vinci_Primary_Logo_RGB_Red_AW.png" group-title="KNOWLEDGE", Da Vinci
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
 
 
 =======================================================================================================================================Global Trekker=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="KNOWLEDGE", Global Trekker HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/globaltrekker.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="KNOWLEDGE", Global Trekker HD Vision
@@ -4036,8 +4058,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch347)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch347)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV
 https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
@@ -4049,7 +4071,8 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/maina
 https://uni10rtmp.tulix.tv/betterhealth/betterhealth.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="KNOWLEDGE",Tech Storm FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg027production/ch333/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/techstorm.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="KNOWLEDGE", Tech Storm HD
@@ -4059,8 +4082,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="KNOWLEDGE", Love Nature
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/lovenature.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="KNOWLEDGE", Wired 2 Fish
@@ -4085,8 +4108,8 @@ https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="KNOWLEDGE", HGTV INDONESIA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="KNOWLEDGE", HGTV
 https://kusnadipepenk.github.io/ntn/hgtv.m3u8
@@ -4104,8 +4127,8 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet Indonesia FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet Indonesia FMX
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
@@ -4168,15 +4191,15 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/14516
 =======================================================================================================================================Discovery Channels=======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="KNOWLEDGE", Discovery Indonesia FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="KNOWLEDGE",Discovery Indonesia
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/discovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmsVfPjH/discovery-asia.png" group-title="KNOWLEDGE",Discovery Asia FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch30)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch30)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmsVfPjH/discovery-asia.png" group-title="KNOWLEDGE", Discovery Asia 
 https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
@@ -4243,8 +4266,8 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeow.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic ID 1
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch38)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch38)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -4258,13 +4281,13 @@ http://5.255.90.238:5002/play/a00w/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch39)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch39)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREO9IBFHrUrcw-d6ay59hzoCuZtZ2iGaIivw&usqp=CAU" group-title="KNOWLEDGE", Arirang Korea FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch253)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch253)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
 
 
 =======================================================================================================================================LIFESTYLE=======================================================================================================================================
@@ -4366,8 +4389,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc
 https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548" group-title="LIFESTYLE", Citra Entertainment
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://submit.failarmy.com/static/FA_LOGO-b63c8d990fe85f9d7cca99e12552f5fe.png" group-title="LIFESTYLE", Fail Army
 https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
@@ -4378,8 +4401,8 @@ https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
 #https://nxanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZO52Hqv_6JPIG7RDkwabFdg5UM9b7R3F5gw&usqp=CAU" group-title="LIFESTYLE", Asian Food Network AFN FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsP9P65N/bonapetit.png" group-title="LIFESTYLE", Bonappetit
 https://bonappetit-rakuten.amagi.tv/playlist.m3u8
@@ -4388,8 +4411,8 @@ https://bonappetit-rakuten.amagi.tv/playlist.m3u8
 https://jukin-thepetcollective-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="LIFESTYLE", The Food Network FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="LIFESTYLE", The Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4407,8 +4430,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOIuoQ_oXPdWz8eBvpsQ7Cgl7fc0dpD8nEQ&usqp=CAU" group-title="LIFESTYLE", Lifestyle Channel FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png" group-title="LIFESTYLE", Lifetime Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4441,8 +4464,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="LIFESTYLE", HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png" group-title="LIFESTYLE", TLC TV Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4450,8 +4473,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png" group-title="LIFESTYLE", TLC TV FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
 
 
 ================================================================================================================OUTDOOR=====================================================================================================================================
@@ -4861,8 +4884,8 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 https://anv-live-cdn-118.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="RELIGIUS", DAAI TV FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="RELIGIUS", TV Mu Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4888,7 +4911,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="RELIGIUS", TV 9 Nusantara
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg503production/ch352/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
 https://streaming.indihometv.com/joss/130/tv9/playlist.m3u8?enc=PBcJpwH3qz_kcjwtp3z9Ow&exp=1685064124&encp=Ck3SU2NStkmnejSOrMPXcw&expp=1685074624
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx4X26mXdToQeu4oQFjz5325ybANcdmvEfMkg=s900-c-k-c0xffffffff-no-rj-mo" group-title="RELIGIUS", Saling Sapa TV
@@ -4961,8 +4985,8 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="RELIGIUS",Citra Muslim FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
 
 
 =======================================================================================================================================TV SINGAPURA=======================================================================================================================================
@@ -5011,12 +5035,12 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 
 
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyM8QtMfUVG8H4zCGSEM-ESpQ2fYjsiWVCWw&usqp=CAU" group-title="TV DUNIA",Shenzhen TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch218)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg034production/ch218/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch218)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg034production/ch218/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8Zqx7ctGNALJm9wgpYfZirHFTZ8_Sr8w-w&usqp=CAU" group-title="TV DUNIA", TV5 MONDE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch260)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg420production/ch260/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch260)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg420production/ch260/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.strawbearentertainment.com/media/1254/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="TV DUNIA", Hunan TV Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5846,8 +5870,8 @@ http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="MUSIK", MTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1JgLtGC/stingray.png" group-title="MUSIK", Stingray Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
@@ -5955,7 +5979,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 ================================================================================================================USEE PRIME SPORTS=================================================================================================================
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="SPORTS INDONESIA", Moji HD FMX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="SPORTS INDONESIA", USEE PRIME HD MAX
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
@@ -6483,8 +6508,8 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/main
 ====================================================================================================================================================Eurosports======================================================================================================================================
 
 #EXTINF:-1 tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" group-title="SPORTS",Eurosport
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg319production/ch21/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg319production/ch21/02.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" group-title="SPORTS",Eurosport HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -6610,7 +6635,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallbac
 
 #EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS",Premiere Sports HD
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
 
 #EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS",Premiere Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -6624,8 +6649,8 @@ https://webudit.cdnhks.lol/lb/premium451/index.m3u8|referer=https://widevine.lic
 
 #EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS 1",Premiere Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
 
 #EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS 1",Premiere Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -9583,12 +9608,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd769ccef5c000781c3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd666c0a7600007af6c20livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdPyxUHZjRHQA0iD4JYCHenB5m5jqfUTOiuw&usqp=CAU" group-title="ESPORT GAME", First Warriors
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg431production/ch999/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg431production/ch999/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" group-title="ESPORT GAME", First
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch900)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch900)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png" group-title="ESPORT GAME", eSports Max TV
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
