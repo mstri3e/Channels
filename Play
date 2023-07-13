@@ -1223,16 +1223,16 @@ https://1.yurend.xyz/dash-wv/linear/5096/default_primary.mpd
 https://1.yurend.xyz/dash-wv/linear/2709/default_primary.mpd
 
 
-=================================================================================================================HOME TV |LIFESTYLE======================================================================================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="HOME TV |LIFESTYLE", HGTV INDONESIA
+=================================================================================================================HOME TV | LIFESTYLE======================================================================================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="HOME TV | LIFESTYLE", HGTV INDONESIA
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/2999
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png" group-title="HOME TV |LIFESTYLE", TLC TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png" group-title="HOME TV | LIFESTYLE", TLC TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3000
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="HOME TV |LIFESTYLE",Asian Food Network ASN HD
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="HOME TV | LIFESTYLE",Asian Food Network ASN HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3002
 
@@ -1240,32 +1240,32 @@ Lifetime
 https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="HOME TV |LIFESTYLE", Fashion TV Midnight 
+#EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="HOME TV | LIFESTYLE", Fashion TV Midnight 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1967
 
-#EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="HOME TV |LIFESTYLE", Fashion TV
+#EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="HOME TV | LIFESTYLE", Fashion TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1963
 
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/31c7d540/8e75.png" group-title="HOME TV |LIFESTYLE", LifeStyle Fashion Oke Zone TV
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/31c7d540/8e75.png" group-title="HOME TV | LIFESTYLE", LifeStyle Fashion Oke Zone TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTct2jfF/QVC-1-removebg-preview.png" group-title="HOME TV |LIFESTYLE", QVC UK 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTct2jfF/QVC-1-removebg-preview.png" group-title="HOME TV | LIFESTYLE", QVC UK 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTct2jfF/QVC-1-removebg-preview.png" group-title="HOME TV |LIFESTYLE", QVC Beauty
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTct2jfF/QVC-1-removebg-preview.png" group-title="HOME TV | LIFESTYLE", QVC Beauty
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTct2jfF/QVC-1-removebg-preview.png" group-title="HOME TV |LIFESTYLE", QVC Style
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTct2jfF/QVC-1-removebg-preview.png" group-title="HOME TV | LIFESTYLE", QVC Style
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/3/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTct2jfF/QVC-1-removebg-preview.png" group-title="HOME TV |LIFESTYLE", QVC Extra
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTct2jfF/QVC-1-removebg-preview.png" group-title="HOME TV | LIFESTYLE", QVC Extra
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/3/prog_index.m3u8
 
