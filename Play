@@ -16,8 +16,8 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg024production/ch102/02.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name= "ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="TV NASIONAL INDONESIA",ANTV HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/qwr9ew/s/s07/index.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name= "ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="TV NASIONAL INDONESIA",ANTV HD FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
@@ -92,8 +92,9 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
       
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="TV NASIONAL INDONESIA",INDOSIAR HD HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/qwr9ew/s/s04/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="TV NASIONAL INDONESIA",INDOSIAR HD CBM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -210,8 +211,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="TV NASIONAL INDONESIA", Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-#http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="TV NASIONAL INDONESIA", Moji HD FMX 1
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
@@ -307,8 +310,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="NET.id" tvg-name= "NET.HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="TV NASIONAL INDONESIA",NET.HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 tvg-id="net.id" tvg-name="NET.HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="TV NASIONAL INDONESIA",NET.HD CBM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -324,7 +327,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-id="TvOne.id" tvg-name= "TVOne" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="TV NASIONAL INDONESIA",TVONE HD HD
-http://210.210.155.37/qwr9ew/s/s0105/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/qwr9ew/s/s0105/index.m3u8
 
 #EXTINF:-1 tvg-id="TvOne.id" tvg-name= "TVOne" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="TV NASIONAL INDONESIA",TVONE HD FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch12)/index.m3u8
@@ -348,7 +352,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df935
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="TV NASIONAL INDONESIA",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -863,7 +867,8 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-l4m1t7XBgDT9vtTvW7zPAHaDj?pid=ImgDet&rs=1" group-title="NEWS", CCTV-4
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/qwr9ew/s/s19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-l4m1t7XBgDT9vtTvW7zPAHaDj?pid=ImgDet&rs=1" group-title="NEWS", CCTV-4 FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch209)/index.m3u8
@@ -1821,7 +1826,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u
 #https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM INDONESIA",TVN Movies Indonesia HD
-http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/dr9445/h/h21/index.m3u8
+#http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -1829,11 +1836,12 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM INDONESIA",TVN Premium Indonesia HD
-http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.37/dr9445/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM INDONESIA",TVN Premium Indonesia HD FMX
 http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8|User-Agent=Lavf/56.15.102
 
 
 ====================================================================================================================================Paramount Network===================================================================================================================================
@@ -1917,11 +1925,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmwIWuiPRjPp6YJFkgLaYscHN1nDSfFdh8Q&usqp=CAU" group-title="FILM INDONESIA",Rock Action HD 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmwIWuiPRjPp6YJFkgLaYscHN1nDSfFdh8Q&usqp=CAU" group-title="FILM INDONESIA",Rock Action HD Dens
 #http://210.210.155.35/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Entertainment.png" group-title="FILM INDONESIA",Rock Entertainment
-#http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/dr9445/h/h16/index.m3u8
 #http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmwIWuiPRjPp6YJFkgLaYscHN1nDSfFdh8Q&usqp=CAU" group-title="FILM INDONESIA",Rock Extreme HD
@@ -1934,7 +1943,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 ===================================================================================================================================My Family dan My Cinema====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="FILM INDONESIA",My Family Channel HD
-http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/uq2663/h/h194/index.m3u8
 #http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1958,13 +1968,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/manifest.mpd
 
 #EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM INDONESIA",My Cinema HD
-http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/uq2663/h/h192/index.m3u8
 #http://210.210.155.35/session/c65f3ec8-74e8-11ec-8b65-b82a72d63267/uq2663/h/h192/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-id="mycinemaasia.id" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="FILM INDONESIA",My Cinema Asia HD
-http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/uq2663/h/h193/index.m3u8
 #http://210.210.155.35/session/5f42685a-74e8-11ec-8b65-b82a72d63267/uq2663/h/h193/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2245,7 +2255,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="FILM INDONESIA",THRILL HD
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8|User-Agent=Lavf/56.15.102
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="FILM INDONESIA",THRILL HD Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2256,8 +2266,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 ====================================================================================================================================HITS MOVIES====================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="FILM INDONESIA",HITS HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/dr9445/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="FILM INDONESIA",HITS FMX
 http://edge.linknetott.swiftserve.com/channelgroup4/cg433production/ch326/02.m3u8
@@ -2321,8 +2331,8 @@ https://1.yurend.xyz/dash-wv/linear/5106/default_primary.mpd
 ====================================================================================================================================CCM Group====================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="FILM INDONESIA",Cinema World HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/dr9445/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="FILM INDONESIA",Cinema World HD Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2333,7 +2343,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mp
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="FILM INDONESIA",Celestial Movie Indonesia HD
-http://210.210.155.37/dr9445/h/h14/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="FILM INDONESIA",Celestial Movie Indonesia HD Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2342,7 +2353,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="FILM INDONESIA",Celestial Classic Movie Indonesia  HD
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="FILM INDONESIA",Celestial Classic Movie Indonesia HD Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2747,7 +2758,8 @@ http://173.225.246.25:8889/udp/239.203.20.4:4003
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="FILM PREMIUM",ONE
-http://210.210.155.37/uq2663/h/h143/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/uq2663/h/h143/index.m3u8|User-Agent=Lavf/56.15.102
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -2834,7 +2846,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ec
 
 #EXTINF:-1 tvg-logo="https://b2777900.smushcdn.com/2777900/wp-content/uploads/2022/02/eGG_white_160x50.png?lossy=1&strip=1&webp=1" group-title="FILM PREMIUM", EGG NETWORK TV
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/uq2663/h/h22/index.m3u8
+http://210.210.155.35/uq2663/h/h22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236282_ico.png?ts=1663824443" group-title="FILM PREMIUM",Hollywood Classic
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
@@ -3146,7 +3158,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/01.m3u8
-#http://210.210.155.37/uq2663/h/h23/index.m3u8
+#http://210.210.155.35/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="FILM PREMIUM",NHK WORLD PREMIUM Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3183,7 +3195,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&exten
 #EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="KIDS",ANIPLUS ID KCH
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://kuchini.site:8080/multi6741/ab72059e/298504
-#http://210.210.155.37/dr9445/h/h02/index.m3u8
+#http://210.210.155.35/dr9445/h/h02/index.m3u8
 #http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="KIDS",ANIPLUS ID ASR
@@ -3372,7 +3384,7 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298539
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="KIDS", Pembelajaran & PENGETAHUAN
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/x6bnqe/s/s36/index.m3u8
+http://210.210.155.35/x6bnqe/s/s36/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvXDj43R/just-removebg-preview.png" group-title="KIDS",Just For Laughs
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298497
@@ -3548,7 +3560,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="CARTOONS",Aniplus
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/dr9445/h/h02/index.m3u8
+http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="CARTOONS",Aniplus HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
@@ -4112,7 +4124,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="KNOWLEDGE", HGTV
-https://kusnadipepenk.github.io/ntn/hgtv.m3u8
+#https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE", Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -4124,7 +4136,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet HD
-https://kusnadipepenk.github.io/ntn/animal.m3u8
+#https://kusnadipepenk.github.io/ntn/animal.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet Indonesia FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
@@ -4202,13 +4215,14 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmsVfPjH/discovery-asia.png" group-title="KNOWLEDGE", Discovery Asia 
-https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
+#https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rwc4tn7y/discovery-hd.png" group-title="KNOWLEDGE",Discovery Channel HD LUAR
-https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
+#https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwc4tn7y/discovery-hd.png" group-title="KNOWLEDGE", Discovery Channel HD LUAR 1
-https://kusnadipepenk.github.io/ntn/disc.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwc4tn7y/discovery-hd.png" group-title="KNOWLEDGE", Discovery Channel HD FMX
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+#https://kusnadipepenk.github.io/ntn/disc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMggvyTw/TURBO-removebg-preview.png" group-title="KNOWLEDGE", Discovery Turbo
 https://kusnadipepenk.github.io/ntn/disturbo.m3u8
@@ -4258,14 +4272,15 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/172605
 https://nxanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png",National Geographic Asia
-https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeow.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+#https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeow.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic ID Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic ID 1
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic ID FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch38)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
 
@@ -4332,7 +4347,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIFESTYLE", Dens Lifestyle
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
+http://210.210.155.35/x6bnqe/s/s65/index2.m3u8
 
 #EXTINF:-1 tvg-id="TVKesehatan.id" tvg-logo="https://i.postimg.cc/tTGZGVnh/tv-kesehatan-removebg-preview.png" group-title="LIFESTYLE",TV Kesehatan (1080p)
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
@@ -5064,7 +5079,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiD
 
 #EXTINF:-1 tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" group-title="TV DUNIA", Dubai TV
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/uq2663/h/h152/index2.m3u8
+http://210.210.155.35/uq2663/h/h152/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="TV DUNIA", ITV 1 (UK)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5489,11 +5504,11 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMMHr7cjhlj2CsOCA6ZpXBl_9HTiGMEr4GQ&usqp=CAU" group-title="TV KOREA", tvN Asia
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/dr9445/h/h20/index.m3u8
+http://210.210.155.35/dr9445/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMMHr7cjhlj2CsOCA6ZpXBl_9HTiGMEr4GQ&usqp=CAU" group-title="TV KOREA", tvN Movies
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/dr9445/h/h21/index.m3u8
+http://210.210.155.35/dr9445/h/h21/index.m3u8
 
 
 =======================================================================================================================================TVJAPAN=======================================================================================================================================
@@ -5864,7 +5879,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560ac
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDqEmrrlNiz0mVVIYLNs-zMqHYbn-kxuisg&usqp=CAU" group-title="MUSIK", Dens ShowBiz
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+http://210.210.155.35/x6bnqe/s/s35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38" group-title="MUSIK", KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -6581,7 +6596,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
-#http://210.210.155.37/uq2663/h/h124/index.m3u8
+#http://210.210.155.35/uq2663/h/h124/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea03c5313e9/7a84b24e750f43d49799c533c6b9c709.png" group-title="SPORTS",Horizon Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6633,7 +6648,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallbac
 
 ====================================================================================================================================PREMIERE SPORTS=================================================================================================================================================
 
-#EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS",Premiere Sports HD
+#EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS",Premiere Sports FMX
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
 
@@ -6647,7 +6662,7 @@ https://webudit.cdnhks.lol/lb/premium550/index.m3u8?|referer=https://widevine.li
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium451/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS 1",Premiere Sports HD
+#EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS 1",Premiere Sports FMX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
@@ -6662,9 +6677,10 @@ https://webudit.cdnhks.lol/lb/premium550/index.m3u8?|referer=https://widevine.li
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium451/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="SPORTS 1",Premiere Sports (F*)
+#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="SPORTS 1",Premiere Sports FMX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://github.com/mimipipi22/nontontv/raw/main/FMX/premiersport.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
+#https://github.com/mimipipi22/nontontv/raw/main/FMX/premiersport.m3u8
 
 =========================================================================================================================================Pluto Sports===================================================================================================================================================
 
@@ -8931,31 +8947,31 @@ https://webudit.cdnhks.lol/lb/premium540/index.m3u8
 =====================================================================================================================================Prima Sports===================================================================================================================================================
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/26aa4ab429eca97ba1460df75b3dc791.png" group-title="Prima Sports",Prima Sport 1
-http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2229
+#http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2229
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/26aa4ab429eca97ba1460df75b3dc791.png" group-title="Prima Sports", Prima Sport 1 #1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/26aa4ab429eca97ba1460df75b3dc791.png" group-title="Prima Sports", Prima Sport 1 HD
 #http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/147299
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/26aa4ab429eca97ba1460df75b3dc791.png" group-title="Prima Sports",Prima Sport 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zCL1bfY/PRIMA-SPORT-removebg-preview.png" group-title="Prima Sports",Prima Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium583/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/26aa4ab429eca97ba1460df75b3dc791.png" group-title="Prima Sports",Prima Sport 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zCL1bfY/PRIMA-SPORT-removebg-preview.png" group-title="Prima Sports",Prima Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium584/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/95c28cbeff8963bb8198414162661ec9.png" group-title="Prima Sports",Prima Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8zCL1bfY/PRIMA-SPORT-removebg-preview.png" group-title="Prima Sports",Prima Sport 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium585/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/95c28cbeff8963bb8198414162661ec9.png" group-title="Prima Sports",Prima Sport 3
-http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/147300
+#http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/147300
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/3bd17c70be3c00521334947e6ae5ab5f.png" group-title="Prima Sports",Prima Sport 4
-http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/297626
+#http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/297626
 
 
 =================================================================================================================RACING TV=================================================================================================================
@@ -8970,7 +8986,7 @@ https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="RACING TV",Motor Racing TV 
-#http://210.210.155.37/uq2663/h/h223/index.m3u8
+#http://210.210.155.35/uq2663/h/h223/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -9626,7 +9642,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/as791qpnhw4gn6i/densplay.png" group-title="ESPORT GAME", Dens Play
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/x6bnqe/s/s37/index.m3u8
+http://210.210.155.35/x6bnqe/s/s37/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="ESPORT GAME", IGN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
