@@ -1809,7 +1809,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u
 #https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/ZZGUuhE.png" group-title="FILM INDONESIA",K+ HD DENS
-http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
 
 ====================================================================================================================================TVN====================================================================================================================================
@@ -2250,12 +2252,16 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
+#EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png" group-title="FILM INDONESIA",GEM HD DENS
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://210.210.155.35/uq2663/h/h19/index.m3u8
 
 ====================================================================================================================================Thril====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="FILM INDONESIA",THRILL HD DENS
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8|User-Agent=Lavf/56.15.102
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s34/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="FILM INDONESIA",THRILL HD Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2300,6 +2306,9 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg432production/ch324/02.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM INDONESIA",ZEE BIOSKOP HD FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM INDONESIA",ZEE BIOSKOP HD DENS
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM INDONESIA",ZEE BIOSKOP HD Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4880,6 +4889,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 #EXTINF:-1 tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="RELIGIUS", U Channel
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rWtX77u.png" group-title="RELIGIUS", TBN Asia
 http://rr2.dens.tv/s/s39/index.m3u8
@@ -8002,6 +8012,7 @@ https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="AUTOMOTIF",Motorvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+http://210.210.155.35/uq2663/h/h09/index.m3u8
 
 #EXTINF:-1 tvg-id="PowerNationTV.us" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="AUTOMOTIF",Power Nation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -8752,6 +8763,9 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="FIGHT SPORTS",Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fightsport_small.png" group-title="FIGHT SPORTS",Fight Sports DENS
+http://210.210.155.35/dr9445/h/h05/index.m3u8
 
 #EXTINF:-1 tvg-id="Fight.us" tvg-logo="https://i.imgur.com/bBv4p5K.png" group-title="FIGHT SPORTS",Pluto TV Fight (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
