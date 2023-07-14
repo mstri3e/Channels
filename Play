@@ -3206,20 +3206,20 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.pnghttps://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS",ANIPLUS ID
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="KIDS",ANIPLUS ID
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
 
-#EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="KIDS",ANIPLUS ID DENS
+#EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="KIDS",ANIPLUS ID DENS
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #http://kuchini.site:8080/multi6741/ab72059e/298504
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 #http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="KIDS",ANIPLUS ID ASR
+#EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="KIDS",ANIPLUS ID ASR
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1962
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq7DdfQS/ANGRY-BIRDS.png" group-title="KIDS", Angry Birds Toons
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTy5HgDT/ANGRY-BIRD-removebg-preview.png" group-title="KIDS", Angry Birds Toons
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298493
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298493
 #http://kuchini.site:8080/multi6741/ab72059e/298493
@@ -3229,7 +3229,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298493
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZDgcyCP/BABYBUS-removebg-preview-1.png" group-title="KIDS", Baby Bus Indonesia
+#EXTINF:-1 tvg-logo="https://en.babybus.com/Public/images/Public/logo.png" group-title="KIDS", Baby Bus Indonesia
 https://ytlive.openwindow040.workers.dev/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298494
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298494
@@ -3366,12 +3366,12 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162511
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/640px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney XD
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/276564
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LhFYGT7G/DONALD-DUCK.png" group-title="KIDS",Donald Ducks
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmNN4CBx/DONALD-DUCK-removebg-preview.png" group-title="KIDS",Donald Ducks
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298495
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298495
 #http://kuchini.site:8080/multi6741/ab72059e/298495
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv1LGrpX/DORAEMON.jpg" group-title="KIDS",Doraemon
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNh0hfGn/DORAEMON-removebg-preview.png" group-title="KIDS",Doraemon
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298496
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298498
 #http://kuchini.site:8080/multi6741/ab72059e/298496
@@ -3585,11 +3585,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/02.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="CARTOONS",Aniplus DENS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="CARTOONS",Aniplus DENS
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="CARTOONS",Aniplus HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="CARTOONS",Aniplus HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
 
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel East" tvg-logo="https://dl.dropboxusercontent.com/s/3bmtm7171p7ccv4/disneychannel.png" group-title="CARTOONS",Disney Channel
