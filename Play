@@ -3229,7 +3229,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298493
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMgxt0gJ/BABYBUS-removebg-preview.png" group-title="KIDS", Baby Bus Indonesia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZDgcyCP/BABYBUS-removebg-preview-1.png" group-title="KIDS", Baby Bus Indonesia
 https://ytlive.openwindow040.workers.dev/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298494
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298494
@@ -3333,7 +3333,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MZ3v8sT.jpg" group-title="KIDS",CBeebies HD Vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsTnmYtx/CBEEBIES-removebg-preview.png" group-title="KIDS",CBeebies HD Vision+
 https://nxanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3385,14 +3385,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetw
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 #http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=111252&extension=ts&play_token=TQ6cftyhX8
 
-#EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://i.postimg.cc/Ls0K5SGG/SSN-TIVI-2-5.png" group-title="KIDS",HOREE HD FMX
+#EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="KIDS",HOREE HD FMX
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
-#EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://i.postimg.cc/Ls0K5SGG/SSN-TIVI-2-5.png" group-title="KIDS",HOREE HD 1
+#EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="KIDS",HOREE HD 1
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
-#EXTINF:-1 tvg-id="HipHipHoree.id" tvg-logo="https://i.postimg.cc/qBCGLJR5/20221026-010229.png" group-title="KIDS",Hip-Hip Horee
+#EXTINF:-1 tvg-id="HipHipHoree.id" tvg-logo="https://i.imgur.com/H7ngHPj.png" group-title="KIDS",Hip-Hip Horee
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298536
 #http://beetv.my.id/x/vidio-hiphiphoree-gojokkk.m3u8
 
@@ -3462,7 +3462,7 @@ http://210.210.155.35/uq2663/h/h191/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-id="MiaoMi.hk" tvg-name="" tvg-logo="https://i.postimg.cc/Y0v34qLz/Round-Photo-Sep092022-001103.png" group-title="KIDS",MIAO MI HD Vision
+#EXTINF:-1 tvg-id="MiaoMi.hk" tvg-name="" tvg-logo="https://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",MIAO MI HD Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS", Nick Junior Vision
