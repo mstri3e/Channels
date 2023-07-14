@@ -3396,7 +3396,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298536
 #http://beetv.my.id/x/vidio-hiphiphoree-gojokkk.m3u8
 
-#EXTINF:-1 tvg-id="IndiKids.us" tvg-logo="https://i.postimg.cc/d3kx5hrq/SSN-TIVI-2-14.png" group-title="KIDS" ,INDI KIDS
+#EXTINF:-1 tvg-id="IndiKids.us" tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS" ,INDI KIDS
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298539
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNPD-iwMrRfCy-cn4QyiqkHjSAqc7NHHeEQ&usqp=CAU" group-title="KIDS", INDIKIDS
@@ -3413,7 +3413,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298497
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1EIjeaI.jpg" group-title="KIDS",KIDS TV HD Vision+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",KIDS TV HD Vision+
 https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS", KIDS TV HD Vision
@@ -3436,12 +3436,12 @@ http://103.152.118.53:80/streams/mentari/index.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/109
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYppNXSs/MR-BEAN.jpg" group-title="KIDS",Mr Bean Classic
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/df/eb/9b/dfeb9b03f713f27bac621834d676531f.png" group-title="KIDS",Mr Bean Classic
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298499
 #http://kuchini.site:8080/multi6741/ab72059e/298499
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298499
 
-#EXTINF:-1  #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYppNXSs/MR-BEAN.jpg" group-title="KIDS",Mr Bean Cartoon
+#EXTINF:-1  #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/df/eb/9b/dfeb9b03f713f27bac621834d676531f.png" group-title="KIDS",Mr Bean Cartoon
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
 #http://kuchini.site:8080/multi6741/ab72059e/298498
 
