@@ -7221,12 +7221,12 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Nfl_network_hd.png/revision/latest? cb=20140814182817" group-title="SPORTS 1",NFL Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium405/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRux7EtXTMTT880AQ8IQEuIeAEium0VJQ3pkA&usqp=CAU" group-title="SPORTS 1",MLB Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium399/index.m3u8|referer=https://widevine.licenses4.me/
 
 ====================================================================================================================================PLUTO TV SPORTS====================================================================================================================================
@@ -8025,7 +8025,8 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/280238
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="ARENA PREMIUM SPORTS",Arena Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ddh1.cdnhks.lol/ddh1/premium134/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://188.166.234.57/test/test123/45.ts
+#https://ddh1.cdnhks.lol/ddh1/premium134/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/285558 
 #http://325481063776488195.of529.xyz:80/play/jean81/jean09092022/488195.ts
 #https://webudit.cdnhks.lol/lb/premium134/index.m3u8?|referer=https://streamservicehd.click/
@@ -8033,7 +8034,8 @@ https://ddh1.cdnhks.lol/ddh1/premium134/tracks-v1a1/mono.m3u8?|referer=https://w
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="ARENA PREMIUM SPORTS",Arena Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ddy2.cdnhks.lol/ddy2/premium135/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://188.166.234.57/test/test123/46.ts
+#https://ddy2.cdnhks.lol/ddy2/premium135/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/285559
 #http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
 #https://webudit.cdnhks.lol/lb/premium135/index.m3u8?|referer=https://streamservicehd.click/
@@ -8041,7 +8043,8 @@ https://ddy2.cdnhks.lol/ddy2/premium135/tracks-v1a1/mono.m3u8?|referer=https://w
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="ARENA PREMIUM SPORTS",Arena Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ddy2.cdnhks.lol/ddy2/premium139/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://188.166.234.57/test/test123/47.ts
+#https://ddy2.cdnhks.lol/ddy2/premium139/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/285560
 #http://325481063776488197.of529.xyz:80/play/jean81/jean09092022/488197.ts
 #https://webudit.cdnhks.lol/lb/premium139/index.m3u8?|referer=https://streamservicehd.click/
