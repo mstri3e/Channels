@@ -3316,8 +3316,8 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&exten
 
 #EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="KIDS",ANIPLUS ID DENS
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#http://kuchini.site:8080/multi6741/ab72059e/298504
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+#http://kuchini.site:8080/multi6741/ab72059e/298504
 #http://210.210.155.35/dr9445/h/h02/index.m3u8
 #http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
 
