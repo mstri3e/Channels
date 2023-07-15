@@ -1120,6 +1120,7 @@ https://webudit.cdnhks.lol/lb/premium119/index.m3u8?
 https://webudit.cdnhks.lol/lb/premium120/index.m3u8|referer=https://widevine.licenses4.me/
 
 
+
 ====================================================================================================================================HOME TV | FILM INDONESIA===========================================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be26e4325724/df2bd1819bb74e2ea38e40ebf9d60e14.png" group-title="Home TV |🇮🇩 Indonesia", Bioskop Indonesia 
@@ -1253,9 +1254,6 @@ https://1.yurend.xyz/dash-wv/linear/5096/default_primary.mpd
 https://1.yurend.xyz/dash-wv/linear/2709/default_primary.mpd
 
 
-
-
-
 =================================================================================================================HOME TV | LIFESTYLE======================================================================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="HOME TV | LIFESTYLE", HGTV INDONESIA
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -1277,10 +1275,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="HOME TV | LIFESTYLE", Fashion TV Midnight 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1967
+#http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/1967
 
 #EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="HOME TV | LIFESTYLE", Fashion TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1963
+#http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/1963
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b57xU6q.png" group-title="HOME TV | LIFESTYLE", LifeStyle & Fashion
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3323,7 +3323,8 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="KIDS",ANIPLUS ID ASR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1962
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/1962
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1962
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTy5HgDT/ANGRY-BIRD-removebg-preview.png" group-title="KIDS", Angry Birds Toons
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298493
@@ -3533,14 +3534,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/65FF3dDw/larva.jpg" group-title="KIDS", Larva
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/111
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/111
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/111
 
 #EXTINF:-1 group-title="KIDS" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://103.152.118.53:80/streams/mentari/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jq14FPmV/marsa.jpg" group-title="KIDS", Marsa and The Bear
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/109
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/109
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/df/eb/9b/dfeb9b03f713f27bac621834d676531f.png" group-title="KIDS",Mr Bean Classic
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298499
@@ -3600,7 +3603,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RVRC7fD4/shaun-removebg-preview.png" group-title="KIDS", Shaun The Sheep ASTRO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/110
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/110
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/110
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/1200px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="KIDS", Spongebob TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3610,7 +3614,8 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4zwgrb/tom-and-jerry-removebg-preview.png" group-title="KIDS",Tom And Jerry ASTRO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/113
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/113
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/113
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4zwgrb/tom-and-jerry-removebg-preview.png" group-title="KIDS",Tom And Jerry KCH
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298500
@@ -3622,7 +3627,8 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2YJzcB0/UPIN-removebg-preview.png" group-title="KIDS",Upin Ipin ASTRO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/112
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/112
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/112
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2YJzcB0/UPIN-removebg-preview.png" group-title="KIDS",Upin Ipin KCH
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
@@ -5727,7 +5733,7 @@ https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fik3Nm9.png" group-title="TV |🇯🇵 JAPAN", Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7YLRtla.png" group-title="TV |🇯🇵 JAPAN, Weathernews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YLRtla.png" group-title="TV |🇯🇵 JAPAN", Weather News
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0wds9n8.png" group-title="TV |🇯🇵 JAPAN", GSTV
