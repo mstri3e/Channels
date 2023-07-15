@@ -1307,7 +1307,7 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/3/pro
 =================================================================================================================HOME TV |SPORTS INDONESIA======================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Home TV | Sports", Astro Super Sports 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzYTG/1
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1
 
