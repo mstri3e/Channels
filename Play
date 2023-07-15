@@ -489,7 +489,10 @@ https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="TV NASIONAL | 🇮🇩 DAERAH", Duta TV
 https://o1.siar.us/dutatv/live/chunks.m3u8?nimblesessionid=703711
 
-#EXTINF:-1 tvg-logo="https://postimg.cc/y3DLJWmW" group-title="TV NASIONAL | 🇮🇩 DAERAH", Ficom TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5jiuuM.png" group-title="TV NASIONAL | 🇮🇩 DAERAH", Dayak TV
+https://v5.siar.us/dayaktv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8bZxZq.png" group-title="TV NASIONAL | 🇮🇩 DAERAH", Ficom TV
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gardarevolusi.tv/logo/logo%20web%201.png" group-title="TV NASIONAL | 🇮🇩 DAERAH", Garda TV
@@ -1233,6 +1236,9 @@ https://1.yurend.xyz/dash-wv/linear/5096/default_primary.mpd
 https://1.yurend.xyz/dash-wv/linear/2709/default_primary.mpd
 
 
+
+
+
 =================================================================================================================HOME TV | LIFESTYLE======================================================================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="HOME TV | LIFESTYLE", HGTV INDONESIA
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -1912,30 +1918,30 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Movies Indonesia HD Vision
+#EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Movies Indonesia HD Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Movies Indonesia HD FMX
+#EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Movies Indonesia HD FMX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
 #https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Movies Indonesia HD DENS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Movies Indonesia HD DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.35/dr9445/h/h21/index.m3u8
 #http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Premium Indonesia HD Vision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Indonesia HD Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Premium Indonesia HD DENS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Indonesia HD DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.35/dr9445/h/h20/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Premium Indonesia HD FMX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM | 🇮🇩 INDONESIA",TVN Indonesia HD FMX
 http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8|User-Agent=Lavf/56.15.102
 
@@ -2382,7 +2388,7 @@ http://wowza.convergen.co:1935/atvli/atvli.stream/playlist.m3u8
 
 ===================================================================================================================================WARNER TV CUBMU====================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRBqp_e3cfVmQA5wBhaakdWCC3pm2N1FPrA&usqp=CAU" group-title="FILM | 🇮🇩 INDONESIA",Warner TV HD 1
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch510_425_305" group-title="FILM | 🇮🇩 INDONESIA",Warner TV HD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2390,7 +2396,7 @@ http://wowza.convergen.co:1935/atvli/atvli.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRBqp_e3cfVmQA5wBhaakdWCC3pm2N1FPrA&usqp=CAU" group-title="FILM | 🇮🇩 INDONESIA",Warner TV HD
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch510_425_305" group-title="FILM | 🇮🇩 INDONESIA",Warner TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2824,15 +2830,19 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:5a:fa:94&stream=155729&extension=
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tFyWVZQ7q6hQ2vBVhtL9tq1rBp1e-f2LFYaPeyhhfoTtpT8B4KUgYlpSti4d86V6u-g" group-title="FILM | PREMIUM",The Movie Hub
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT4S1Kwh/MOVIE-HUB-removebg-preview.png" group-title="FILM | PREMIUM",The Movie Hub
+https://d50a1g0nh14ou.cloudfront.net/playlist.m3u8
+#https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL4Np0xH/Box-Movie-1.png" group-title="FILM | PREMIUM",BOX Movie
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/sV9LbSg.png" group-title="FILM | PREMIUM",My Time Movies Network
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.postimg.cc/63Jgybwc/MY-TIME-removebg-preview.png" group-title="FILM | PREMIUM",My Time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="goldenhd.es" tvg-logo="https://i.postimg.cc/c4wmJ1Cp/MOVIE-KINGDOM-removebg-preview.png" group-title="FILM | PREMIUM",MOVIE KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 =======================================================================================================================================WOW GROUP======================================================================================================================================
 
@@ -2877,19 +2887,21 @@ https://dmtv-plex.amag.tv/playlist.m3u8
 https://lightning-actionhollywood-xiaomi.amag.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="FILM | PREMIUM",ATV
-http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
+http://103.152.118.53:80/streams/yusi/hls/atv/master.m3u8
+#http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="FILM | PREMIUM",Action
-http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+#http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="FILM | PREMIUM",AMC
-https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iamchannel.org/images/I-AM-Channel.png" group-title="FILM | PREMIUM",AMC
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236273_ico.png?ts=1663824332" group-title="FILM | PREMIUM",BOX Movie
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="FILM | PREMIUM",Bollywood
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4R2mQR8/BFILX-removebg-preview.png" group-title="FILM | PREMIUM",Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png" group-title="FILM | PREMIUM", SCTV9 HD
@@ -3166,24 +3178,25 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 
 =======================================================================================================================================NHK WORLD=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM | PREMIUM",NHK WORLD JAPAN Vision DENS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM | PREMIUM",NHK WORLD JAPAN Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM | PREMIUM",NHK WORLD JAPAN FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/01.m3u8
-#http://210.210.155.35/uq2663/h/h23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM | PREMIUM",NHK WORLD JAPAN Vision DENS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM | PREMIUM",NHK WORLD JAPAN DENS
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="FILM | PREMIUM",NHK WORLD PREMIUM Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch224)/index.m3u8
-#http://watchlive.my.id/sa_dash_vmx/NHKWorldPremium.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM | PREMIUM",NHK WORLD JAPAN FMX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch224)/index.m3u8
 
 
 ========================================================================================================================================KIDS=======================================================================================================================================
@@ -3404,7 +3417,7 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298539
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="KIDS", Pembelajaran & PENGETAHUAN DENS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43RcYp7Z/learning-removebg-preview.png" group-title="KIDS", Pembelajaran & PENGETAHUAN DENS
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35/x6bnqe/s/s36/index.m3u8
 
@@ -3486,13 +3499,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/02.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/One-Piece-Logo-700x394.png" group-title="KIDS", One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Pluto_TV_Kids_Logo_2020.jpg/revision/latest/scale-to-width-down/250?cb=20220504232727" group-title="KIDS", Pluto TV KIDS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCxMrwz6/Pluto-TV-Kids-Logo-2020-removebg-preview.png" group-title="KIDS", Pluto TV KIDS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" group-title="KIDS", Pluto TV KIDS Animation
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1tv1QJ6r/shaun.jpg" group-title="KIDS", Shaun The Sheep
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RVRC7fD4/shaun-removebg-preview.png" group-title="KIDS", Shaun The Sheep ASTRO
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/110
 
@@ -3502,11 +3515,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS", SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsqS9x3F/TOM-N-JERRY.jpg" group-title="KIDS",Tom And Jerry ASTRO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4zwgrb/tom-and-jerry-removebg-preview.png" group-title="KIDS",Tom And Jerry ASTRO
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/113
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsqS9x3F/TOM-N-JERRY.jpg" group-title="KIDS",Tom And Jerry
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4zwgrb/tom-and-jerry-removebg-preview.png" group-title="KIDS",Tom And Jerry KCH
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298500
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298500
 #http://kuchini.site:8080/multi6741/ab72059e/26810
@@ -3514,11 +3527,11 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298500
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cL1Yffps/toonmax-removebg-preview.png" group-title="KIDS",Toon Max DENS
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4cTR42F/UPIN-IPIN.jpg" group-title="KIDS",Upin Ipin ASTRO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4zwgrb/tom-and-jerry-removebg-preview.png" group-title="KIDS",Upin Ipin ASTRO
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/112
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4cTR42F/UPIN-IPIN.jpg" group-title="KIDS",Upin Ipin
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4zwgrb/tom-and-jerry-removebg-preview.png" group-title="KIDS",Upin Ipin KCH
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
 #http://kuchini.site:8080/multi6741/ab72059e/298501
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298501
@@ -3526,10 +3539,10 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxhj6rbb/Yu-Gi-Oh-Logo-removebg-preview.png" group-title="KIDS", Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2438px-ZooMoo_logo.svg.png" group-title="KIDS", Zoo Moo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="KIDS", Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtQ9BRrD/ZOOMOO.png" group-title="KIDS",Zoo Moo KCH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="KIDS",Zoo Moo KCH
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264751
 
 
@@ -4191,6 +4204,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/XD8Vr0d.jpg",NASA TV MEDIA
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="KNOWLEDGE",NHK WORLD INDONESIA
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
 
 =======================================================================================================================================History=======================================================================================================================================
 
