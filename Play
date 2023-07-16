@@ -994,10 +994,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="NEWS", Russia Today Documentary English
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest" group-title="NEWS", Russia Today Documentary English
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="NEWS", Russia Today Documentary English
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest" group-title="NEWS", Russia Today Documentary English
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 
 
@@ -1167,6 +1167,12 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3010
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3011
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZZGUuhE.png" group-title="Home TV |🇮🇩 Indonesia", K+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983/
+https://1.yurend.xyz/dash-wv/linear/9983/default_primary.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="Home TV |🇮🇩 Indonesia", ONE TV HD Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -1204,12 +1210,35 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005
 
 =================================================================================================================HOME TV |KNOWLEDGE MELAYU======================================================================================================
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CO7N8wc.png" group-title="Home TV | Knowledge", Animal Planet
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710/
+https://1.yurend.xyz/dash-wv/linear/2710/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Home TV | Knowledge",Asian Food Network ( AFN )
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500/
 https://1.yurend.xyz/dash-wv/linear/500/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png" group-title="Home TV | Knowledge", BBC Earth
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051/
+https://1.yurend.xyz/dash-wv/linear/5051/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5MyKCl.png" group-title="Home TV | Knowledge", Crime+ investigation
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111/
+https://1.yurend.xyz/dash-wv/linear/2111/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyXStMvB/Png-Item-746524.png" group-title="Home TV | Knowledge", Discovery Channel 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510/
+https://1.yurend.xyz/dash-wv/linear/2510/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="Home TV | Knowledge",Discovery Asia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -2030,14 +2059,14 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u
 
 ====================================================================================================================================Paramount Network===================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="FILM |🇮🇩 INDONESIA",Paramount +
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="FILM |🇮🇩 INDONESIA",Paramount +
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a 6ae51-6f9d- 4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=, https://play.google.com/store/apps /details?id=com.samsung.android.tvplus&samsung_app_name=Seluler+TV+Plus&us_privacy=1YNY
 
-#EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="FILM |🇮🇩 INDONESIA",Paramount Network HD FMX 
+#EXTINF:-1 tvg-id="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="FILM |🇮🇩 INDONESIA",Paramount Network HD FMX 
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="FILM |🇮🇩 INDONESIA",Paramount Network HD
+#EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="FILM |🇮🇩 INDONESIA",Paramount Network HD
 https://github.com/mimipipi22/nontontv/raw/main/FMX/paramount.m3u8
 #http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=926158&extension=m3u8&play_token=xdbt7BgLik
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
@@ -3323,7 +3352,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="KIDS",ANIPLUS ID ASR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/1962
+http://103.150.197.226:25461/hometv@215/Wdk8VzyYTG/1962
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1962
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTy5HgDT/ANGRY-BIRD-removebg-preview.png" group-title="KIDS", Angry Birds Toons
@@ -3343,7 +3372,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298494
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-YoQ_PpuwlFE/Tt6q2wubOLI/AAAAAAAADNM/7n-woldgaGQ/s1600/Smart+Communications+logo+2011.png" group-title="KIDS",Besmart Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeHjkIG.png" group-title="KIDS",Besmart Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png" group-title="KIDS", Biznet Kids
@@ -3534,7 +3563,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/65FF3dDw/larva.jpg" group-title="KIDS", Larva
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/111
+http://103.150.197.226:25461/hometv@215/Wdk8VzyYTG/111
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/111
 
 #EXTINF:-1 group-title="KIDS" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
@@ -3542,7 +3571,7 @@ http://103.152.118.53:80/streams/mentari/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jq14FPmV/marsa.jpg" group-title="KIDS", Marsa and The Bear
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/109
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/df/eb/9b/dfeb9b03f713f27bac621834d676531f.png" group-title="KIDS",Mr Bean Classic
@@ -3603,8 +3632,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RVRC7fD4/shaun-removebg-preview.png" group-title="KIDS", Shaun The Sheep ASTRO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/110
-http://103.150.197.226:25461/hometv@225/Wdk8VzyYTG/110
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/110
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/110
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/1200px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="KIDS", Spongebob TV
@@ -3615,7 +3643,7 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4zwgrb/tom-and-jerry-removebg-preview.png" group-title="KIDS",Tom And Jerry ASTRO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/113
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/113
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/113
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh4zwgrb/tom-and-jerry-removebg-preview.png" group-title="KIDS",Tom And Jerry KCH
@@ -3628,7 +3656,7 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2YJzcB0/UPIN-removebg-preview.png" group-title="KIDS",Upin Ipin ASTRO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/112
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/112
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/112
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2YJzcB0/UPIN-removebg-preview.png" group-title="KIDS",Upin Ipin KCH
@@ -4117,38 +4145,38 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrvt2EoWkgUzdmqC_1zX3ANUJz-CC2pPasg&usqp=CAU" group-title="KNOWLEDGE",OUTSIDE HD
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0UVMjzwwG7vgi7nsnog5XNyoB59sBWQqRw&usqp=CAU" group-title="KNOWLEDGE",PEOPLE AWESOME HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGqyRfcN/images-removebg-preview-2.png" group-title="KNOWLEDGE",PEOPLE AWESOME HD
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png" group-title="KNOWLEDGE",Dr. Fit HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUa5hM5YCa6hfCQUT-l-J6lWiI6JWHpXrTxg&usqp=CAU" group-title="KNOWLEDGE", Law and Crime Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvk4LdTc/images-removebg-preview-1.png" group-title="KNOWLEDGE", Law & Crime Network
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_205.png" group-title="KNOWLEDGE", CGTN Documentary Vision
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640" group-title="KNOWLEDGE", CGTN Documentary Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_205.png" group-title="KNOWLEDGE", CGTN Documentary FMX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640" group-title="KNOWLEDGE", CGTN Documentary FMX
 http://edge.linknetott.swiftserve.com/channelgroup1/cg033production/ch405/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg" group-title="KNOWLEDGE", Crime + Investigation Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5MyKCl.png" group-title="KNOWLEDGE", Crime+ Investigation Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg" group-title="KNOWLEDGE", Crime + Investigation FMX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5MyKCl.png" group-title="KNOWLEDGE", Crime+ Investigation FMX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_461.png" group-title="KNOWLEDGE", BBC Earth Asia Vision
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png" group-title="KNOWLEDGE", BBC Earth Asia Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_112.png" group-title="KNOWLEDGE", BeSmart Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeHjkIG.png" group-title="KNOWLEDGE", BeSmart Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
@@ -4184,15 +4212,15 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u
 
 =======================================================================================================================================Global Trekker=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="KNOWLEDGE", Global Trekker HD FMX
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="KNOWLEDGE", Global Trekker HD FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/globaltrekker.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="KNOWLEDGE", Global Trekker HD Vision
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="KNOWLEDGE", Global Trekker HD Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
 #EXTINF:-1 tvg-id="ntv7.my" tvg-logo="https://didik.tv/images/logotv2.png" group-title="KNOWLEDGE",Didik TV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4202,10 +4230,13 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="KNOWLEDGE", DidikTV KPM
 #https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="KNOWLEDGE", Russia Today Documentary English
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest", Russia Today Documentary English 1
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="KNOWLEDGE", Russia Today Documentary English
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest", Russia Today Documentary English 2
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest" group-title="KNOWLEDGE", Russia Today Documentary English 3
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="KNOWLEDGE", Dunia Lain HD 1
@@ -4224,17 +4255,17 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedwkO8Z-NZSc8ENShG3hsQ4HjCzhTcMCWJYOZ9Z_KEfgHfryq9rOhAqLQO-FXvCjBAQ&usqp=CAU" group-title="KNOWLEDGE", DMAX TV HD
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch347)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedwkO8Z-NZSc8ENShG3hsQ4HjCzhTcMCWJYOZ9Z_KEfgHfryq9rOhAqLQO-FXvCjBAQ&usqp=CAU" group-title="KNOWLEDGE", DMAX TV
 https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/28163ERT%20World.jpg" group-title="KNOWLEDGE", ERT World
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0vyFszQ/download-removebg-preview.png" group-title="KNOWLEDGE", ERT World
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/29064Better%20Health%20TV.jpg" group-title="KNOWLEDGE", Better Health TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYRjqtJY/download-removebg-preview-1.png" group-title="KNOWLEDGE", Better Health TV
 https://uni10rtmp.tulix.tv/betterhealth/betterhealth.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="KNOWLEDGE",Tech Storm FMX
@@ -4256,13 +4287,13 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u
 #EXTINF:-1 tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="KNOWLEDGE", Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="KNOWLEDGE", XPLORE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8vLQkrM/images-removebg-preview-3.png" group-title="KNOWLEDGE", XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2021/01/Insight-TV-Logo-small-150x150.png" group-title="KNOWLEDGE", INSIGHT
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/introble.jpg" group-title="KNOWLEDGE", INTROUBLE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghv8Qh1C/introble-removebg-preview.png" group-title="KNOWLEDGE", INTROUBLE
 https://introuble-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="KNOWLEDGE", INWILD
@@ -4271,17 +4302,17 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="KNOWLEDGE", INWONDER
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAixj-Cg_3Ad8xIAuW9jN5ztcFrssfJasgQ&usqp=CAU" group-title="KNOWLEDGE", Wild Earth
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PKq056c/images-removebg-preview-4.png" group-title="KNOWLEDGE", Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="KNOWLEDGE", HGTV INDONESIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="KNOWLEDGE", HGTV INDONESIA
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="KNOWLEDGE", HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="KNOWLEDGE", HGTV
 #https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE", Smithsonian
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okSbavu.png" group-title="KNOWLEDGE", Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
@@ -4290,15 +4321,18 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="KNOWLEDGE", Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmJDc3MQ/imgbin-animal-planet-logo-television-channel-others-E91-Mw-Tn9r-BZVEgc6-Nz-Xur9epn-removebg-preview.png" group-title="KNOWLEDGE", Animal Planet HD
 #https://kusnadipepenk.github.io/ntn/animal.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet Indonesia FMX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmJDc3MQ/imgbin-animal-planet-logo-television-channel-others-E91-Mw-Tn9r-BZVEgc6-Nz-Xur9epn-removebg-preview.png" group-title="KNOWLEDGE", Animal Planet ID FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet Indonesia FMX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CO7N8wc.png" group-title="KNOWLEDGE", Animal Planet ID VISION
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
 
 KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4307,16 +4341,16 @@ KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet HD Luar 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CO7N8wc.png" group-title="KNOWLEDGE", Animal Planet HD Luar 1
 #https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 
 
 =======================================================================================================================================Nasa TV=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="KNOWLEDGE", NASA TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="KNOWLEDGE", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/XD8Vr0d.jpg",NASA TV MEDIA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/250px-NASA_TV.svg.png",NASA TV MEDIA
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="KNOWLEDGE",NHK WORLD INDONESIA
@@ -4367,24 +4401,24 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="KNOWLEDGE",Discovery Indonesia
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/discovery.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmsVfPjH/discovery-asia.png" group-title="KNOWLEDGE",Discovery Asia FMX
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="KNOWLEDGE",Discovery Asia FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch30)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmsVfPjH/discovery-asia.png" group-title="KNOWLEDGE", Discovery Asia 
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/rwc4tn7y/discovery-hd.png" group-title="KNOWLEDGE",Discovery Channel HD LUAR
+#EXTINF:0 tvg-logo="https://i.postimg.cc/fyXStMvB/Png-Item-746524.png" group-title="KNOWLEDGE",Discovery Channel HD LUAR
 #https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwc4tn7y/discovery-hd.png" group-title="KNOWLEDGE", Discovery Channel HD FMX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyXStMvB/Png-Item-746524.png" group-title="KNOWLEDGE", Discovery Channel HD FMX
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 #https://kusnadipepenk.github.io/ntn/disc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMggvyTw/TURBO-removebg-preview.png" group-title="KNOWLEDGE", Discovery Turbo
 https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XdfhVFx/discovery-SCIENCE-removebg-preview.png" group-title="KNOWLEDGE", Discovery Science
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R902LMD/discovery-science-removebg-preview.png" group-title="KNOWLEDGE", Discovery Science
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryScience.m3u8
 
 #EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/9XdfhVFx/discovery-SCIENCE-removebg-preview.png",DISCOVERY SCIENCE UK
@@ -4412,52 +4446,51 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/172605
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
-#EXTINF:-1 tvg-id="discovery science" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/9XdfhVFx/discovery-SCIENCE-removebg-preview.png",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="discovery science" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/3R902LMD/discovery-science-removebg-preview.png",DISCOVERY SCIENCE HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
 
 ========================================================================================================================================National Geo=======================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png",National Geographic Asia Vision+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/OZ8lCeO.png",National Geographic Asia Vision+
 https://nxanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png",National Geographic Asia
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/OZ8lCeO.png",National Geographic Asia
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeow.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic ID Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="KNOWLEDGE", National Geographic ID Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic ID FMX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="KNOWLEDGE", National Geographic ID FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch38)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic Abu Dhabi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="KNOWLEDGE", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/640px-New_NatGeo_People_logo.svg.png" group-title="KNOWLEDGE", National Geographic People
-http://5.255.90.238:5002/play/a00w/index.m3u8
+#http://5.255.90.238:5002/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zqa20Bh.png" group-title="KNOWLEDGE", National Geographic Wild Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild FMX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zqa20Bh.png" group-title="KNOWLEDGE", National Geographic Wild FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch39)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREO9IBFHrUrcw-d6ay59hzoCuZtZ2iGaIivw&usqp=CAU" group-title="KNOWLEDGE", Arirang Korea FMX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="KNOWLEDGE", Arirang Korea FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch253)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
 
@@ -4635,7 +4668,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="LIFESTYLE", HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="LIFESTYLE", HGTV
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
@@ -5405,7 +5438,7 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/grid/original/129500_pd-drama-terlibat-skandal-ini-penjelasan-pihak-mbc.jpg" group-title="TV |🇰🇵 KOREA", MBC Andong
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEZOrjSLJ3IyHbBj8ruDDm8Wqo1Zjqq3UPg&usqp=CAU" group-title="TV |🇰🇵 KOREA", Arirang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="TV |🇰🇵 KOREA", Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png" group-title="TV |🇰🇵 KOREA", BBS Buddhist Broadcasting
@@ -5642,7 +5675,7 @@ https://ythls.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/All_the_Kpop.jpeg" group-title="TV |🇰🇵 KOREA", All The K-POP
 https://ythls.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7sa6moafNBVKrwbrEPGBDlNv1pjnOVmrjQ&usqp=CAU" group-title="TV |🇰🇵 KOREA", Arirang Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="TV |🇰🇵 KOREA", Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMx4AvXp_YFMjITW3r5OT_eE-m1K13iWaifw&usqp=CAU" group-title="TV |🇰🇵 KOREA", GoodTV
