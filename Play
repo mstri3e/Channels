@@ -1913,10 +1913,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d2/FTV_%28Indonesia%29.png/revision/latest",FTV
-#EXTVLCOPT:http-user-agent=apiv2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/ftv/license-proxy-widevine/cenc/?specConform=true
-http://103.152.118.53:80/play/mekstrim/dash/5cd2bf10-1ac0-4fa7-9543-3520f01b3378/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1939,7 +1938,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hitsnow.sg" tvg-logo="https://i.imgur.com/sQkw1Dt.png",HITS Now
-#EXTVLCOPT:http-user-agent=apiv2
 #KODIPROP:inputstream.adaptive.licese_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hitsnow/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
