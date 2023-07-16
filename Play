@@ -2571,7 +2571,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006/
 https://1.yurend.xyz/dash-wv/linear/1006/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rpa49IN.png" group-title="FILM |🇲🇾 MALAYSIA", OKEY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="FILM |🇲🇾 MALAYSIA", OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1296000_slENG.m3u8?id=3|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest" group-title="FILM |🇲🇾 MALAYSIA", Sukan RTM
@@ -2721,7 +2721,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025/
 https://1.yurend.xyz/dash-wv/linear/5025/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-fQgaeJtm5ro/YauUAq5M_rI/AAAAAAAAILA/yryfWMlF2L4OgifiK5Z0q1i9ABMjf_o3wCNcBGAsYHQ/s720/awesome-p.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO AWESOME HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zGdY96mf/awesome.jpg" group-title="FILM |🇲🇾 MALAYSIA",ASTRO AWESOME HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
 https://1.yurend.xyz/dash-wv/linear/211/default_primary.mpd
@@ -3561,7 +3561,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC5hqfLd/download-4.png" group-title="KIDS", Kids TV KCH
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162505
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/65FF3dDw/larva.jpg" group-title="KIDS", Larva
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wB0YYrSv/larva.png" group-title="KIDS", Larva
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/111
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/111
@@ -3569,7 +3569,7 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/111
 #EXTINF:-1 group-title="KIDS" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://103.152.118.53:80/streams/mentari/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jq14FPmV/marsa.jpg" group-title="KIDS", Marsa and The Bear
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hPWDrkgW/images-removebg-preview-6.png" group-title="KIDS", Masha and The Bear
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/109
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/109
