@@ -1931,7 +1931,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="FILM |🇮🇩 INDONESIA",Citra Bioskop Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/Citrabioskop/sa_dash_vmx/Citrabioskop.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Citrabioskop/sa_dash_vmx/Citrabioskop.mpd
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="FILM |🇮🇩 INDONESIA",Citra Bioskop FMX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4318,7 +4318,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 =======================================================================================================================================Animal Planet=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="KNOWLEDGE", Amazon Sat
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df1npxB9/download-removebg-preview-3.png" group-title="KNOWLEDGE", Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmJDc3MQ/imgbin-animal-planet-logo-television-channel-others-E91-Mw-Tn9r-BZVEgc6-Nz-Xur9epn-removebg-preview.png" group-title="KNOWLEDGE", Animal Planet HD
@@ -4332,7 +4332,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CO7N8wc.png" group-title="KNOWLEDGE", Animal Planet ID VISION
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/Animalplanet/sa_dash_vmx/Animalplanet.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Animalplanet/sa_dash_vmx/Animalplanet.mpd
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
 
 KODIPROP:inputstream.adaptive.manifest_type=mpd
