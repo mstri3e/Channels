@@ -2658,7 +2658,7 @@ https://1.yurend.xyz/dash-wv/linear/100/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/607/
 https://1.yurend.xyz/dash-wv/linear/607/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM |🇲🇾 MALAYSIA",TVN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM |🇲🇾 MALAYSIA",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001/
 https://1.yurend.xyz/dash-wv/linear/1001/default_primary.mpd
