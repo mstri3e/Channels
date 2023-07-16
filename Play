@@ -3563,7 +3563,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/65FF3dDw/larva.jpg" group-title="KIDS", Larva
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@215/Wdk8VzyYTG/111
+http://103.150.197.215:25461/hometv@215/Wdk8VzyYTG/111
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/111
 
 #EXTINF:-1 group-title="KIDS" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
@@ -3571,7 +3571,7 @@ http://103.152.118.53:80/streams/mentari/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jq14FPmV/marsa.jpg" group-title="KIDS", Marsa and The Bear
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/109
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/109
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/df/eb/9b/dfeb9b03f713f27bac621834d676531f.png" group-title="KIDS",Mr Bean Classic
@@ -4142,7 +4142,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsds3vWq/biznet-adv-removebg-preview.png" group-title="KNOWLEDGE", Biznet Adventure 4K
 #http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrvt2EoWkgUzdmqC_1zX3ANUJz-CC2pPasg&usqp=CAU" group-title="KNOWLEDGE",OUTSIDE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGMKsvsf/images-removebg-preview-5.png" group-title="KNOWLEDGE",OUTSIDE HD
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGqyRfcN/images-removebg-preview-2.png" group-title="KNOWLEDGE",PEOPLE AWESOME HD
@@ -4230,10 +4230,10 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="KNOWLEDGE", DidikTV KPM
 #https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest", Russia Today Documentary English 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest" group-title="KNOWLEDGE", Russia Today Documentary English 1
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest", Russia Today Documentary English 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest" group-title="KNOWLEDGE", Russia Today Documentary English 2
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest" group-title="KNOWLEDGE", Russia Today Documentary English 3
