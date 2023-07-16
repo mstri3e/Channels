@@ -3561,7 +3561,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC5hqfLd/download-4.png" group-title="KIDS", Kids TV KCH
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162505
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wB0YYrSv/larva.png" group-title="KIDS", Larva
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L6H72D3g/LArva-1.png" group-title="KIDS", Larva
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/111
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/111
