@@ -1897,6 +1897,16 @@ https://1.yurend.xyz/dash-wv/linear/2603/default_primary.mpd
 
 ====================================================================================================================================FILM MAXSTREAM===========================================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNd319Wm/axn-hd-removebg-preview.png" group-title="FILM |🇮🇩 MAXSTREAM", Axn 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/axn/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4e768b62-1332-4938-b2c7-19dc184fd0d2)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="FILM |🇮🇩 MAXSTREAM", Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/celestialmovies/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012-489d-8c88-be5624ded39c)/manifest.mpd
+
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="cinemaxasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
@@ -1934,26 +1944,45 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hitsnow/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="FILM |🇮🇩 MAXSTREAM",INDIKIDS MAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="FILM |🇮🇩 MAXSTREAM",INDIKIDS 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
-#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Asia MAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" group-title="FILM |🇮🇩 MAXSTREAM", Kix 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/kix/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dde85ea0-b018-44f3-81f6-6dc33b6daf3f)/manifest.mpd
+
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Asia 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/mycinemaasia/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5-49c0-bfdf-ad10b1ee356d)/manifest.mpd
 
-#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema MAX
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/mycinema/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="FILM |🇮🇩 MAXSTREAM",My Family Channel MAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="FILM |🇮🇩 MAXSTREAM",My Family Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/myfamily/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1-404c-ba21-df68a1cffcac)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM |🇮🇩 MAXSTREAM", Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/paramount/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="FILM |🇮🇩 MAXSTREAM", Thrill 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/thrill/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(87e38ea2-30cd-4a36-8a2b-087b6d815fd2)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 MAXSTREAM", Zee Bioskop 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/zeebioskop/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d-470c-a7f0-641ef845d90a)/manifest.mpd
 
 
 ====================================================================================================================================FILM INDONESIA===========================================================================================================================================================
