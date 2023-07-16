@@ -2159,7 +2159,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a 6ae51-6f9d- 4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=, https://play.google.com/store/apps /details?id=com.samsung.android.tvplus&samsung_app_name=Seluler+TV+Plus&us_privacy=1YNY
 http://i.mjh.nz/PlutoTV/5ff8c708653d080007361b14.m3u8
 
-#EXTINF:-1 tvg-id="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM |🇮🇩 INDONESIA",Paramount Network FMX 
+#EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM |🇮🇩 INDONESIA",Paramount Network FMX 
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 
@@ -2632,11 +2632,41 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 https://1.yurend.xyz/dash-wv/linear/1113/default_primary.mpd
 #https://live.mana2.my/TVAH/index.m3u8?organizationId=196288014&suiteItemId=196291301
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNd319Wm/axn-hd-removebg-preview.png" group-title="FILM |🇲🇾 MALAYSIA",AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303/
+https://1.yurend.xyz/dash-wv/linear/2303/default_primary.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIsWGuK.png" group-title="FILM |🇲🇾 MALAYSIA", Bernama
 https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=200299504
 
 #EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="FILM |🇲🇾 MALAYSIA", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="FILM |🇲🇾 MALAYSIA",Celestial Movies CM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506/
+https://1.yurend.xyz/dash-wv/linear/506/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="FILM |🇲🇾 MALAYSIA",Celestial Classic Movies CCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100/
+https://1.yurend.xyz/dash-wv/linear/100/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" group-title="FILM |🇲🇾 MALAYSIA",KIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/607/
+https://1.yurend.xyz/dash-wv/linear/607/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM |🇲🇾 MALAYSIA",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001/
+https://1.yurend.xyz/dash-wv/linear/1001/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="FILM |🇲🇾 MALAYSIA",TVN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406/
+https://1.yurend.xyz/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png" group-title="FILM |🇲🇾 MALAYSIA", Parlmen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
@@ -3469,6 +3499,9 @@ https://ytlive.openwindow040.workers.dev/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298494
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298494
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBbGQhxc/images-removebg-preview-9.png" group-title="KIDS", Baby Shark
+https://newidco-babysharktv-1-us.roku.wurl.tv/107177711/hls-v2/1200-00020.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeHjkIG.png" group-title="KIDS",Besmart Vision
@@ -3514,9 +3547,14 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456010
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS", Cartoon Network Astro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS", Cartoon Network Home
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3003
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS", Cartoon Network My
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509/
+https://1.yurend.xyz/dash-wv/linear/509/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS", Cartoon Network HD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3710,6 +3748,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS", Nick Junior FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS", Nick Junior My
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982/
+https://1.yurend.xyz/dash-wv/linear/9982/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/NICK2023.png/800px-NICK2023.png" group-title="KIDS", Nickelodeon Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
