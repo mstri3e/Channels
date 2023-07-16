@@ -1931,7 +1931,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="FILM |🇮🇩 INDONESIA",Citra Bioskop Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#https://nyanv-live-cdn.mncnow.id/live/eds/CitraBioskop/sa_dash_vmx/CitraBioskop.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Citrabioskop/sa_dash_vmx/Citrabioskop.mpd
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="FILM |🇮🇩 INDONESIA",Citra Bioskop FMX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4239,7 +4239,7 @@ https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest" group-title="KNOWLEDGE", Russia Today Documentary English 3
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="KNOWLEDGE", Dunia Lain HD 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS7WMHnC/1d04ef38955743af9ac051beba87b578-removebg-preview-1.png" group-title="KNOWLEDGE", Dunia Lain HD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4247,7 +4247,7 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/pl
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="KNOWLEDGE", Dunia Lain HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS7WMHnC/1d04ef38955743af9ac051beba87b578-removebg-preview-1.png" group-title="KNOWLEDGE", Dunia Lain HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4302,7 +4302,7 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="KNOWLEDGE", INWONDER
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PKq056c/images-removebg-preview-4.png" group-title="KNOWLEDGE", Wild Earth
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbfrWp9Y/download-removebg-preview-2.png" group-title="KNOWLEDGE", Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="KNOWLEDGE", HGTV INDONESIA
@@ -4332,7 +4332,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CO7N8wc.png" group-title="KNOWLEDGE", Animal Planet ID VISION
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Animalplanet/sa_dash_vmx/Animalplanet.mpd
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
 
 KODIPROP:inputstream.adaptive.manifest_type=mpd
