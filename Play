@@ -3552,6 +3552,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456010
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3003
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS", Cartoon Network My
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509/
 https://1.yurend.xyz/dash-wv/linear/509/default_ott.mpd
@@ -3750,6 +3751,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS", Nick Junior My
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982/
 https://1.yurend.xyz/dash-wv/linear/9982/default_ott.mpd
