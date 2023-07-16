@@ -3563,7 +3563,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/65FF3dDw/larva.jpg" group-title="KIDS", Larva
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
-http://103.150.197.215:25461/hometv@215/Wdk8VzyYTG/111
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/111
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/111
 
 #EXTINF:-1 group-title="KIDS" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
