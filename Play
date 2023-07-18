@@ -1108,7 +1108,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiCWRg1.png" group-title="INDIHOME |🇮🇩 USEETV", ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiCWRg1.png" group-title="INDIHOME |🇮🇩 USEETV", Antara TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -1140,7 +1140,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="INDIHOME |🇮🇩 USEETV", INDI KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://i.postimg.cc/7LbbDm7K/jaktv-removebg-preview.png" group-title="INDIHOME |🇮🇩 USEETV",JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -4766,7 +4766,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiCWRg1.png" group-title="LIFESTYLE", ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiCWRg1.png" group-title="LIFESTYLE", ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
