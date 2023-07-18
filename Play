@@ -553,11 +553,6 @@ http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53OjK6n.png" group-title="DAERAH |🇮🇩 INDONESIA",MGS TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="DAERAH |🇮🇩 INDONESIA", MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png" group-title="DAERAH |🇮🇩 INDONESIA", MTA TV MAX
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://padangtv.id/wp-content/uploads/2020/07/logo1-e1595189708614.png" group-title="DAERAH |🇮🇩 INDONESIA", Padang TV
 http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/chunklist_w1780280358.m3u8
@@ -2076,6 +2071,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/paramount/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="FILM |🇮🇩 MAXSTREAM", Rodja TV HD
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6BDH7BS/download-removebg-preview-8.png" group-title="FILM |🇮🇩 MAXSTREAM", Rans Entertainment
 https://deptokv1.herokuapp.com/index.m3u8?id=8241
 
@@ -2089,6 +2087,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(87e38ea2-30cd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63pJ0nW2/download-removebg-preview-9.png" group-title="FILM |🇮🇩 MAXSTREAM", U Channel
 https://deptokv1.herokuapp.com/index.m3u8?id=6898
+
+#EXTINF:-1 tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="FILM |🇮🇩 MAXSTREAM", U Channel Backup
+#https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 MAXSTREAM", Zee Bioskop 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5259,39 +5260,83 @@ http://kuchini.site:8080/multi6741/ab72059e/298502
 
 =======================================================================================================================================RELIGIUS=======================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="RELIGIUS", Sunnah Jalan Pasti TV
-https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Ahsan_TV.png/revision/latest?cb=20180922124847" group-title="RELIGIUS", Ahsan TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png" group-title="RELIGIUS", AHSAN TV
+#https://h1.intechmedia.net/intech/ch4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBvofKjGEn0-cHzH6uz2q1CTfuCq58JZqUQ&usqp=CAU" group-title="RELIGIUS", Al Bahjah TV
+https://h1.intechmedia.net/intech/ch64.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="RELIGIUS", AL IMAN TV
+https://h1.intechmedia.net/intech/ch9.m3u8
+#http://tv.aliman.id:1935/aliman/HD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="RELIGIUS", Al Quran Al Kareem TV Vision
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn96XMFHcAHXLJkBBYHyGWqWU7M_7EO5QSAg&usqp=CAU" group-title="RELIGIUS", Al Wafa Tarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBJdM0UZPBjFiBdLu_gtvJCFjY-jQjROHzA&usqp=CAU" group-title="RELIGIUS", Naajiya TV
-https://h1.intechmedia.net/intech/ch7.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg" group-title="RELIGIUS", ALFURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXWckSEKhmdQTtfZm4IOdAE6iv_tRN53p66jaa9=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIUS", Artvisi
 https://streaming.yufid.com/hls/artvisi.m3u8
 
-#EXTINF:-1 tvg-logo="https://wesaltv.id/wp-content/uploads/2019/08/Logo-Wesal-TV-Keluarga-2021-v1-768x278.png" group-title="RELIGIUS", Wesal TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="RELIGIUS", ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/mgitv.png" group-title="RELIGIUS", MGI TV
-https://tv.rodja.live/tasik/mgitv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio hidayah.png" group-title="RELIGIUS", HIDAYAH TV
-https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6cqMMTSZva1xS2b8G6TeRsyFzISFCAgang&usqp=CAU" group-title="RELIGIUS", Bina Madani TV
+https://h1.intechmedia.net/intech/ch20.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png" group-title="RELIGIUS", BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png" group-title="RELIGIUS", Reformed 21 Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ofk7Phe.png" group-title="RELIGIUS", Catholic TV
+#https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="RELIGIUS",Citra Muslim FMX
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="RELIGIUS", DAAI TV Vision+
+#https://anv-live-cdn-118.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="RELIGIUS", DAAI TV FMX
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="RELIGIUS", EWTN FMX
+http://edge.linknetott.swiftserve.com/channelgroup1/cg004production/ch299/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="RELIGIUS", EWTN Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 #EXTINF:-1 tvg-logo="https://gbitv.net/src/img/LOGO-02.png" group-title="RELIGIUS", GBI TV
-https://wowza.convergen.co/gbi/gbi.stream/playlist.m3u8
+#https://wowza.convergen.co/gbi/gbi.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="RELIGIUS", Khazanah HD 1
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio hidayah.png" group-title="RELIGIUS", HIDAYAH TV
+https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH TV.jpg" group-title="RELIGIUS", HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/insantv.png" group-title="RELIGIUS", INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Inspira_TV.png/400px-Inspira_TV.png" group-title="RELIGIUS", Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png" group-title="RELIGIUS", IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43q5ykmL/images-removebg-preview-15.png" group-title="RELIGIUS", Khazanah HD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5299,7 +5344,7 @@ https://wowza.convergen.co/gbi/gbi.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="RELIGIUS", Khazanah HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43q5ykmL/images-removebg-preview-15.png" group-title="RELIGIUS", Khazanah HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5310,44 +5355,93 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/life_id.png" group-title="RELIGIUS", LIFE Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="RELIGIUS", EWTN FMX
-http://edge.linknetott.swiftserve.com/channelgroup1/cg004production/ch299/02.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" group-title="RELIGIUS", MADINAH TV DENS
+http://210.210.155.35/qwr9ew/s/s27/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="RELIGIUS", EWTN Vision
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png" group-title="RELIGIUS", MAKKAH TV DENS
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="RELIGIUS", MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png" group-title="RELIGIUS", MTA TV MAX
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg" group-title="RELIGIUS", MEDS TV ACEH
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/mgitv.png" group-title="RELIGIUS", MGI TV
+https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+https://h1.intechmedia.net/intech/ch25.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgazsLsd9mXwb_4GJD9V_qB7ktQ8MglfWgHg&usqp=CAU" group-title="RELIGIUS", Muadz TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/muadztv.png" group-title="RELIGIUS", MUADZ TV
+#http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="RELIGIUS", Muslim TV Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1 tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="RELIGIUS", U Channel
-https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBJdM0UZPBjFiBdLu_gtvJCFjY-jQjROHzA&usqp=CAU" group-title="RELIGIUS", Naajiya TV
+https://h1.intechmedia.net/intech/ch7.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" group-title="RELIGIUS", NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiokitatv.com/wp-content/uploads/2022/03/hd-logo-1024x323.png" group-title="RELIGIUS", RadioKita TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" group-title="RELIGIUS", RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png" group-title="RELIGIUS", Reformed 21 Vision
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="RELIGIUS", Rodja TV
+https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
+#https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1148284456_b946000.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/rodja.png" group-title="RELIGIUS", RODJA TV
+#https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx4X26mXdToQeu4oQFjz5325ybANcdmvEfMkg=s900-c-k-c0xffffffff-no-rj-mo" group-title="RELIGIUS", Saling Sapa TV
+https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png" group-title="RELIGIUS", SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="RELIGIUS", Sunnah Jalan Pasti TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/surautv.png" group-title="RELIGIUS", SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png" group-title="RELIGIUS", Tawaf TV Vision
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rWtX77u.png" group-title="RELIGIUS", TBN Asia
 http://rr2.dens.tv/s/s39/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ofk7Phe.png" group-title="RELIGIUS", Catholic TV
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="RELIGIUS", TV 9 Nusantara
+http://edge.linknetott.swiftserve.com/channelgroup5/cg503production/ch352/02.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
+#https://streaming.indihometv.com/joss/130/tv9/playlist.m3u8?enc=PBcJpwH3qz_kcjwtp3z9Ow&exp=1685064124&encp=Ck3SU2NStkmnejSOrMPXcw&expp=1685074624
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="RELIGIUS", TV2000
-http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="RELIGIUS", Rodja TV
-https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1148284456_b946000.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="RELIGIUS", Rodja TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Inspira_TV.png/400px-Inspira_TV.png" group-title="RELIGIUS", Inspira TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="RELIGIUS", DAAI TV Vision+
-https://anv-live-cdn-118.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="RELIGIUS", DAAI TV FMX
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="RELIGIUS", TV 9 Nusantara Vision
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nxanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="RELIGIUS", TV Mu Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5355,100 +5449,54 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="RELIGIUS", TVMU
-https://tvmu.siar.us/tvmu/live/playlist.m3u8
+#https://tvmu.siar.us/tvmu/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="RELIGIUS", Muslim TV Vision
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="RELIGIUS", Quran TV Vision
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png" group-title="RELIGIUS", Tawaf TV Vision
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="RELIGIUS", TV 9 Nusantara
-http://edge.linknetott.swiftserve.com/channelgroup5/cg503production/ch352/02.m3u8
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
-#https://streaming.indihometv.com/joss/130/tv9/playlist.m3u8?enc=PBcJpwH3qz_kcjwtp3z9Ow&exp=1685064124&encp=Ck3SU2NStkmnejSOrMPXcw&expp=1685074624
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx4X26mXdToQeu4oQFjz5325ybANcdmvEfMkg=s900-c-k-c0xffffffff-no-rj-mo" group-title="RELIGIUS", Saling Sapa TV
-https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6cqMMTSZva1xS2b8G6TeRsyFzISFCAgang&usqp=CAU" group-title="RELIGIUS", BinaMadani TV
-https://h1.intechmedia.net/intech/ch20.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiokitatv.com/wp-content/uploads/2022/03/hd-logo-1024x323.png" group-title="RELIGIUS", RadioKita TV
-https://h1.intechmedia.net/intech/ch16.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Ahsan_TV.png/revision/latest?cb=20180922124847" group-title="RELIGIUS", Ahsan TV
-https://h1.intechmedia.net/intech/ch4.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgazsLsd9mXwb_4GJD9V_qB7ktQ8MglfWgHg&usqp=CAU" group-title="RELIGIUS", Muadz TV
-https://h1.intechmedia.net/intech/ch5.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBvofKjGEn0-cHzH6uz2q1CTfuCq58JZqUQ&usqp=CAU" group-title="RELIGIUS", Bahjah TV
-https://h1.intechmedia.net/intech/ch64.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" group-title="RELIGIUS", RASYAAD TV
-https://h1.intechmedia.net/intech/ch6.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg" group-title="RELIGIUS", MEDS TV ACEH
-https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="RELIGIUS", TV2000
+#http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png" group-title="RELIGIUS", UFA TV
 https://h1.intechmedia.net/intech/ch27.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/rodja.png" group-title="RELIGIUS", RODJA TV
-https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wesaltv.id/wp-content/uploads/2019/08/Logo-Wesal-TV-Keluarga-2021-v1-768x278.png" group-title="RELIGIUS", Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png" group-title="RELIGIUS", MAKKAH TV DENS
-http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" group-title="RELIGIUS", MADINAH TV DENS
-http://210.210.155.35/qwr9ew/s/s27/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/surautv.png" group-title="RELIGIUS", SURAU TV
-http://119.235.249.58:1935/surautv/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="RELIGIUS", ASHIIL TV
-https://h1.intechmedia.net/intech/ch2.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="RELIGIUS", AL IMAN TV
-http://tv.aliman.id:1935/aliman/HD/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/insantv.png" group-title="RELIGIUS", INSAN TV
-https://h1.intechmedia.net/intech/ch1.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png" group-title="RELIGIUS", AHSAN TV
-https://h1.intechmedia.net/intech/ch4.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg" group-title="RELIGIUS", ALFURQON TV
-https://h1.intechmedia.net/intech/ch24.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH TV.jpg" group-title="RELIGIUS", HIJRAH TV
-https://h1.intechmedia.net/intech/ch8.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png" group-title="RELIGIUS", SJP TV
-https://h1.intechmedia.net/intech/ch17.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" group-title="RELIGIUS", NIAGA TV
-https://h1.intechmedia.net/intech/ch10.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png" group-title="RELIGIUS", IZZAH TV
-https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/muadztv.png" group-title="RELIGIUS", MUADZ TV
-http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="RELIGIUS",Citra Muslim FMX
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 =======================================================================================================================================TVDUNIA=======================================================================================================================================
