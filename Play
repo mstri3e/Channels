@@ -157,7 +157,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 
 #EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://i.postimg.cc/D0snbdWp/Mentari-TV.png" group-title="NASIONAL |🇮🇩 INDONESIA",Mentari TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298546
+https://deptokv1.herokuapp.com/index.m3u8?id=8237
+#http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298546
 #https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://i.postimg.cc/D0snbdWp/Mentari-TV.png" group-title="NASIONAL |🇮🇩 INDONESIA",Mentari TV
@@ -1972,10 +1973,19 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/paramount/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6BDH7BS/download-removebg-preview-8.png" group-title="FILM |🇮🇩 MAXSTREAM", Rans Entertainment
+https://deptokv1.herokuapp.com/index.m3u8?id=8241
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QBqwHrm/images-removebg-preview-10.png" group-title="FILM |🇮🇩 MAXSTREAM", TV Tempo
+https://deptokv1.herokuapp.com/index.m3u8?id=7946
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="FILM |🇮🇩 MAXSTREAM", Thrill 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/thrill/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(87e38ea2-30cd-4a36-8a2b-087b6d815fd2)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63pJ0nW2/download-removebg-preview-9.png" group-title="FILM |🇮🇩 MAXSTREAM", U Channel
+https://deptokv1.herokuapp.com/index.m3u8?id=6898
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 MAXSTREAM", Zee Bioskop 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5529,12 +5539,12 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 =======================================================================================================================================TV SINGAPURA=======================================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/800px-Mediacorp_Channel_5_2023.svg.png" group-title="TV |🇸🇬 SINGAPURA", Channel 5 (Singapore)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxBN1Jmz/Mediacorp-Channel-5-2023-svg-removebg-preview.png" group-title="TV |🇸🇬 SINGAPURA", Channel 5 (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=4ff62f3c6b564e78a094f6267b4a4753&key=b05d99aa30e86ca93dd29a541c162068
 https://tglmp02.akamaized.net/out/v1/9fd968b813e5405194a4fc3db1baae0e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/1200px-Mediacorp_Channel_8_2023.svg.png" group-title="TV |🇸🇬 SINGAPURA", Channel 8 (Singapore)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvxmNvj7/Mediacorp-Channel-8-2023-svg-removebg-preview.png" group-title="TV |🇸🇬 SINGAPURA", Channel 8 (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=8e20941e341546bcbec92723243db7cc&key=c988f45986115fbaf6f7d1f2254d57e6
 https://tglmp02.akamaized.net/out/v1/ddcc17a468ab45ae90bbd82ed8d49350/manifest.mpd
