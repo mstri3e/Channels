@@ -5461,47 +5461,9 @@ https://h1.intechmedia.net/intech/ch27.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 =======================================================================================================================================TVDUNIA=======================================================================================================================================
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyM8QtMfUVG8H4zCGSEM-ESpQ2fYjsiWVCWw&usqp=CAU" group-title="TV | DUNIA",Shenzhen TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyM8QtMfUVG8H4zCGSEM-ESpQ2fYjsiWVCWw&usqp=CAU" group-title="TV | DUNIA",Shenzhen TV
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch218)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup1/cg034production/ch218/02.m3u8
 
