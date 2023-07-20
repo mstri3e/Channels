@@ -5515,7 +5515,7 @@ https://h1.intechmedia.net/intech/ch4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch64.m3u8
 
-#EXTINF:-1 tvg-logo="https://aliman.id/site/storage/2020/11/croppehttps://i.imgur.com/cYY61N2.pngd-cropped-alimanid-web-3-1.png" group-title="RELIGIUS", AL IMAN TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj5qLbSm/download-removebg-preview-22.png" group-title="RELIGIUS", AL IMAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch9.m3u8
 #http://tv.aliman.id:1935/aliman/HD/chunklist.m3u8
@@ -5533,7 +5533,7 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch24.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzpsd5F1/download-removebg-preview-20.png" group-title="RELIGIUS", Artvisi
+#EXTINF:-1 tvg-logo="https://www.artvisi.or.id/wp-content/uploads/2017/06/LOGO-Artvisi-HD-3100x3400-trans-artvisi.or_.id_-696x769.png" group-title="RELIGIUS", Artvisi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://streaming.yufid.com/hls/artvisi.m3u8
 
@@ -5672,12 +5672,12 @@ https://h1.intechmedia.net/intech/ch6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="RELIGIUS", Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rodjatv.com/rodjatv/live.m3u8
-#https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
+#https://rodjatv.com/rodjatv/live.m3u8
+https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
 #https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1148284456_b946000.m3u8
 #https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx4X26mXdToQeu4oQFjz5325ybANcdmvEfMkg=s900-c-k-c0xffffffff-no-rj-mo" group-title="RELIGIUS", Saling Sapa TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV3gCtG2/download-removebg-preview-23.png" group-title="RELIGIUS", Saling Sapa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
 
@@ -5691,7 +5691,8 @@ https://h1.intechmedia.net/intech/ch17.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.surau.tv/images/logosurautvvalid.png" group-title="RELIGIUS", SURAU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://119.235.249.58:1935/surautv/live/chunklist.m3u8
+https://h1.intechmedia.net/intech/ch3.m3u8
+#http://119.235.249.58:1935/surautv/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPSf31rm/tawaf-tv-removebg-preview.png" group-title="RELIGIUS", Tawaf TV Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5701,6 +5702,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hkHxjAh.png" group-title="RELIGIUS", TV Sunnah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch16.m3u8
+
+#EXTINF:-1 tvg-id="tvmui.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="RELIGIUS",TV MUI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://103.152.118.53:80/streams/yusi/hls/muitv/master.m3u8
+https://tvmui.siar.us/tvmui/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rWtX77u.png" group-title="RELIGIUS", TBN Asia
 http://rr2.dens.tv/s/s39/index.m3u8
