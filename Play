@@ -2207,7 +2207,7 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/02.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇮🇩 INDONESIA",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2271,7 +2271,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
 
 ====================================================================================================================================Paramount Network===================================================================================================================================
@@ -2668,7 +2668,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
 
 #EXTINF:-1 tvg-id="zeecinemahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="FILM |🇮🇩 INDONESIA",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2709,7 +2709,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest" group-title="FILM |🇮🇩 INDONESIA",Cinema Indonesia
 #http://203.77.246.50:5000/udp/239.1.1.74:5000
@@ -2738,6 +2738,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-46
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTdvZtLN/Picsart-23-04-17-11-36-46-672.png" group-title="FILM |🇮🇩 INDONESIA",ATVLI
 http://wowza.convergen.co:1935/atvli/atvli.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPpMQbCt/images-removebg-preview-19.png" group-title="FILM |🇮🇩 INDONESIA",NUSANTARA CBM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 ===================================================================================================================================WARNER TV CUBMU====================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="FILM |🇮🇩 INDONESIA",Warner TV HD 1
@@ -5765,7 +5772,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadi
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/640px-TVMu_logo.svg.png" group-title="RELIGIUS", TVMU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
