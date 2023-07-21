@@ -5573,8 +5573,8 @@ https://h1.intechmedia.net/intech/ch4.m3u8
 #https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ajwa_TV_logo.png/200px-Ajwa_TV_logo.png" group-title="RELIGIUS", AJWA TV
-#EXTVLCOPT:http-user-agent=Iphone
-https://live-production.secureswiftcontent.com/exp=1689935927~acl=/hls-p/ingest_7464_*/*~hmac=6cf4f3a396ee8f6a2d3a9f1f8c3c535a0d6e67e2f82b505da4dfdc96b24f9d5f/hls-p/ingest_7464_720p/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live-production.secureswiftcontent.com/exp=1689953992~acl=/hls-p/ingest_7464_*/*~hmac=16c993d3d050b5830ec43a895a1b443648e60f580bc19d92c52f49c88d310943/hls-p/ingest_7464_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cYY61N2.png" group-title="RELIGIUS", Al Bahjah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
