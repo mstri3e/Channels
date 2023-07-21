@@ -4111,8 +4111,6 @@ https://bit2net.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Disco
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="CARTOONS", Death Note
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-5224d77f-2768-43f1-97b9-7e28caaf18ad&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
-
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-name="Disney Junior East" tvg-logo="https://i.imgur.com/7d4qj7l.png" group-title="CARTOONS",Disney Junior
@@ -4175,7 +4173,7 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4fdZ6Mv/mondo-tv-kids-logo1280x720-removebg-preview.png" group-title="CARTOONS",Mondo TV Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="CARTOONS" ,Mr.Bean
+#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="CARTOONS" ,KIDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mghVC1XD/download-removebg-preview-17.png" group-title="CARTOONS", MOONBUG KIDS
@@ -4205,7 +4203,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 http://51.210.199.18/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="5ca7f16c37b88b2694731c79" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="CARTOONS",Pluto TV Gamer
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&de viceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjQK3p7W/kan.png" group-title="CARTOONS",Pluto TV Kids Animation
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -4219,7 +4217,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c07
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png" group-title="CARTOONS",PBS KIDS
 https://d3afonbm0qxmbc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-elbbbj7vf6xsf-prod/est.m3u8
 
-#EXTINF:-1 group-title="Kids and Animation" tvg-id="pbskids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids HD
+#EXTINF:-1 group-title="CARTOONS" tvg-id="pbskids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids HD
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png" group-title="CARTOONS",PBS Kids
@@ -4240,7 +4238,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playli
 #EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i.imgur.com/i03GOVo.png" group-title="CARTOONS",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="Kids and Animation" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://i.imgur.com/i03GOVo.png",TokuSHOUTsu HD
+#EXTINF:-1 group-title="CARTOONS" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://i.imgur.com/i03GOVo.png",TokuSHOUTsu HD
 http://i.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e.m3u8
 
 #EXTINF:-1 tvg-id="5e1c669094e0e80009b22ab8" tvg-logo="https://images.pluto.tv/channels/5e1c669094e0e80009b22ab8/colorLogoPNG.png" group-title="CARTOONS" , Retro Toons
@@ -4252,10 +4250,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="CARTOONS", TV Zona Anime
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEG62gvxqwuLWrm0RHxNCklwHXqyc19Dt6g&usqp=CAU" group-title="CARTOONS",Spongebob TV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/250px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="CARTOONS",Spongebob TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="CARTOONS",SPACETOON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="CARTOONS",SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv19hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png" group-title="CARTOONS", SCTV19 HD
@@ -4268,17 +4266,11 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sfM1wSD6/SUPER-CARTOONS-removebg-preview.png" group-title="CARTOONS",Supertoons TV HD 1
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/327-3270547_tayo-the-little-bus-logo-png.png" group-title="CARTOONS",Tayo TV
-https://cdn-ue1-prod.tsv2.amag.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="CARTOONS", TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbv6m9I10UL7eavDHFPUHjgzSa-_FK8JG3g&usqp=CAU" group-title="CARTOONS",TOON MAX DENS
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-
-#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="CARTOONS" ,TokuSHOUTsu
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1335_VariedTV.png" group-title="CARTOONS",VARIASI TV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
@@ -5581,7 +5573,7 @@ https://h1.intechmedia.net/intech/ch4.m3u8
 #https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ajwa_TV_logo.png/200px-Ajwa_TV_logo.png" group-title="RELIGIUS", AJWA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Iphone
 https://live-production.secureswiftcontent.com/exp=1689935927~acl=/hls-p/ingest_7464_*/*~hmac=6cf4f3a396ee8f6a2d3a9f1f8c3c535a0d6e67e2f82b505da4dfdc96b24f9d5f/hls-p/ingest_7464_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cYY61N2.png" group-title="RELIGIUS", Al Bahjah TV
