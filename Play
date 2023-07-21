@@ -1093,6 +1093,194 @@ https://webudit.cdnhks.lol/lb/premium119/index.m3u8?
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium120/index.m3u8|referer=https://widevine.licenses4.me/
 
+=================================================================================================================RACING TV=================================================================================================================
+
+#EXTINF:-1 tvg-id="HarleyDavidsonRacingTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="RACING TV",Harley Davidson Racing TV (720p) [Not 24/7]
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx3SYhKd/moto-america-removebg-preview.png" group-title="RACING TV",Moto America
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="RACING TV",Motor Racing TV FMX
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="RACING TV",Motor Racing TV DENS
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://210.210.155.35/uq2663/h/h223/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#http://210.210.155.37/uq2663/h/h223/index.m3u8
+#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGpSzNwq/ACI-SPORT-removebg-preview.png" group-title="RACING TV",ACI Sport TV (1080p) [!]
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBL0pCCp/ski-tv-removebg-preview.png" group-title="RACING TV",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBL0pCCp/ski-tv-removebg-preview.png" group-title="RACING TV",Ski TV HD
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSurfGermany.de" tvg-logo="https://i.imgur.com/xB6mLeg.png" group-title="RACING TV",Surf Pluto TV (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV",Sky Sports Racing HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium554/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV",Sky Sports Racing
+http://kuchini.site:8080/multi6741/ab72059e/163132
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtCjGSJJ/SPORTY-STUFF-removebg-preview.png" group-title="RACING TV",Sporty Stuff TV (1080p)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjmdp1SK/TRACE.png" group-title="RACING TV",Trace Sport Stars HD | Aus
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjmdp1SK/TRACE.png" group-title="RACING TV",Trace Sports Stars HD
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="RACING TV",ZIGGO Sport Racing HD 1
+http://kuchini.site:8080/multi6741/ab72059e/4515
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="RACING TV",ZIGGO Sport Racing HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.cdnhks.lol/lb/premium396/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRnv7VgY/MOTO-WIZJA-removebg-preview.png" group-title="RACING TV",MOTO RALLY WIZJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy5.cdnhks.lol/ddy5/premium563/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="RACING TV",Edge Sports ( Set Res )
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV",FOX SPORT RACING HD
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2327
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV",FOX SPORT RACING HD 1
+http://kuchini.site:8080/multi6741/ab72059e/2327
+#http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2327
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw7W7_ONOQ6-4Cvl0ZFBncBmh7DrlTCajqPQ&usqp=CAU" group-title="RACING TV",MAVTV 
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Monster-Jam-Logo.png" group-title="RACING TV",Monster Jam
+#http://103.152.118.53:80/streams/yt/by-name/MonsterJam/index.m3u8
+http://103.152.118.53:80/play/yt/by-name/MonsterJam/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://livean.yhvserve.com:9083/query/s/tO9COl46v4MdIi1NdbzL0A==.jpg?type=live&thumbnail=thumbnail_small.jpg" group-title="RACING TV", GAORA SPORTS  
+http://code.vthanhtivi.pw/getlink/jptv1/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest" group-title="RACING TV", Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzCBgm5h/MOTORSPORT-removebg-preview.png" group-title="RACING TV",Motorrsports 1 TV
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
+
+========================================================================================================================================ANIMAL SPORTS==========================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="ANIMAL SPORTS",BALAP HD 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="ANIMAL SPORTS",BALAP HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
+
+#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="ANIMAL SPORTS",BEK TV Sports West 
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBRRidePass.us" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="ANIMAL SPORTS",PBR RidePass [Geo-blocked]
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="ANIMAL SPORTS",Racing.com HORSE TV ( 720 )
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#http://kuchini.site:8080/multi6741/ab72059e/731
+#http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/731
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="ANIMAL SPORTS",Racing TV HORSE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium555/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="ANIMAL SPORTS",Racing.com HORSE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index268.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/501ZsjPd/Dxb-Racing-C-1417x591-removebg-preview.png" group-title="ANIMAL SPORTS",Dubai Racing HORSE TV
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-g5kxWrkTxzg/WxHWbSiaaQI/AAAAAAAATjE/N7pEyjlZmQYiw_J0ZdCZLYdZz-jLlopCQCLcBGAs/s1600/dubai_ae_racing_2.png" group-title="ANIMAL SPORTS",Dubai Racing 2 HORSE TV
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.94061278628a654e847a7adeb899771d?rik=hWB2hA%2fKPP1IIw&riu=http%3a%2f%2fadmango.cdn.mangomolo.com%2fanalytics%2fuploads%2f71%2f5bfea86c98.png&ehk=UeMSkBMPWZGs6eNCXGf29qYjq7AlUiMnO%2bsRvi4bNbs%3d&risl=&pid=ImgRaw&r=0" group-title="ANIMAL SPORTS",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="ANIMAL SPORTS", Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="ANIMAL SPORTS",Horse and Country Free
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseTV.it" tvg-logo="https://i.imgur.com/kRVSBtV.png" group-title="ANIMAL SPORTS",Horse TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="ANIMAL SPORTS",Hipódromo de las Américas (480p) [Geo-blocked]
+http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KonniyMir.ru" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="ANIMAL SPORTS",HORSE KOHHнный Мир (576p) [Geo-blocked]
+http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yas.ae" tvg-logo="https://i.imgur.com/bvAAXLW.png" group-title="ANIMAL SPORTS",YAS HORSE (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTTSHL7/sky-removebg-preview.png" group-title="ANIMAL SPORTS", AU | SKY Racing 1 HD
+http://kuchini.site:8080/silversatcom/J662bwtY7Tev877u/201085
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTTSHL7/sky-removebg-preview.png" group-title="ANIMAL SPORTS", AU | SKY Racing 1 HD HD
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/201085.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTTSHL7/sky-removebg-preview.png" group-title="ANIMAL SPORTS", AU | SKY Racing 2 HD
+http://kuchini.site:8080/silversatcom/J662bwtY7Tev877u/201086
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTTSHL7/sky-removebg-preview.png" group-title="ANIMAL SPORTS", AU | SKY Racing 2 HD HD
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/201086.m3u8
+
+
+
+
 ====================================================================================================================================INDIHOME | USEETV===========================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znfPqNV.png" group-title="INDIHOME |🇮🇩 USEETV", ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -6430,48 +6618,55 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png" group-title="TV |🇯🇵 JAPAN", J SPORTS 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ns0PHbl.png" group-title="TV |🇯🇵 JAPAN", NHK General TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/640px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png" group-title="TV |🇯🇵 JAPAN", NHK General TV 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #https://nhk3.mov3.co/hls/nhk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="TV |🇯🇵 JAPAN", NHK World-Japan TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="TV |🇯🇵 JAPAN", NHK World-Japan TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
 #EXTINF:-1 tvg-id="nhk educational" tvg-logo="https://i.postimg.cc/YSQPVxPP/nhk-edu-removebg-preview.png"  group-title="TV |🇯🇵 JAPAN", NHK Educational TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGu52nM.png" group-title="TV |🇯🇵 JAPAN", NIPPON TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Xv4IFl.png" group-title="TV |🇯🇵 JAPAN", NIPPON TV
+http://203.162.235.41:24103/
+#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #https://ntv3.mov3.co/hls/ntv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="TV |🇯🇵 JAPAN", NTV NEWS 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hoyuTUP.png" group-title="TV |🇯🇵 JAPAN", NTV NEWS 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CjoqJXh.png" group-title="TV |🇯🇵 JAPAN", FUJI TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAXs8gu.png" group-title="TV |🇯🇵 JAPAN", FUJI TV
+http://203.162.235.41:22101/
+#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #https://fujitv3.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 tvg-id="TV asahi" tvg-logo="https://i.postimg.cc/6pn4G7gK/asahi-removebg-preview.png" group-title="TV |🇯🇵 JAPAN", TV Asahi (Jepang)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://203.162.235.41:17097/
+#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SzWJscr.png" group-title="TV |🇯🇵 JAPAN", TBS TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="TV |🇯🇵 JAPAN", TBS TV
+http://203.162.235.41:24103/
+#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #https://tbs2.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1pTQIm.png" group-title="TV |🇯🇵 JAPAN", BS-TBS
-http://cdnv148.cloudrsst.com:1935/jptv/bstbs_720/playlist.m3u8
+http://203.162.235.41:26105/
+#http://cdnv148.cloudrsst.com:1935/jptv/bstbs_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="TV |🇯🇵 JAPAN", BSA
-http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8
+http://203.162.235.41:29108/
+#http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2CyCbFz/tokyo-removebg-preview.png" group-title="TV |🇯🇵 JAPAN", TV Tokyo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://203.162.235.41:23102/
+#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ghRFrKj.png" group-title="TV |🇯🇵 JAPAN", Tokyo MX1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/640px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="TV |🇯🇵 JAPAN", Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ghRFrKj.png" group-title="TV |🇯🇵 JAPAN", Tokyo MX2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/640px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="TV |🇯🇵 JAPAN", Tokyo MX2
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
@@ -6484,7 +6679,7 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0wds9n8.png" group-title="TV |🇯🇵 JAPAN", GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B74hZKd.png" group-title="TV |🇯🇵 JAPAN", QVC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FXNJvMK/QVC-removebg-preview.png" group-title="TV |🇯🇵 JAPAN", QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkdKa5a.png" group-title="TV |🇯🇵 JAPAN", Shop Channel
@@ -8529,82 +8724,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Yas.ae" tvg-logo="https://i.imgur.com/bvAAXLW.png" group-title="ABU DHABI SPORTS",YAS HORSE (1080p)
 #https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
-========================================================================================================================================ANIMAL SPORTS==========================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="ANIMAL SPORTS",BALAP HD 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WX04C7/balap-removebg-preview.png" group-title="ANIMAL SPORTS",BALAP HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
-
-#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="ANIMAL SPORTS",BEK TV Sports West 
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PBRRidePass.us" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="ANIMAL SPORTS",PBR RidePass [Geo-blocked]
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="ANIMAL SPORTS",Racing.com HORSE TV ( 720 )
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#http://kuchini.site:8080/multi6741/ab72059e/731
-#http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/731
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="ANIMAL SPORTS",Racing TV HORSE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.cdnhks.lol/ddy1/premium555/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jj2bFm06/racing-tv.png" group-title="ANIMAL SPORTS",Racing.com HORSE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index268.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/501ZsjPd/Dxb-Racing-C-1417x591-removebg-preview.png" group-title="ANIMAL SPORTS",Dubai Racing HORSE TV
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-g5kxWrkTxzg/WxHWbSiaaQI/AAAAAAAATjE/N7pEyjlZmQYiw_J0ZdCZLYdZz-jLlopCQCLcBGAs/s1600/dubai_ae_racing_2.png" group-title="ANIMAL SPORTS",Dubai Racing 2 HORSE TV
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.94061278628a654e847a7adeb899771d?rik=hWB2hA%2fKPP1IIw&riu=http%3a%2f%2fadmango.cdn.mangomolo.com%2fanalytics%2fuploads%2f71%2f5bfea86c98.png&ehk=UeMSkBMPWZGs6eNCXGf29qYjq7AlUiMnO%2bsRvi4bNbs%3d&risl=&pid=ImgRaw&r=0" group-title="ANIMAL SPORTS",Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="ANIMAL SPORTS", Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="ANIMAL SPORTS",Horse and Country Free
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HorseTV.it" tvg-logo="https://i.imgur.com/kRVSBtV.png" group-title="ANIMAL SPORTS",Horse TV
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/horsetv_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="ANIMAL SPORTS",Hipódromo de las Américas (480p) [Geo-blocked]
-http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KonniyMir.ru" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="ANIMAL SPORTS",HORSE KOHHнный Мир (576p) [Geo-blocked]
-http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Yas.ae" tvg-logo="https://i.imgur.com/bvAAXLW.png" group-title="ANIMAL SPORTS",YAS HORSE (1080p)
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTTSHL7/sky-removebg-preview.png" group-title="ANIMAL SPORTS", AU | SKY Racing 1 HD
-http://kuchini.site:8080/silversatcom/J662bwtY7Tev877u/201085
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTTSHL7/sky-removebg-preview.png" group-title="ANIMAL SPORTS", AU | SKY Racing 1 HD HD
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/201085.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTTSHL7/sky-removebg-preview.png" group-title="ANIMAL SPORTS", AU | SKY Racing 2 HD
-http://kuchini.site:8080/silversatcom/J662bwtY7Tev877u/201086
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTTSHL7/sky-removebg-preview.png" group-title="ANIMAL SPORTS", AU | SKY Racing 2 HD HD
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/201086.m3u8
 
 
 =================================================================================================================AUTOMOTIF===================================================================================================================================
@@ -9813,112 +9933,6 @@ https://webudit.cdnhks.lol/lb/premium585/index.m3u8
 #http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/297626
 
 
-=================================================================================================================RACING TV=================================================================================================================
-
-#EXTINF:-1 tvg-id="HarleyDavidsonRacingTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="RACING TV",Harley Davidson Racing TV (720p) [Not 24/7]
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx3SYhKd/moto-america-removebg-preview.png" group-title="RACING TV",Moto America
-https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="RACING TV",Motor Racing TV FMX
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="RACING TV",Motor Racing TV DENS
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.35/uq2663/h/h223/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV HD 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#http://210.210.155.37/uq2663/h/h223/index.m3u8
-#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGpSzNwq/ACI-SPORT-removebg-preview.png" group-title="RACING TV",ACI Sport TV (1080p) [!]
-https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBL0pCCp/ski-tv-removebg-preview.png" group-title="RACING TV",Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBL0pCCp/ski-tv-removebg-preview.png" group-title="RACING TV",Ski TV HD
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVSurfGermany.de" tvg-logo="https://i.imgur.com/xB6mLeg.png" group-title="RACING TV",Surf Pluto TV (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV",Sky Sports Racing HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium554/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHt3sLS/sky-sports-racing-removebg-preview.png" group-title="RACING TV",Sky Sports Racing
-http://kuchini.site:8080/multi6741/ab72059e/163132
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtCjGSJJ/SPORTY-STUFF-removebg-preview.png" group-title="RACING TV",Sporty Stuff TV (1080p)
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjmdp1SK/TRACE.png" group-title="RACING TV",Trace Sport Stars HD | Aus
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjmdp1SK/TRACE.png" group-title="RACING TV",Trace Sports Stars HD
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="RACING TV",ZIGGO Sport Racing HD 1
-http://kuchini.site:8080/multi6741/ab72059e/4515
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="RACING TV",ZIGGO Sport Racing HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.cdnhks.lol/lb/premium396/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRnv7VgY/MOTO-WIZJA-removebg-preview.png" group-title="RACING TV",MOTO RALLY WIZJA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.cdnhks.lol/ddy5/premium563/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="RACING TV",Edge Sports ( Set Res )
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV",FOX SPORT RACING HD
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2327
-
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV",FOX SPORT RACING HD 1
-http://kuchini.site:8080/multi6741/ab72059e/2327
-#http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2327
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw7W7_ONOQ6-4Cvl0ZFBncBmh7DrlTCajqPQ&usqp=CAU" group-title="RACING TV",MAVTV 
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Monster-Jam-Logo.png" group-title="RACING TV",Monster Jam
-http://103.152.118.53:80/streams/yt/by-name/MonsterJam/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://livean.yhvserve.com:9083/query/s/tO9COl46v4MdIi1NdbzL0A==.jpg?type=live&thumbnail=thumbnail_small.jpg" group-title="RACING TV", GAORA SPORTS  
-http://code.vthanhtivi.pw/getlink/jptv1/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest" group-title="RACING TV", Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzCBgm5h/MOTORSPORT-removebg-preview.png" group-title="RACING TV",Motorrsports 1 TV
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 ============================================================================================================================================================SKY SPORTS================================================================================================================================
