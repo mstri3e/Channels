@@ -2091,6 +2091,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d
 
 ====================================================================================================================================FILM INDONESIA===========================================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ajwa_TV_logo.png/200px-Ajwa_TV_logo.png" group-title="FILM |🇮🇩 INDONESIA", AJWA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live-production.secureswiftcontent.com/exp=1689953992~acl=/hls-p/ingest_7464_*/*~hmac=16c993d3d050b5830ec43a895a1b443648e60f580bc19d92c52f49c88d310943/hls-p/ingest_7464_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://iamchannel.org/images/I-AM-Channel.png" group-title="FILM |🇮🇩 INDONESIA",AMC
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 
