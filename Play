@@ -2191,17 +2191,25 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNd319Wm/axn-hd-removebg-preview.png" group-title="FILM |🇮🇩 INDONESIA",AXN HD Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇮🇩 INDONESIA",AXN HD Vision
 https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNd319Wm/axn-hd-removebg-preview.png" group-title="FILM |🇮🇩 INDONESIA",AXN FMX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇮🇩 INDONESIA",AXN FMX
 http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 #https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png?v=1" group-title="FILM |🇮🇩 INDONESIA",AXN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇮🇩 INDONESIA",AXN HD CBM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇮🇩 INDONESIA",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 #https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
@@ -2246,16 +2254,24 @@ http://210.210.155.35/dr9445/h/h21/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM |🇮🇩 INDONESIA",TVN Indonesia HD Vision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM |🇮🇩 INDONESIA",TVN Indonesia Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM |🇮🇩 INDONESIA",TVN Indonesia HD DENS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM |🇮🇩 INDONESIA",TVN Indonesia DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.35/dr9445/h/h20/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM |🇮🇩 INDONESIA",TVN Indonesia HD FMX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM |🇮🇩 INDONESIA",TVN Indonesia FMX
 http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="FILM |🇮🇩 INDONESIA",TVN Indonesia CBM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
 
 ====================================================================================================================================Paramount Network===================================================================================================================================
@@ -2638,13 +2654,21 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg432production/ch324/02.m3u
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 INDONESIA",ZEE BIOSKOP HD DENS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 INDONESIA",ZEE BIOSKOP DENS
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 INDONESIA",ZEE BIOSKOP HD Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 INDONESIA",ZEE BIOSKOP Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 INDONESIA",ZEE BIOSKOP CBM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
 
 #EXTINF:-1 tvg-id="zeecinemahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="FILM |🇮🇩 INDONESIA",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2670,17 +2694,25 @@ https://1.yurend.xyz/dash-wv/linear/5106/default_primary.mpd
 
 ====================================================================================================================================CCM Group====================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="FILM |🇮🇩 INDONESIA",Cinema World HD DENS
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="FILM |🇮🇩 INDONESIA",Cinema World DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.35/dr9445/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="FILM |🇮🇩 INDONESIA",Cinema World HD Vision
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="FILM |🇮🇩 INDONESIA",Cinema World Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="FILM |🇮🇩 INDONESIA",Cinema World CBM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest" group-title="FILM |🇮🇩 INDONESIA",Cinema Indonesia
-http://203.77.246.50:5000/udp/239.1.1.74:5000
+#http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="FILM |🇮🇩 INDONESIA",Celestial Movie Indonesia HD DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2742,7 +2774,7 @@ http://103.180.119.90:9911/stream/channelid/2070324053/putar/warnertv.php
 https://1.yurend.xyz/dash-wv/linear/1113/default_primary.mpd
 #https://live.mana2.my/TVAH/index.m3u8?organizationId=196288014&suiteItemId=196291301
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNd319Wm/axn-hd-removebg-preview.png" group-title="FILM |🇲🇾 MALAYSIA",AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇲🇾 MALAYSIA",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303/
 https://1.yurend.xyz/dash-wv/linear/2303/default_primary.mpd
@@ -3171,7 +3203,7 @@ https://1.yurend.xyz/dash-wv/linear/2605/default_primary.mpd
 
 ===================================================================================================================================AXN ONE HD LUAR===================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNd319Wm/axn-hd-removebg-preview.png" group-title="FILM | PREMIUM",AXN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM | PREMIUM",AXN 2
 http://173.225.246.25:8889/udp/239.203.20.4:4003
 #http://103.167.167.5:8111/play/a019/index.m3u8
 
@@ -5722,10 +5754,18 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg503production/ch352/02.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nxanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/640px-TVMu_logo.svg.png" group-title="RELIGIUS", TV Mu Vision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/640px-TVMu_logo.svg.png" group-title="RELIGIUS", TVMu Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/640px-TVMu_logo.svg.png" group-title="RELIGIUS", TVMu CBM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/640px-TVMu_logo.svg.png" group-title="RELIGIUS", TVMU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
