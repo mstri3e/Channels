@@ -1175,7 +1175,7 @@ https://webudit.cdnhks.lol/lb/premium396/index.m3u8?|referer=https://widevine.li
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://ddy5.cdnhks.lol/ddy5/premium563/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="RACING TV",Edge Sports ( Set Res )
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="RACING TV",Edge Sports UK ( Set Res )
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV",FOX SPORT RACING HD
@@ -1671,11 +1671,11 @@ https://ddy2.cdnhks.lol/ddy2/premium135/tracks-v1a1/mono.m3u8?|referer=https://w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ddy2.cdnhks.lol/ddy2/premium135/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="Home TV | Sports", Beins Sport Indonesia 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="Home TV | Sports", Bein Sports Indonesia 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png" group-title="Home TV | Sports", Beins Sport Indonesia 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png" group-title="Home TV | Sports", Bein Sports Indonesia 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/27
 #http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
@@ -4495,11 +4495,13 @@ https://zoomoo-samsungau.amag.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇮🇩 INDONESIA", beIN Sports Indonesia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
+http://103.152.118.53:80/play/nosignal/index.m3u8
+#http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇮🇩 INDONESIA", beIN Sports Indonesia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
+http://103.152.118.53:80/play/nosignal/index.m3u8
+#http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Saluran Sepak Bola" tvg-logo="https://i.imgur.com/ywxSwV3.png" group-title="SPORTS |🇮🇩 INDONESIA",Soccer Channels Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7458,8 +7460,8 @@ https://webudit.cdnhks.lol/lb/premium308/index.m3u8
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Saluran Sepak Bola" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="SPORTS",Soccer Channnels HD
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="SPORTS",EDGE Sports ( Set Res )
-http://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="SPORTS",EDGE Sports US ( Set Res )
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BrNpDPLB99WqMz5Keap7zUjypS3ZFHz88Q&usqp=CAU" group-title="SPORTS",Kanalen Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -7477,7 +7479,7 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 grup tvg-id="Novasports.pl" tvg-name="Novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png" group-title="SPORTS",Nova Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium77/index.m3u8
+#https://webudit.cdnhks.lol/lb/premium77/index.m3u8
 https://webudit.cdnhks.lol/lb/premium468/index.m3u8
 http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/84781
 
@@ -9153,30 +9155,30 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283294
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/15962
 
 
-=========================================================================================================BT Sports==========================================================================================================
+=========================================================================================================TNT Sports==========================================================================================================
 
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="BT SPORTS",BT Sport 1
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://cdn.mos.cms.futurecdn.net/5hk8EQM33U7sZfY6M4xsf-1200-80.jpg" group-title="TNT SPORTS",BT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium31/index.m3u8|referer=https://widevine.licenses4.me/
 #http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/270
 
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="BT SPORTS",BT Sport 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://cdn.mos.cms.futurecdn.net/5hk8EQM33U7sZfY6M4xsf-1200-80.jpg" group-title="TNT SPORTS",BT Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
 #http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/273
 
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="BT SPORTS",BT Sport 3
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://cdn.mos.cms.futurecdn.net/5hk8EQM33U7sZfY6M4xsf-1200-80.jpg" group-title="TNT SPORTS",BT Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium33/index.m3u8|referer=https://widevine.licenses4.me/
 #http://325481063776488196.of529.xyz:80/play/jean81/jean09092022/488196.ts
 #http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/271
 
-#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="BT SPORTS",BT Sport 4
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-logo="https://cdn.mos.cms.futurecdn.net/5hk8EQM33U7sZfY6M4xsf-1200-80.jpg" group-title="TNT SPORTS",BT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
