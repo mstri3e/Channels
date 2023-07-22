@@ -2281,7 +2281,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ajwa_TV_logo.png/200px-Ajwa_TV_logo.png" group-title="FILM |🇮🇩 INDONESIA", AJWA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live-production.secureswiftcontent.com/exp=1689953992~acl=/hls-p/ingest_7464_*/*~hmac=16c993d3d050b5830ec43a895a1b443648e60f580bc19d92c52f49c88d310943/hls-p/ingest_7464_480p/index.m3u8
+https://thefirefox12537.github.io/streams/ajewa.m3u8
 
 #EXTINF:-1 tvg-logo="https://iamchannel.org/images/I-AM-Channel.png" group-title="FILM |🇮🇩 INDONESIA",AMC
 http://iamchannel.org:1935/tes/1/playlist.m3u8
@@ -4175,6 +4175,9 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/110
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/1200px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="KIDS", Spongebob TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/1200px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="KIDS", Spongebob Indonesia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690001053/ei/PQq7ZIfvCa3yz7sPqqi9mAU/ip/180.252.240.127/id/PuPKV4epqKc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Ul2Sq9NVMYKE5y_UhJFntVXEBz0eavwqP0Qa9pqHkAyQ56KxhaPObJI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000022/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMYiKsxsPOMydFPTYB7Myua6O-NmF9pwQX5kJXMm_fc9AiAICQai4zXtaj46Ie0NaO0_KIu_bhpVDRA_Jycg9Q93mA%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS", SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
@@ -5766,7 +5769,7 @@ https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ajwa_TV_logo.png/200px-Ajwa_TV_logo.png" group-title="RELIGIUS", AJWA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live-production.secureswiftcontent.com/exp=1689953992~acl=/hls-p/ingest_7464_*/*~hmac=16c993d3d050b5830ec43a895a1b443648e60f580bc19d92c52f49c88d310943/hls-p/ingest_7464_480p/index.m3u8
+https://thefirefox12537.github.io/streams/ajewa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cYY61N2.png" group-title="RELIGIUS", Al Bahjah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
