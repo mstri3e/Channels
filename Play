@@ -1290,8 +1290,9 @@ https://cdn09jtedge.indihometv.com/dvr/139/abcaustralia/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiCWRg1.png" group-title="INDIHOME |🇮🇩 USEETV", ATV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="INDIHOME |🇮🇩 USEETV", ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest_w1300539340_qRFZS.mpd
 #https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiCWRg1.png" group-title="INDIHOME |🇮🇩 USEETV", Antara TV HD
@@ -5964,8 +5965,9 @@ https://h1.intechmedia.net/intech/ch16.m3u8
 
 #EXTINF:-1 tvg-id="tvmui.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="RELIGIUS",TV MUI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://103.152.118.53:80/streams/yusi/hls/muitv/master.m3u8
-https://tvmui.siar.us/tvmui/live/playlist.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest_w1774000835_qRFZS.mpd
+#http://103.152.118.53:80/streams/yusi/hls/muitv/master.m3u8
+#https://tvmui.siar.us/tvmui/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rWtX77u.png" group-title="RELIGIUS", TBN Asia
 http://rr2.dens.tv/s/s39/index.m3u8
