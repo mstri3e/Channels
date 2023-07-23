@@ -4495,12 +4495,12 @@ https://zoomoo-samsungau.amag.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇮🇩 INDONESIA", beIN Sports Indonesia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-http://103.152.118.53:80/play/nosignal/index.m3u8
+https://12537-stream-ip-tv.xyz/play/bein1/index.m3u8
 #http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇮🇩 INDONESIA", beIN Sports Indonesia 2
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇮🇩 INDONESIA", beIN Sports Indonesia 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-http://103.152.118.53:80/play/nosignal/index.m3u8
+https://12537-stream-ip-tv.xyz/play/bein3/index.m3u8
 #http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Saluran Sepak Bola" tvg-logo="https://i.imgur.com/ywxSwV3.png" group-title="SPORTS |🇮🇩 INDONESIA",Soccer Channels Vision
