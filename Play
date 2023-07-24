@@ -4457,7 +4457,8 @@ https://webudit.cdnhks.lol/lb/premium313/index.m3u8|referer=https://widevine.lic
 https://webudit.cdnhks.lol/lb/premium314/index.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.sk tvg-logo="https://i.postimg.cc/rpsDfHVp/DUCK-removebg-preview.png" group-title="CARTOONS",Duck TV
-https://mmm-ducktv-4-be.samsung.wurl.tv/playlist.m3u8
+#https://mmm-ducktv-4-be.samsung.wurl.tv/playlist.m3u8
+#https://mmm-ducktv-4-fi.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ33KyzJ/download-removebg-preview-14.png" group-title="CARTOONS",EBS Kids
 #https://beetv.my.id/x/oxygen-ebskids-gojokkk.m3u8
@@ -5198,7 +5199,7 @@ https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 https://xplore-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2021/01/Insight-TV-Logo-small-150x150.png" group-title="KNOWLEDGE", INSIGHT
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghv8Qh1C/introble-removebg-preview.png" group-title="KNOWLEDGE", INTROUBLE
 https://introuble-samsungau.amagi.tv/playlist.m3u8
@@ -5207,7 +5208,7 @@ https://introuble-samsungau.amagi.tv/playlist.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="KNOWLEDGE", INWONDER
-https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbfrWp9Y/download-removebg-preview-2.png" group-title="KNOWLEDGE", Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
