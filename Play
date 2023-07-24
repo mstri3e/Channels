@@ -1736,6 +1736,14 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/3/pro
 
 =================================================================================================================HOME TV |SPORTS INDONESIA======================================================================================================
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N74NrD2/arena-bola.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/6
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHNvMRh/arena-bola-2.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/10216
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Home TV | Sports", Astro Super Sports 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/1
@@ -4749,6 +4757,14 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 
 ====================================================================================================================================SPORTS MALAYSIA=================================================================================================================================================
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N74NrD2/arena-bola.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/6
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHNvMRh/arena-bola-2.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/10216
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
