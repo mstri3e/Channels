@@ -86,7 +86,7 @@ https://streamweb.garuda.tv/live/garudatv/live.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name= "GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",GTV Plus+
-https://1m-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1690135246-215fa4e8caee0c98d74e835a5c78e4f7-0-dac287305b1cf5432f5018476451c3fe
+#https://1m-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1690135246-215fa4e8caee0c98d74e835a5c78e4f7-0-dac287305b1cf5432f5018476451c3fe
 
 #EXTINF:-1 tvg-id="Indonesiana.id" tvg-name="IndonesianaTV" tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="NASIONAL |🇮🇩 INDONESIA",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
@@ -113,7 +113,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name= "iNews" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="NASIONAL |🇮🇩 INDONESIA",iNews Plus+
-https://1m-inews.rctiplus.id/inews-sdi-avc1_800000=18-mp4a_96000=1.m3u8?auth_key=1690134972-8ed77d31af5d0530cfe99fe59a134147-0-f6eeb4711f136a4fe0167e5b42e5e544
+#https://1m-inews.rctiplus.id/inews-sdi-avc1_800000=18-mp4a_96000=1.m3u8?auth_key=1690134972-8ed77d31af5d0530cfe99fe59a134147-0-f6eeb4711f136a4fe0167e5b42e5e544
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -203,13 +203,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",MNCTV Plus+
-https://1m-mnctv.rctiplus.id/mnctv-sdi-avc1_100000=11-mp4a_96000=1.m3u8?auth_key=1690134890-9f1a08b67861923afdda32cf5dfc0bbb-0-5383ae90f97939dc0e2897bc337000d9
+#https://1m-mnctv.rctiplus.id/mnctv-sdi-avc1_100000=11-mp4a_96000=1.m3u8?auth_key=1690134890-9f1a08b67861923afdda32cf5dfc0bbb-0-5383ae90f97939dc0e2897bc337000d9
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA", MOJI DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA", Moji HD FMX 1
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
@@ -269,7 +268,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e8258
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA", RCTI Plus+ CBM
-https://1m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1690132410-5a37598b85298caee37b14fcdf7f2d3a-0-24fa595ec32e5dffdb4ce892d509b685
+#https://1m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1690132410-5a37598b85298caee37b14fcdf7f2d3a-0-24fa595ec32e5dffdb4ce892d509b685
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -2453,8 +2452,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yPTpcRC/download-removebg-preview-19.png" group-title="FILM |🇮🇩 INDONESIA",KBS WORLD FMX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yPTpcRC/download-removebg-preview-19.png" group-title="FILM |🇮🇩 INDONESIA",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/02.m3u8
 
@@ -3466,6 +3468,15 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg353production/ch348/03.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTJQRb8M/RAI-removebg-preview.png" group-title="FILM | PREMIUM",RAI ITALIA FMX
 http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncDz6hYc/download-removebg-preview-25.png" group-title="FILM | PREMIUM",B4U Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://183.89.246.119:8881/play/a08n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdVrR4rg/download-removebg-preview-26.png" group-title="FILM | PREMIUM",B4U Plus Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://183.89.246.119:8881/play/a08l/index.m3u8
+
 =======================================================================================================================================STAR MOVIES=======================================================================================================================================
 
 #EXTINF:-1 tvg-id="Baywatch.us tvg-logo="https://i.postimg.cc/pLPGdBTY/baywatch-removebg-preview.png" group-title="FILM | PREMIUM", BAYWATCH HD
@@ -7504,6 +7515,11 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/5381
 
 #EXTINF:-1 tvg-id="MNetSport.mk" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="SPORTS",M-Net Sport (720p)
 http://ares.mnet.mk/hls/mnet-sport.m3u8
+
+#EXTINF:-1 grup tvg-id="USAnetwork.pl" tvg-name="Novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/USA_Network_logo_original.svg/1280px-USA_Network_logo_original.svg.png" group-title="SPORTS",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdnhks.lol/ddy1/premium343/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 grup tvg-id="Novasports.pl" tvg-name="Novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png" group-title="SPORTS",Nova Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
