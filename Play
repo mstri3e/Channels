@@ -4231,7 +4231,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f218
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqC4Bngv/CARTOON-TV-TAG-PREMIUM-removebg-preview.png" group-title="KIDS", Cartoon TV Premium HD 1
+#EXTINF:-1 tvg-logo="https://imgur.com/a/PzGCNiV" group-title="KIDS", Cartoon TV Premium HD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4239,7 +4239,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f218
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqC4Bngv/CARTOON-TV-TAG-PREMIUM-removebg-preview.png" group-title="KIDS", Cartoon TV Premium HD
+#EXTINF:-1 tvg-logo="https://imgur.com/a/PzGCNiV" group-title="KIDS", Cartoon TV Premium HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
