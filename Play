@@ -2299,12 +2299,22 @@ https://ddy1.cdnhks.lol/ddy1/premium598/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/axn/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4e768b62-1332-4938-b2c7-19dc184fd0d2)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇮🇩 MAXSTREAM", Axn Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream5.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4e768b62-1332-4938-b2c7-19dc184fd0d2)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ6f2bH4/images-removebg-preview-16.png" group-title="FILM |🇮🇩 MAXSTREAM", BN Channel 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9263bf14-cd77-401e-a21d-e3683fe6879d)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="FILM |🇮🇩 MAXSTREAM", Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/celestialmovies/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012-489d-8c88-be5624ded39c)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="FILM |🇮🇩 MAXSTREAM", Celestial Movies Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012-489d-8c88-be5624ded39c)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="cinemaxasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115",Cinemax
@@ -2316,6 +2326,16 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/ftv/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
+
+#EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d2/FTV_%28Indonesia%29.png/revision/latest",FTV Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream8.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5JUoxHu.png" group-title="FILM |🇮🇩 MAXSTREAM", GEM Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream7.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9e88c4b0-8f52-4d81-9954-943e8cce1b71)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2342,9 +2362,19 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hitsnow/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
 
+#EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hitsnow.sg" tvg-logo="https://i.imgur.com/sQkw1Dt.png",HITS Now Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream6.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="FILM |🇮🇩 MAXSTREAM",INDIKIDS 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="FILM |🇮🇩 MAXSTREAM",INDIKIDS Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indikidzmaxvip-punya.garudatvvip.workers.dev/
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" group-title="FILM |🇮🇩 MAXSTREAM", Kix 
@@ -2352,9 +2382,19 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/kix/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dde85ea0-b018-44f3-81f6-6dc33b6daf3f)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" group-title="FILM |🇮🇩 MAXSTREAM", Kix Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vipmaxkix-punya.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dde85ea0-b018-44f3-81f6-6dc33b6daf3f)/manifest.mpd
+
 #EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Asia 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/mycinemaasia/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5-49c0-bfdf-ad10b1ee356d)/manifest.mpd
+
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Asia Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream4.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5-49c0-bfdf-ad10b1ee356d)/manifest.mpd
 
 #EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema 
@@ -2362,14 +2402,54 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/mycinema/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/manifest.mpd
 
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream4.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="FILM |🇮🇩 MAXSTREAM",My Family Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/myfamily/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1-404c-ba21-df68a1cffcac)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="FILM |🇮🇩 MAXSTREAM",My Family Channel Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream4.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1-404c-ba21-df68a1cffcac)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="FILM |🇮🇩 MAXSTREAM", My Kidz Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mykidzmaxvip-punya.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189-453d-80a4-536de660a8b5)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM |🇮🇩 MAXSTREAM", NHK World Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nhkworldvipmax-punya.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(59a6fa8a-7dc1-43aa-ba66-d42342fa4244)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="FILM |🇮🇩 MAXSTREAM", One TV Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream9.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5a29bc89-80f2-4005-8fda-e2b8662af2df)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="FILM |🇮🇩 MAXSTREAM", SPOTV 1 Garuda 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream12.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(079a21c7-d590-43d8-a87a-86f9d0116688)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5D0YW20.png" group-title="FILM |🇮🇩 MAXSTREAM", SPOTV 2 Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream11.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(64020ecc-da92-4710-889d-48b34479e669)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM |🇮🇩 MAXSTREAM", Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/paramount/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM |🇮🇩 MAXSTREAM", Paramount Network Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream3.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="FILM |🇮🇩 MAXSTREAM", Rodja TV HD
@@ -2386,6 +2466,11 @@ https://deptokv1.herokuapp.com/index.m3u8?id=7946
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/thrill/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(87e38ea2-30cd-4a36-8a2b-087b6d815fd2)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="FILM |🇮🇩 MAXSTREAM", Thrill Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vipmaxthrill-punya.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(87e38ea2-30cd-4a36-8a2b-087b6d815fd2)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63pJ0nW2/download-removebg-preview-9.png" group-title="FILM |🇮🇩 MAXSTREAM", U Channel
 https://deptokv1.herokuapp.com/index.m3u8?id=6898
 
@@ -2396,6 +2481,13 @@ https://deptokv1.herokuapp.com/index.m3u8?id=6898
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/zeebioskop/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d-470c-a7f0-641ef845d90a)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 MAXSTREAM", Zee Bioskop Garuda
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream10.garudatvvip.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d-470c-a7f0-641ef845d90a)/manifest.mpd
+
+
 
 
 ====================================================================================================================================FILM INDONESIA===========================================================================================================================================================
@@ -2434,8 +2526,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="FILM |🇮🇩 INDONESIA",ONE HD Vision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="FILM |🇮🇩 INDONESIA",ONE TV HD Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dasbor
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="FILM |🇮🇩 INDONESIA",ONE TV HD CBM
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cf0b78ee573e4/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ZuDqYL.png" group-title="FILM |🇮🇩 INDONESIA", Vision Prime Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2547,6 +2647,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dasbor
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="FILM |🇮🇩 INDONESIA",KBS WORLD CBM
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856f08326c016f5589608831bb/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="FILM |🇮🇩 INDONESIA",KBS WORLD FMX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3980,6 +4088,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch224)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dasbor
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="KIDS",Animax ID CBM
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cf0be98ad73e6/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="KIDS", Animax ID HD Vision+ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
