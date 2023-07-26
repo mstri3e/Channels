@@ -2357,7 +2357,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream8.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5JUoxHu.png" group-title="FILM |🇮🇩 MAXSTREAM", GEM Garuda
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ6k1nA.png" group-title="FILM |🇮🇩 MAXSTREAM", GEM Garuda
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream7.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9e88c4b0-8f52-4d81-9954-943e8cce1b71)/manifest.mpd
