@@ -255,7 +255,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 #http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRITV NASIONAL INDONESIA)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",Trans TV Vision
@@ -325,7 +325,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 #http://45.126.83.51/dr9445/h/h10/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1391,7 +1391,7 @@ https://ddy2.cdnhks.lol/ddy2/premium152/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
 
 ================================================================================================Smackdown WWE=============================================================================================================
