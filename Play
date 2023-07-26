@@ -3228,7 +3228,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 http://103.180.119.90:9911/stream/channelid/2070324053/putar/warnertv.php
-https://berkahnettv.xyz/play/bPigtzx6c9iHgyJgPIiutBLFp950pSJuoy9hBJ7Qn8c/ts
+#https://berkahnettv.xyz/play/bPigtzx6c9iHgyJgPIiutBLFp950pSJuoy9hBJ7Qn8c/ts
 #https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #https://nxanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
@@ -5399,7 +5399,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmJDc3MQ/imgbin-animal-planet-logo-television-channel-others-E91-Mw-Tn9r-BZVEgc6-Nz-Xur9epn-removebg-preview.png" group-title="KNOWLEDGE", Animal Planet HD
 https://kusnadipepenk.github.io/ntn/animal.m3u8
-https://berkahnettv.xyz/play/bPigtzx6c9iHgyJgPIiutFvN_98aGqrqZxgSefP3B4k/ts
+#https://berkahnettv.xyz/play/bPigtzx6c9iHgyJgPIiutFvN_98aGqrqZxgSefP3B4k/ts
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmJDc3MQ/imgbin-animal-planet-logo-television-channel-others-E91-Mw-Tn9r-BZVEgc6-Nz-Xur9epn-removebg-preview.png" group-title="KNOWLEDGE", Animal Planet ID FMX
@@ -10449,37 +10449,37 @@ https://webudit.cdnhks.lol/lb/premium419/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pl.mooncang.my.id/5232703227/widevine?ch=eyJ1c2VyIjoiNTIzMjcwMzIyNyIsInBhc3MiOiJiMGEwZjNkMmI3MGFlNDFhNTliMzQ2ZjFhYjViNjFjMiIsInRva2VuIjoiVTJGc2RHVmtYMStnUnF0djdXeWNMQlVWbnBWXC84VW1tQ3FIZVlocVAzOEpIbks3NlVEVGNkUXMrRnJtcjhack9YZys5WG0wcm5ub3pGRVVQeWV6a0VqVzlPK3Q0NGwxV3NDMUxPRTd2U3F4Qm1KdkxsZng1MW1NdndtRVArM01Rck04eUpqUWczSDBqTjd1YnNGeTI4NzgyZ1k1am02SnRiUFFkbUxFbytTNEJXSGhLXC8wZkZId3hwWmdWS3IzMjdJWVUyWXgycnJTcE9oeDVrUUFxbGVBPT0ifQ==
-https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+#https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qgkbhcb/Ssc-2.jpg" group-title="SSC SPORTS",SSC 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pl.mooncang.my.id/5232703227/widevine?ch=eyJ1c2VyIjoiNTIzMjcwMzIyNyIsInBhc3MiOiJiMGEwZjNkMmI3MGFlNDFhNTliMzQ2ZjFhYjViNjFjMiIsInRva2VuIjoiVTJGc2RHVmtYMStnUnF0djdXeWNMQlVWbnBWXC84VW1tQ3FIZVlocVAzOEpIbks3NlVEVGNkUXMrRnJtcjhack9YZys5WG0wcm5ub3pGRVVQeWV6a0VqVzlPK3Q0NGwxV3NDMUxPRTd2U3F4Qm1KdkxsZng1MW1NdndtRVArM01Rck04eUpqUWczSDBqTjd1YnNGeTI4NzgyZ1k1am02SnRiUFFkbUxFbytTNEJXSGhLXC8wZkZId3hwWmdWS3IzMjdJWVUyWXgycnJTcE9oeDVrUUFxbGVBPT0ifQ==
-https://shls-ssc-2-prod-dub.shahid.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index.mpd
+#https://shls-ssc-2-prod-dub.shahid.net/out/v1/9499044d48ef4cb8a212130ef74d2919/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QrxtSRW/Ssc-3.jpg" group-title="SSC SPORTS",SSC 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pl.mooncang.my.id/5232703227/widevine?ch=eyJ1c2VyIjoiNTIzMjcwMzIyNyIsInBhc3MiOiJiMGEwZjNkMmI3MGFlNDFhNTliMzQ2ZjFhYjViNjFjMiIsInRva2VuIjoiVTJGc2RHVmtYMStnUnF0djdXeWNMQlVWbnBWXC84VW1tQ3FIZVlocVAzOEpIbks3NlVEVGNkUXMrRnJtcjhack9YZys5WG0wcm5ub3pGRVVQeWV6a0VqVzlPK3Q0NGwxV3NDMUxPRTd2U3F4Qm1KdkxsZng1MW1NdndtRVArM01Rck04eUpqUWczSDBqTjd1YnNGeTI4NzgyZ1k1am02SnRiUFFkbUxFbytTNEJXSGhLXC8wZkZId3hwWmdWS3IzMjdJWVUyWXgycnJTcE9oeDVrUUFxbGVBPT0ifQ==
-https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
+#https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syfkXQT/Ssc-4.jpg" group-title="SSC SPORTS",SSC 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pl.mooncang.my.id/5232703227/widevine?ch=eyJ1c2VyIjoiNTIzMjcwMzIyNyIsInBhc3MiOiJiMGEwZjNkMmI3MGFlNDFhNTliMzQ2ZjFhYjViNjFjMiIsInRva2VuIjoiVTJGc2RHVmtYMStnUnF0djdXeWNMQlVWbnBWXC84VW1tQ3FIZVlocVAzOEpIbks3NlVEVGNkUXMrRnJtcjhack9YZys5WG0wcm5ub3pGRVVQeWV6a0VqVzlPK3Q0NGwxV3NDMUxPRTd2U3F4Qm1KdkxsZng1MW1NdndtRVArM01Rck04eUpqUWczSDBqTjd1YnNGeTI4NzgyZ1k1am02SnRiUFFkbUxFbytTNEJXSGhLXC8wZkZId3hwWmdWS3IzMjdJWVUyWXgycnJTcE9oeDVrUUFxbGVBPT0ifQ==
-https://ssc-4-ak.akamaized.net/out/v1/7aeb8bd13f7942728d2f2a79735ee53c/index.mpd
+#https://ssc-4-ak.akamaized.net/out/v1/7aeb8bd13f7942728d2f2a79735ee53c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YXgk5Cd/Ssc-5.jpg" group-title="SSC SPORTS",SSC 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pl.mooncang.my.id/5232703227/widevine?ch=eyJ1c2VyIjoiNTIzMjcwMzIyNyIsInBhc3MiOiJiMGEwZjNkMmI3MGFlNDFhNTliMzQ2ZjFhYjViNjFjMiIsInRva2VuIjoiVTJGc2RHVmtYMStnUnF0djdXeWNMQlVWbnBWXC84VW1tQ3FIZVlocVAzOEpIbks3NlVEVGNkUXMrRnJtcjhack9YZys5WG0wcm5ub3pGRVVQeWV6a0VqVzlPK3Q0NGwxV3NDMUxPRTd2U3F4Qm1KdkxsZng1MW1NdndtRVArM01Rck04eUpqUWczSDBqTjd1YnNGeTI4NzgyZ1k1am02SnRiUFFkbUxFbytTNEJXSGhLXC8wZkZId3hwWmdWS3IzMjdJWVUyWXgycnJTcE9oeDVrUUFxbGVBPT0ifQ==
-https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
+#https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4FLDgZr/Extra-1.jpg" group-title="SSC SPORTS",SSC Extra 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pl.mooncang.my.id/5232703227/widevine?ch=eyJ1c2VyIjoiNTIzMjcwMzIyNyIsInBhc3MiOiJiMGEwZjNkMmI3MGFlNDFhNTliMzQ2ZjFhYjViNjFjMiIsInRva2VuIjoiVTJGc2RHVmtYMStnUnF0djdXeWNMQlVWbnBWXC84VW1tQ3FIZVlocVAzOEpIbks3NlVEVGNkUXMrRnJtcjhack9YZys5WG0wcm5ub3pGRVVQeWV6a0VqVzlPK3Q0NGwxV3NDMUxPRTd2U3F4Qm1KdkxsZng1MW1NdndtRVArM01Rck04eUpqUWczSDBqTjd1YnNGeTI4NzgyZ1k1am02SnRiUFFkbUxFbytTNEJXSGhLXC8wZkZId3hwWmdWS3IzMjdJWVUyWXgycnJTcE9oeDVrUUFxbGVBPT0ifQ==
-https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+#https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vd5KxRc/Extra-2.jpg" group-title="SSC SPORTS",SSC Extra 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -10490,48 +10490,48 @@ https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pl.mooncang.my.id/5232703227/widevine?ch=eyJ1c2VyIjoiNTIzMjcwMzIyNyIsInBhc3MiOiJiMGEwZjNkMmI3MGFlNDFhNTliMzQ2ZjFhYjViNjFjMiIsInRva2VuIjoiVTJGc2RHVmtYMStnUnF0djdXeWNMQlVWbnBWXC84VW1tQ3FIZVlocVAzOEpIbks3NlVEVGNkUXMrRnJtcjhack9YZys5WG0wcm5ub3pGRVVQeWV6a0VqVzlPK3Q0NGwxV3NDMUxPRTd2U3F4Qm1KdkxsZng1MW1NdndtRVArM01Rck04eUpqUWczSDBqTjd1YnNGeTI4NzgyZ1k1am02SnRiUFFkbUxFbytTNEJXSGhLXC8wZkZId3hwWmdWS3IzMjdJWVUyWXgycnJTcE9oeDVrUUFxbGVBPT0ifQ==
-https://ssc-extra3-ak.akamaized.net/out/v1/8390b35dae284f53b44c3c8645a5fb09/index.mpd
+#https://ssc-extra3-ak.akamaized.net/out/v1/8390b35dae284f53b44c3c8645a5fb09/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4phFp9Y/Ssc-1.jpg" group-title="SSC SPORTS",SSC Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#https://webudit.cdnhks.lol/lb/premium614/index.m3u8
+https://webudit.cdnhks.lol/lb/premium614/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qgkbhcb/Ssc-2.jpg" group-title="SSC SPORTS",SSC Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#https://webudit.cdnhks.lol/lb/premium615/index.m3u8
+https://webudit.cdnhks.lol/lb/premium615/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QrxtSRW/Ssc-3.jpg" group-title="SSC SPORTS",SSC Sports 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#https://webudit.cdnhks.lol/lb/premium616/index.m3u8
+https://webudit.cdnhks.lol/lb/premium616/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syfkXQT/Ssc-4.jpg" group-title="SSC SPORTS",SSC Sports 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#https://webudit.cdnhks.lol/lb/premium617/index.m3u8
+https://webudit.cdnhks.lol/lb/premium617/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YXgk5Cd/Ssc-5.jpg" group-title="SSC SPORTS",SSC Sports 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#https://webudit.cdnhks.lol/lb/premium618/index.m3u8
+https://webudit.cdnhks.lol/lb/premium618/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4FLDgZr/Extra-1.jpg" group-title="SSC SPORTS",SSC Extra 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#https://webudit.cdnhks.lol/lb/premium619/index.m3u8
+https://webudit.cdnhks.lol/lb/premium619/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vd5KxRc/Extra-2.jpg" group-title="SSC SPORTS",SSC Extra 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#https://webudit.cdnhks.lol/lb/premium620/index.m3u8
+https://webudit.cdnhks.lol/lb/premium620/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09Pz3d1/Extra-3.jpg" group-title="SSC SPORTS",SSC Extra 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#https://webudit.cdnhks.lol/lb/premium621/index.m3u8
+https://webudit.cdnhks.lol/lb/premium621/index.m3u8
 
 
 
