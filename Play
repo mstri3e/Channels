@@ -222,9 +222,6 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name= "RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",RTV HD MAX
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-id="NET.id" tvg-name= "TV BERSIH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",NET TV Vision
@@ -252,8 +249,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI TV NASIONAL INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA"",TVRI HD
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRITV NASIONAL INDONESIA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI TV NASIONAL INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA"",TVRI HD CBM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
+#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRITV NASIONAL INDONESIA)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",Trans TV Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -313,8 +316,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name= "RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA", Rajawali RTV HD Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name= "RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",Rajawali RTV HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name= "RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",Rajawali RTV HD MAX
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name= "RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",Rajawali RTV HD CBM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 #http://45.126.83.51/dr9445/h/h10/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -324,11 +335,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-id="TvOne.id" tvg-name= "TVOne" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="NASIONAL |🇮🇩 INDONESIA",TVONE HD DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.35/qwr9ew/s/s0105/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s0105/index.m3u8
 
 #EXTINF:-1 tvg-id="TvOne.id" tvg-name= "TVOne" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="NASIONAL |🇮🇩 INDONESIA",TVONE HD FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch12)/index.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup3/cg327production/ch12/02.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg327production/ch12/02.m3u8
 
 #EXTINF:-1 tvg-id="TvOne.id" tvg-name="TvOne" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="NASIONAL |🇮🇩 INDONESIA",TVONE HD CBM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
