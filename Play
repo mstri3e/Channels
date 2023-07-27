@@ -396,7 +396,8 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV.id" tvg-name= "VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/200px-VTV_Indonesia_2023.svg.png" group-title="NASIONAL |🇮🇩 INDONESIA",VTV ( VIVA TV ) HD
-https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
+https://berkahnettv.xyz:443/play/qeZs8UZ3I0881DaGDYIRBoTxYyj_BaxJjn9CYNUFcls/m3u8
+#https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="NASIONAL |🇮🇩 INDONESIA",TVR Parlemen (720p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
@@ -2549,13 +2550,20 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4
 #EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://i.imgur.com/DYG3JnD.png" group-title="FILM |🇮🇩 INDONESIA",Digione MAX 1
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
-#EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="FILM |🇮🇩 INDONESIA",Flik
+#EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="FILM |🇮🇩 INDONESIA",Flik Mammoth 
 https://stream.mammothtv.my.id/film/flik.m3u8
+
+#EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="FILM |🇮🇩 INDONESIA",Flik Mammoth 1
+https://stream.mammothtv.my.id/film/flik_playback.m3u8
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/165095
 #https://beetv.my.id/x/usee-flik-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="FILM |🇮🇩 INDONESIA",Flik HD
 https://nonton.site:8443/ekos/7483/29592
+
+#EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="FILM |🇮🇩 INDONESIA",Flik HD 1
+#http://103.180.119.90:9911/stream/channelid/1773637885?profile=pass
+#http://103.180.119.90:9911/stream/channelid/1773637885
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/165095
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IrS5AOC.png" group-title="FILM |🇮🇩 INDONESIA",Oke TV Vision
@@ -3241,7 +3249,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 http://103.180.119.90:9911/stream/channelid/2070324053/putar/warnertv.php
-#https://berkahnettv.xyz/play/bPigtzx6c9iHgyJgPIiutBLFp950pSJuoy9hBJ7Qn8c/ts
+https://berkahnettv.xyz:443/play/bPigtzx6c9iHgyJgPIiutBLFp950pSJuoy9hBJ7Qn8c/m3u8
 #https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #https://nxanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
@@ -9337,32 +9345,39 @@ https://webudit.cdnhks.lol/lb/premium67/index.m3u8?|referer=https://widevine.lic
 
 #EXTINF:-1  tvg-id="beinsports1.my" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="beIN Sports",beIN Sports Malaysia 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=beinmlayu_1
-http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/408/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408/
+http://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
+#http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/408/default.mpd
 
 #EXTINF:-1 tvg-id="beinsports2.my" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png" group-title="beIN Sports",beIN Sports Malaysia 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=beinmlayu_2
-http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/5066/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066/
+http://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
+#http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/5066/default.mpd
 
 #EXTINF:-1 tvg-id="beinsports3.my" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png" group-title="beIN Sports",beIN Sports Malaysia 3 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=beinmlayu_3
-http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/2705/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705/
+http://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
+#http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 tvg-id="beINSports1Thailand.th" tvg-name="beIN Sports 1 Thailand" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="beIN Sports",beIN Sports Thailand 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="beIN Sports", beIN Sports Thailand 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://stream.warpballsod.tv/bein2.m3u8|referer=https://www.warpballsod.tv/
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8
+#https://stream.warpballsod.tv/bein2.m3u8|referer=https://www.warpballsod.tv/
 
 #EXTINF:-1 tvg-id="beINSports3Thailand.th" tvg-name="beIN Sports 3 Thailand" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="beIN Sports",beIN Sports Thailand 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="beIN Sports", beIN Sports FRANCE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
