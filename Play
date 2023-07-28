@@ -1749,7 +1749,7 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1963
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d2/FTV_%28Indonesia%29.png/revision/latest" group-title="HOME TV | LIFESTYLE",FTV MAX
 #EXTVLCOPT:http-user-agent=apiv2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/ftv/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/ftv/license-proxy-widevine/cenc/?specConform=true
 http://103.152.118.53:80/play/mekstrim/dash/5cd2bf10-1ac0-4fa7-9543-3520f01b3378/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b57xU6q.png" group-title="HOME TV | LIFESTYLE", LifeStyle & Fashion
@@ -2336,7 +2336,7 @@ https://ddy1.cdnhks.lol/ddy1/premium598/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇮🇩 MAXSTREAM", Axn 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/axn/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/axn/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4e768b62-1332-4938-b2c7-19dc184fd0d2)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇮🇩 MAXSTREAM", Axn Garuda
@@ -2349,7 +2349,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9263bf14-cd77
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="FILM |🇮🇩 MAXSTREAM", Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/celestialmovies/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/celestialmovies/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012-489d-8c88-be5624ded39c)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="FILM |🇮🇩 MAXSTREAM", Celestial Movies Garuda
@@ -2359,12 +2359,12 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="cinemaxasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d2/FTV_%28Indonesia%29.png/revision/latest",FTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/ftv/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/ftv/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d2/FTV_%28Indonesia%29.png/revision/latest",FTV Garuda
@@ -2379,27 +2379,27 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9e88c4b0-8f52
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hbohitsasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hbosignatureasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hitsnow.sg" tvg-logo="https://i.imgur.com/sQkw1Dt.png",HITS Now
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hitsnow/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/hitsnow/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-id="hitsnow.sg" tvg-logo="https://i.imgur.com/sQkw1Dt.png",HITS Now Garuda
@@ -2409,7 +2409,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="FILM |🇮🇩 MAXSTREAM",INDIKIDS 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="FILM |🇮🇩 MAXSTREAM",INDIKIDS Garuda
@@ -2419,7 +2419,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" group-title="FILM |🇮🇩 MAXSTREAM", Kix 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/kix/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/kix/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dde85ea0-b018-44f3-81f6-6dc33b6daf3f)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" group-title="FILM |🇮🇩 MAXSTREAM", Kix Garuda
@@ -2429,7 +2429,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dde85ea0-b018
 
 #EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Asia 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/mycinemaasia/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/mycinemaasia/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5-49c0-bfdf-ad10b1ee356d)/manifest.mpd
 
 #EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Asia Garuda
@@ -2439,7 +2439,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5
 
 #EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/mycinema/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/mycinema/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/manifest.mpd
 
 #EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Garuda
@@ -2449,7 +2449,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="FILM |🇮🇩 MAXSTREAM",My Family Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/myfamily/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/myfamily/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1-404c-ba21-df68a1cffcac)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="FILM |🇮🇩 MAXSTREAM",My Family Channel Garuda
@@ -2484,7 +2484,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(64020ecc-da92
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM |🇮🇩 MAXSTREAM", Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/paramount/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/paramount/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="FILM |🇮🇩 MAXSTREAM", Paramount Network Garuda
@@ -2503,7 +2503,7 @@ https://deptokv1.herokuapp.com/index.m3u8?id=7946
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="FILM |🇮🇩 MAXSTREAM", Thrill 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/thrill/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/thrill/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(87e38ea2-30cd-4a36-8a2b-087b6d815fd2)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="FILM |🇮🇩 MAXSTREAM", Thrill Garuda
@@ -2519,7 +2519,7 @@ https://deptokv1.herokuapp.com/index.m3u8?id=6898
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 MAXSTREAM", Zee Bioskop 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/zeebioskop/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/zeebioskop/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d-470c-a7f0-641ef845d90a)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="FILM |🇮🇩 MAXSTREAM", Zee Bioskop Garuda
