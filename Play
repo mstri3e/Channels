@@ -1436,11 +1436,11 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 ====================================================================================================================================INDIHOME | USEETV===========================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znfPqNV.png" group-title="INDIHOME |🇮🇩 USEETV", ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/abcaustralia/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/abcaustralia/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name= "ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="INDIHOME |🇮🇩 USEETV", ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -1449,102 +1449,101 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest_w1300539340_qRFZS.mp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiCWRg1.png" group-title="INDIHOME |🇮🇩 USEETV", Antara TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="INDIHOME |🇮🇩 USEETV", Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/arirang/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/arirang/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="INDIHOME |🇮🇩 USEETV", Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/balitv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/balitv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV", Berita Satu BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/beritasatu/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/beritasatu/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="INDIHOME |🇮🇩 USEETV", DW TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/dwtv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/dwtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="DAAI.id" tvg-name="DAAITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="INDIHOME |🇮🇩 USEETV",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/daaitv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/daaitv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="INDIHOME |🇮🇩 USEETV",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name= "iNews" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="INDIHOME |🇮🇩 USEETV",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="INDIHOME |🇮🇩 USEETV", INDI KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://i.postimg.cc/7LbbDm7K/jaktv-removebg-preview.png" group-title="INDIHOME |🇮🇩 USEETV",JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/jaktv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/jaktv/manifest.mpd
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name= "Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png" group-title="INDIHOME |🇮🇩 USEETV",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name= "Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="INDIHOME |🇮🇩 USEETV",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name= "NusantaraTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png" group-title="INDIHOME |🇮🇩 USEETV",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/nusantaratv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/nusantaratv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Logo_RRI_NET.png" group-title="INDIHOME |🇮🇩 USEETV", RRI Net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name= "RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="INDIHOME |🇮🇩 USEETV"",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdnbal1.indihometv.com/dvr/139/sctv/manifest.mpd
+#https://cdnbal1.indihometv.com/dvr/139/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PxKVJXV.png" group-title="INDIHOME |🇮🇩 USEETV", SEA Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/seatoday/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/seatoday/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PxKVJXV.png" group-title="INDIHOME |🇮🇩 USEETV", SEA Today MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="INDIHOME |🇮🇩 USEETV",Trans 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="INDIHOME |🇮🇩 USEETV",Trans TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="TvOne.id" tvg-name= "TVOne" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="INDIHOME |🇮🇩 USEETV",TVONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/tvone/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-url="http://www.dens.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="INDIHOME |🇮🇩 USEETV",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/dvr/139/tvri/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/tvri/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="INDIHOME |🇮🇩 USEETV"", USEE PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/chunklist_w1395148783_b894100_sleng.m3u8
+#https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/chunklist_w1395148783_b894100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="INDIHOME |🇮🇩 USEETV"", USEE PRIME MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+
 
 ====================================================================================================================================HOME TV | FILM INDONESIA===========================================================================================================================================================
 
