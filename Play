@@ -2340,6 +2340,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="FILM |🇮🇩 MAXSTREAM", DW ENGLISH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/dwenglish/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b1bbe936-d85f-4f1a-853d-7c5e0fa4f9b9)/manifest.mpd
+
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d2/FTV_%28Indonesia%29.png/revision/latest",FTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/ftv/license-proxy-widevine/cenc/?specConform=true
