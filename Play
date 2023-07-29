@@ -1025,10 +1025,14 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/pl
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5tcj8GwS/formula.png" group-title="Live Formula 1 (F1)",Canal+ Formula 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.cdnhks.lol/ddy1/premium151/tracks-v1a1/mono.m3u8
+#https://ddy1.cdnhks.lol/ddy1/premium151/tracks-v1a1/mono.m3u8
 #https://ddy2.cdnhks.lol/ddy2/premium151/tracks-v1a1/mono.m3u8
 #http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/295260
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALQi8QergCOEc-eRYRPKRVtmH9YLIWQaH_A&usqp=CAU" group-title="Live Formula 1 (F1)",Supersport Motorsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium424/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="Live Formula 1 (F1)" ,Sky Sports F1 UK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1039,9 +1043,10 @@ https://ddy1.cdnhks.lol/ddy1/premium151/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Live Formula 1 (F1)",Dazn F1 ES HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Live Formula 1 (F1)",Dazn F1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1672
+https://webudit.cdnhks.lol/lb/premium537/index.m3u8|referer=https://widevine.licenses4.me/
+#https://ddy5.cdnhks.lol/ddy5/premium537/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Live Formula 1 (F1)",Dazn F1 ES FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -1064,7 +1069,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/brL2TTzN/motogp.jpg" group-title="Live MOTOGP",Canal+ Motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/297423
+#http://premiumiptvmk.com:8080/mitrovic/tCTz8ZhyevV2qQYW/297423
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -1084,15 +1089,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5D0YW20.png" group-title="Live MOTOGP",SPOTV 2 HD Vision+
-https:////anv-live-cdn-118.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://anv-live-cdn-118.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALQi8QergCOEc-eRYRPKRVtmH9YLIWQaH_A&usqp=CAU" group-title="Live MOTOGP",Supersport Motorsport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium424/index.m3u8|referer=https://widevine.licenses4.me/
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="Live MOTOGP",Motor Racing TV HD
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="Live MOTOGP",Motor Racing TV HD CBM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1100,7 +1102,7 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati-coebmou.mstri3e.workers.dev//license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="Live MOTOGP",Motor Racing TV HD CBM 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1108,7 +1110,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
 
 =================================================================================================================Live UFC=================================================================================================================
@@ -1139,16 +1141,32 @@ https://webudit.cdnhks.lol/lb/premium120/index.m3u8|referer=https://widevine.lic
 
 =================================================================================================================RACING TV=================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGpSzNwq/ACI-SPORT-removebg-preview.png" group-title="RACING TV",ACI Sport TV (1080p) [!]
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQJqeiF.png" group-title="RACING TV",Edge Sports UK ( Set Res )
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV",FOX SPORT RACING HD
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2327
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV",FOX SPORT RACING HD 1
+http://kuchini.site:8080/multi6741/ab72059e/2327
+#http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2327
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="RACING TV", GAORA SPORTS  
+http://code.vthanhtivi.pw/getlink/jptv1/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HarleyDavidsonRacingTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="RACING TV",Harley Davidson Racing TV (720p) [Not 24/7]
 https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx3SYhKd/moto-america-removebg-preview.png" group-title="RACING TV",Moto America
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="RACING TV",Motor Racing TV dai
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV dai
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="RACING TV",Motor Racing TV DENS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CWMhdW/motor-racing-removebg-preview.png" group-title="RACING TV",Motor Racing TV DENS
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35/uq2663/h/h223/index.m3u8
 
@@ -1160,8 +1178,23 @@ http://210.210.155.35/uq2663/h/h223/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati-coebmou.mstri3e.workers.dev//license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGpSzNwq/ACI-SPORT-removebg-preview.png" group-title="RACING TV",ACI Sport TV (1080p) [!]
-https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRnv7VgY/MOTO-WIZJA-removebg-preview.png" group-title="RACING TV",MOTO RALLY WIZJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy5.cdnhks.lol/ddy5/premium563/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="RACING TV",MAVTV Select
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fqvwEk.png" group-title="RACING TV",MAVTV HD
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4bSCt1.png" tvg-name="MAVTV Select" group-title="RACING TV",MAVTV Select
+#https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Monster-Jam-Logo.png" group-title="RACING TV",Monster Jam
+#http://103.152.118.53:80/streams/yt/by-name/MonsterJam/index.m3u8
+http://103.152.118.53:80/play/yt/by-name/MonsterJam/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBL0pCCp/ski-tv-removebg-preview.png" group-title="RACING TV",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
@@ -1183,10 +1216,10 @@ http://kuchini.site:8080/multi6741/ab72059e/163132
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtCjGSJJ/SPORTY-STUFF-removebg-preview.png" group-title="RACING TV",Sporty Stuff TV (1080p)
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjmdp1SK/TRACE.png" group-title="RACING TV",Trace Sport Stars HD | Aus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="RACING TV",Trace Sport Stars HD | Aus
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjmdp1SK/TRACE.png" group-title="RACING TV",Trace Sports Stars HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="RACING TV",Trace Sports Stars HD
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="RACING TV",ZIGGO Sport Racing HD 1
@@ -1197,43 +1230,12 @@ http://kuchini.site:8080/multi6741/ab72059e/4515
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.cdnhks.lol/lb/premium396/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRnv7VgY/MOTO-WIZJA-removebg-preview.png" group-title="RACING TV",MOTO RALLY WIZJA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.cdnhks.lol/ddy5/premium563/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="RACING TV",Edge Sports UK ( Set Res )
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV",FOX SPORT RACING HD
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2327
-
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Kz6mcmf0/fox-sport-racing-removebg-preview.png" group-title="RACING TV",FOX SPORT RACING HD 1
-http://kuchini.site:8080/multi6741/ab72059e/2327
-#http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2327
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="RACING TV",MAVTV Select
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fqvwEk.png" group-title="RACING TV",MAVTV HD
-https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O4bSCt1.png" tvg-name="MAVTV Select" group-title="RACING TV",MAVTV Select
-#https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw7W7_ONOQ6-4Cvl0ZFBncBmh7DrlTCajqPQ&usqp=CAU" group-title="RACING TV",MAVTV Select
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Monster-Jam-Logo.png" group-title="RACING TV",Monster Jam
-#http://103.152.118.53:80/streams/yt/by-name/MonsterJam/index.m3u8
-http://103.152.118.53:80/play/yt/by-name/MonsterJam/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://livean.yhvserve.com:9083/query/s/tO9COl46v4MdIi1NdbzL0A==.jpg?type=live&thumbnail=thumbnail_small.jpg" group-title="RACING TV", GAORA SPORTS  
-http://code.vthanhtivi.pw/getlink/jptv1/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest" group-title="RACING TV", Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzCBgm5h/MOTORSPORT-removebg-preview.png" group-title="RACING TV",Motorrsports 1 TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzCBgm5h/MOTORSPORT-removebg-preview.png" group-title="RACING TV",Motorsports 1 TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
 
 ========================================================================================================================================ANIMAL SPORTS==========================================================================================================================================
@@ -4290,11 +4292,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
-#EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="KIDS",HOREE HD 1
+#EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="KIDS",HOREE HD Vid
+https://deptokv1.herokuapp.com/index.m3u8?id=6397
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
 #EXTINF:-1 tvg-id="HipHipHoree.id" tvg-logo="https://i.imgur.com/H7ngHPj.png" group-title="KIDS",Hip-Hip Horee
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298536
+https://deptokv1.herokuapp.com/index.m3u8?id=7052
+#http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298536
 #http://beetv.my.id/x/vidio-hiphiphoree-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="IndiKids.us" tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS" ,INDI KIDS
@@ -4586,7 +4590,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a59
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HH6N3y2/Picsart-22-08-30-16-33-35-999.png" group-title="CARTOONS", Garfield Pluto
 https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://happykids.tv/img/logo.png" group-title="CARTOONS",Happy Kids Junior
+#EXTINF:-1 tvg-logo="https://happykids.tv/img/logo.png" group-title="CARTOONS",Happy Kids
 https://happykids-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gp6zEQa.png" group-title="CARTOONS",Happy Kids Junior
@@ -7441,7 +7445,7 @@ https://webudit.cdnhks.lol/lb/premium308/index.m3u8
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Saluran Sepak Bola" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="SPORTS",Soccer Channnels HD
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9uo5qQfImMtyrukcfLsMFNxZ4Ef0NoOGyA&usqp=CAU" group-title="SPORTS",EDGE Sports US ( Set Res )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQJqeiF.png" group-title="SPORTS",EDGE Sports US ( Set Res )
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BrNpDPLB99WqMz5Keap7zUjypS3ZFHz88Q&usqp=CAU" group-title="SPORTS",Kanalen Sport
@@ -8087,17 +8091,35 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 
 =================================================================================================================================================SN SPORTS==========================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports Ontario
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium406/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports HD HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports West HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium407/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium408/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium409/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium410/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5zgSJn/sn-removebg-preview.png" group-title="SPORTS 1",SN Sports One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium406/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 ====================================================================================================================================NBA NFL MLB Sports====================================================================================================================================
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS 1",NBA TV
