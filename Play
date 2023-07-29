@@ -2350,6 +2350,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream8.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ6k1nA.png" group-title="FILM |🇮🇩 MAXSTREAM", GEM HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/sgem/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9e88c4b0-8f52-4d81-9954-943e8cce1b71)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ6k1nA.png" group-title="FILM |🇮🇩 MAXSTREAM", GEM Garuda
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream7.garudatvvip.workers.dev/
@@ -2444,6 +2449,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nhkworldvipmax-punya.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(59a6fa8a-7dc1-43aa-ba66-d42342fa4244)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="FILM |🇮🇩 MAXSTREAM", One TV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/sone/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5a29bc89-80f2-4005-8fda-e2b8662af2df)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="FILM |🇮🇩 MAXSTREAM", One TV Garuda
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
