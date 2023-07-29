@@ -2410,7 +2410,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dde85ea0-b018
 #KODIPROP:inputstream.adaptive.license_key=https://vipmaxkix-punya.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dde85ea0-b018-44f3-81f6-6dc33b6daf3f)/manifest.mpd
 
-#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Asia 
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/mycinemaasia/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5-49c0-bfdf-ad10b1ee356d)/manifest.mpd
@@ -2420,12 +2420,12 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream4.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5-49c0-bfdf-ad10b1ee356d)/manifest.mpd
 
-#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema 
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/mycinema/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/manifest.mpd
 
-#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema Garuda
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="FILM |🇮🇩 MAXSTREAM",My Cinema HD Garuda
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream4.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/manifest.mpd
@@ -2440,10 +2440,20 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream4.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1-404c-ba21-df68a1cffcac)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="FILM |🇮🇩 MAXSTREAM", My Kidz
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/mykidz/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189-453d-80a4-536de660a8b5)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="FILM |🇮🇩 MAXSTREAM", My Kidz Garuda
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mykidzmaxvip-punya.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189-453d-80a4-536de660a8b5)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM |🇮🇩 MAXSTREAM", NHK World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/nhkworld/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(59a6fa8a-7dc1-43aa-ba66-d42342fa4244)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="FILM |🇮🇩 MAXSTREAM", NHK World Garuda
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
