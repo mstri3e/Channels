@@ -3226,6 +3226,15 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685758bcfff0175ab9d2b3
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati-coebmou.mstri3e.workers.dev//license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="FILM |🇮🇩 INDONESIA",Warner TV Indihome
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://usee8.wongwarass.workers.dev/
+https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+https://usee8.wongwarass.workers.dev/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd
+
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="FILM |🇮🇩 INDONESIA",Warner TV ( Backup )
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
