@@ -4301,13 +4301,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
+#EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="KIDS",HOREE HD Backup
+https://nonton.site:8443/ekos/7483/14106
+
 #EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="KIDS",HOREE HD Vid
 https://deptokv1.herokuapp.com/index.m3u8?id=6397
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
 #EXTINF:-1 tvg-id="HipHipHoree.id" tvg-logo="https://i.imgur.com/H7ngHPj.png" group-title="KIDS",Hip-Hip Horee
-https://deptokv1.herokuapp.com/index.m3u8?id=7052
-#http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298536
+#https://deptokv1.herokuapp.com/index.m3u8?id=7052
+http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/298536
 #http://beetv.my.id/x/vidio-hiphiphoree-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="IndiKids.us" tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS" ,INDI KIDS
