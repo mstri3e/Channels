@@ -3232,8 +3232,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://usee8.wongwarass.workers.dev/
-https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
-https://usee8.wongwarass.workers.dev/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+#https://usee8.wongwarass.workers.dev/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="FILM |🇮🇩 INDONESIA",Warner TV ( Backup )
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
