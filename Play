@@ -3571,11 +3571,11 @@ http://1.yurend.xyz/dash-wv/linear/2308/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO OASIS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571238&extension=ts&play_token=FUn2lUwTU1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO OASIS HD MS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO OASIS HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505/
-https://baitijannati-byastroboy.mstri3e.workers.dev/dash-wv/linear/2505/default_primary.mpd
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO OASIS HD 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -3675,13 +3675,15 @@ https://apaaikamu.kutubusuk.workers.dev/dash-wv/linear/5095/default_ott.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603/
-https://1.yurend.xyz/dash-wv/linear/603/default_primary.mpd
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/603/default_primary.mpd
+#https://1.yurend.xyz/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="FILM |🇲🇾 MALAYSIA",HBO HD ( Set Res )
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304/
-https://1.yurend.xyz/dash-wv/linear/2304/default_primary.mpd
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2304/default_primary.mpd
+#https://1.yurend.xyz/dash-wv/linear/2304/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="FILM |🇲🇾 MALAYSIA",HBO Hits HD ( Set Res )
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
