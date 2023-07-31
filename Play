@@ -2312,7 +2312,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a1aca4db-f26c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="FILM |🇮🇩 MAXSTREAM", ANTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=ttps://baitijannati.mstri3e.workers.dev/antvhd/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=ttps://baitijannati.mstri3e.workers.dev/antv/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a1aca4db-f26c-4354-9c5c-bb6b80208d42)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="FILM |🇮🇩 MAXSTREAM", ATV HD
@@ -2534,7 +2534,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(079a21c7-d590
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5D0YW20.png" group-title="FILM |🇮🇩 MAXSTREAM", SPOTV 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/spotvhd2/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/spotv2/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(64020ecc-da92-4710-889d-48b34479e669)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5D0YW20.png" group-title="FILM |🇮🇩 MAXSTREAM", SPOTV 2 Garuda
