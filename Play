@@ -2361,7 +2361,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(e78053cd-86f5
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="FILM |🇮🇩 MAXSTREAM"",Flik Indi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/flikih
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d2/FTV_%28Indonesia%29.png/revision/latest",FTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5069,6 +5069,16 @@ https://zoomoo-samsungau.amag.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://12537-stream-ip-tv.xyz/play/bein1/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇮🇩 INDONESIA", beIN Sports 1 Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/beinsports1indonesiaih
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1_dash/manifest_windihometv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇮🇩 INDONESIA", beIN Sports 3 Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/beinsports2indonesiaih
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2_dash/manifest_windihometv_qRFZS.mpd
+
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇮🇩 INDONESIA", beIN Sports Indonesia 1 Kk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 http://103.180.119.90:9911/stream/channelid/388105260/putar/beinindosatu.php
@@ -5218,7 +5228,7 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0N74NrD2/arena-bola.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola MS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098/
-https://baitijannati-byastroboy.mstri3e.workers.dev/staging-linearjitp-playback/dash-wv/linear/5098/default_primary.mpd
+#https://baitijannati-byastroboy.mstri3e.workers.dev/staging-linearjitp-playback/dash-wv/linear/5098/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHNvMRh/arena-bola-2.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola 2 HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
