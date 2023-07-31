@@ -2606,6 +2606,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream10.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d-470c-a7f0-641ef845d90a)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="FILM |🇮🇩 MAXSTREAM",Warner TV Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/wernertvih
+https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd
 
 
 
