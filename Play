@@ -59,7 +59,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg406production/ch19/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" group-title="NASIONAL |🇮🇩 INDONESIA",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9WJb2oJ" group-title="NASIONAL |🇮🇩 INDONESIA", CDI Channel Dangdut Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WJb2oJ.png" group-title="NASIONAL |🇮🇩 INDONESIA", CDI Channel Dangdut Indonesia
 https://103.166.27.2:800/play/a01u
 
 #EXTINF:-1 tvg-id="cnbc.id" tvg-name="cnbc" tvg-logo="https://i.postimg.cc/5NwwqhLp/cnbc-logo-transparent.png" group-title="NASIONAL |🇮🇩 INDONESIA",CNBC Indonesia
