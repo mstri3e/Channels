@@ -60,7 +60,18 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg406production/ch19/02.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wdn2FX6/bandung-removebg-preview.png" group-title="NASIONAL |🇮🇩 INDONESIA", CDI Channel Dangdut Indonesia
-http://103.166.27.2:800/play/a01u
+https://103.166.27.2:800/play/a01u
+
+#EXTINF:-1 tvg-id="cnbc.id" tvg-name="cnbc" tvg-logo="https://i.postimg.cc/5NwwqhLp/cnbc-logo-transparent.png" group-title="NASIONAL |🇮🇩 INDONESIA",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="cnbc.id" tvg-name="cnbc" tvg-logo="https://i.postimg.cc/5NwwqhLp/cnbc-logo-transparent.png" group-title="NASIONAL |🇮🇩 INDONESIA",CNBC Indonesia CBM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://baitijannati-coebmou.mstri3e.workers.dev//license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68565fa79ce01665868040a343f/manifest.m3u8
 
 #EXTINF:-1 tvg-id="cnn.id" tvg-name="cnn" tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="NASIONAL |🇮🇩 INDONESIA",CNN Indonesia HD CBM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -72,9 +83,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce
 
 #EXTINF:-1 tvg-id="cnn.id" tvg-name= "cnn" tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="NASIONAL |🇮🇩 INDONESIA",CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="cnbc.id" tvg-name="cnbc" tvg-logo="https://i.postimg.cc/5NwwqhLp/cnbc-logo-transparent.png" group-title="NASIONAL |🇮🇩 INDONESIA",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="DAAI.id" tvg-name="DAAITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="NASIONAL |🇮🇩 INDONESIA",DAAI TV HD Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -91,7 +99,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati-coebmou.mstri3e.workers.dev//license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729cbde4783c06/manifest.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c68572841ba301729cbde4783c06/manifest.m3u8
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-name= "GarudaTV" tvg-logo="https://i.postimg.cc/mrxWfFtT/Logo-Garuda-TV-Merah-Flat-2022.png" group-title="NASIONAL |🇮🇩 INDONESIA",Garuda TV FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
