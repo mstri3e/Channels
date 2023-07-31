@@ -3561,7 +3561,7 @@ https://1.yurend.xyz/dash-wv/linear/5103/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5103/
 https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/5103/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GspyP2P/Aod-hometv.jpg" group-title="FILM |🇲🇾 MALAYSIA",ASTRO A0D MS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GspyP2P/Aod-hometv.jpg" group-title="FILM |🇲🇾 MALAYSIA",ASTRO A0D
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2706/
 http://watchlive.my.id/dash-wv/linear/2706/default_primary.mpd
@@ -3668,7 +3668,10 @@ https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/
 https://1.yurend.xyz/dash-wv/linear/2408/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astrocitra.my" tvg-logo="https://i.postimg.cc/bNKgQv7H/astro-citra.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO CITRA
-https://ktpremium.com:443/metatvpro123/kkyy123/913177
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408/
+https://baitijannati-byastroboy.mstri3e.workers.dev/staging-linearjitp-playback/dash-wv/linear/2700/default_primary.mpd
+#https://ktpremium.com:443/metatvpro123/kkyy123/913177
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tLDwwdx/huaa.png" group-title="FILM |🇲🇾 MALAYSIA", ASTRO HUA HEE DAI HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -3742,17 +3745,22 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571256&exten
 #http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/158347
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPo
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://aqfadtv.xyz/live/ria/index.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO RIA HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004/
-http://1.yurend.xyz/dash-wv/linear/1004/default_primary.mpd
+http://1.yurend.xyz/staging-linearjitp-playback/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO RIA MS
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004/
-https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/1004/default_primary.mpd
+https://baitijannati-byastroboy.mstri3e.workers.dev/staging-linearjitp-playback/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png" group-title="FILM |🇲🇾 MALAYSIA",ASTRO SENSASI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3791,6 +3799,12 @@ http://1.yurend.xyz/dash-wv/linear/5073/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ExbL2Tz9h5n51eOWlmUbABJOUCoqAAbz8A&usqp=CAU" group-title="FILM |🇲🇾 MALAYSIA",ASTRO WARNA
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=ADhoODj7kx
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ExbL2Tz9h5n51eOWlmUbABJOUCoqAAbz8A&usqp=CAU" group-title="FILM |🇲🇾 MALAYSIA",ASTRO WARNA MS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDNCcX9/Xiao-tai-yang-hometv.jpg" group-title="FILM |🇲🇾 MALAYSIA", ASTRO XIAO TAI YANG HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -5181,33 +5195,91 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/6
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHNvMRh/arena-bola-2.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N74NrD2/arena-bola.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola MS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/5098/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHNvMRh/arena-bola-2.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola 2 HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/10216
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHNvMRh/arena-bola-2.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena Bola 2 MS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/5099/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604/
 http://1.yurend.xyz/dash-wv/linear/2604/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena MS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2604/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena 2 HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057/
 http://1.yurend.xyz/dash-wv/linear/5057/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Cricket
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Arena 2 MS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/5057/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Cricket HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504/
 http://1.yurend.xyz/dash-wv/linear/2504/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORTS |🇲🇾 MALAYSIA",Astro Cricket MS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS |🇲🇾 MALAYSIA",ASTRO SUPERSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36 @tv_online_indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sport24.my.id/clearkey/astro/601
 https://fragrant-violet-06d7.tvonlineindonesia.workers.dev/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+
+#EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS |🇲🇾 MALAYSIA",ASTRO SUPERSPORT 1 MS
+#EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36 @tv_online_indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601/
+https://baitijannati-byastroboy.mstri3e.workers.dev/staging-linearjitp-playback/dash-wv/linear/601/default_primary.mpd
+
+#EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS |🇲🇾 MALAYSIA",ASTRO SUPERSPORT 2 MS
+#EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36 @tv_online_indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2104/default_primary.mpd
+
+#EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS |🇲🇾 MALAYSIA",ASTRO SUPERSPORT 3 MS
+#EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36 @tv_online_indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2701/default_primary.mpd
+
+#EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS |🇲🇾 MALAYSIA",ASTRO SUPERSPORT 4 MS
+#EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36 @tv_online_indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2506/default_primary.mpd
+
+#EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS |🇲🇾 MALAYSIA",ASTRO SUPERSPORT 5 MS
+#EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36 @tv_online_indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/5059/default_primary.mpd
 
 #EXTINF:-1 grup tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS |🇲🇾 MALAYSIA",ASTRO SUPERSPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36 @tv_online_indonesia
@@ -5220,50 +5292,97 @@ http://1.yurend.xyz/dash-wv/linear/2506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408/
 http://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
 
+#EXTINF:-1  tvg-id="beinsports1.my" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇲🇾 MALAYSIA",beIN Sports Malaysia 1 MS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/408/default_primary.mpd
+
 #EXTINF:-1 tvg-id="beinsports2.my" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇲🇾 MALAYSIA",beIN Sports Malaysia 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066/
 http://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:-1 tvg-id="beinsports2.my" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇲🇾 MALAYSIA",beIN Sports Malaysia 2 MS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/5066/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beinsports3.my" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇲🇾 MALAYSIA",beIN Sports Malaysia 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705/
 http://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="SPORTS |🇲🇾 MALAYSIA",Channel GOLF HD ASTRO
+#EXTINF:-1 tvg-id="beinsports3.my" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png" group-title="SPORTS |🇲🇾 MALAYSIA",beIN Sports Malaysia 3 MS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="SPORTS |🇲🇾 MALAYSIA",Channel GOLF ASTRO HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003/
 http://1.yurend.xyz/dash-wv/linear/1003/default_primary.mpd
 
-#EXTINF:-1 tvg-id="eurosports.my" tvg-logo="https://i.postimg.cc/vmWhMb6b/download-removebg-preview-18.png" group-title="SPORTS |🇲🇾 MALAYSIA",Eurosports Malaysia
+
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="SPORTS |🇲🇾 MALAYSIA",Channel GOLF ASTRO MS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/1003/default_primary.mpd
+
+#EXTINF:-1 tvg-id="eurosports.my" tvg-logo="https://i.postimg.cc/vmWhMb6b/download-removebg-preview-18.png" group-title="SPORTS |🇲🇾 MALAYSIA",Eurosports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100/
 http://1.yurend.xyz/dash-wv/linear/2100/default_primary.mpd
 
-#EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="premiersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS |🇲🇾 MALAYSIA",Premier Sports
+#EXTINF:-1 tvg-id="eurosports.my" tvg-logo="https://i.postimg.cc/vmWhMb6b/download-removebg-preview-18.png" group-title="SPORTS |🇲🇾 MALAYSIA",Eurosports MS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2100/default_primary.mpd
+
+#EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="premiersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS |🇲🇾 MALAYSIA",Premier Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610/
 http://1.yurend.xyz/dash-wv/linear/2610/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="SPORTS |🇲🇾 MALAYSIA",SPOTV Malaysia
+#EXTINF:-1 grup tvg-id="premieresport.pl" tvg-name="premiersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORTS |🇲🇾 MALAYSIA",Premier Sports MS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2610/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="SPORTS |🇲🇾 MALAYSIA",SPOTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058/
 http://1.yurend.xyz/dash-wv/linear/5058/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzFyFX9v/download-removebg-preview-21.png" group-title="SPORTS |🇲🇾 MALAYSIA", W Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="SPORTS |🇲🇾 MALAYSIA",SPOTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/5058/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzFyFX9v/download-removebg-preview-21.png" group-title="SPORTS |🇲🇾 MALAYSIA", W Sports HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5060/
 https://1.yurend.xyz/dash-wv/linear/5060/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="SPORTS |🇲🇾 MALAYSIA", WWE Malaysia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzFyFX9v/download-removebg-preview-21.png" group-title="SPORTS |🇲🇾 MALAYSIA", W Sports MS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5060/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/5060/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="SPORTS |🇲🇾 MALAYSIA", WWE MY HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603/
 https://1.yurend.xyz/dash-wv/linear/2603/default_primary.mpd
 
-
+#EXTINF:-1 tvg-logo="https://s.id/1d1nU" group-title="SPORTS |🇲🇾 MALAYSIA", WWE MY MS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603/
+https://baitijannati-byastroboy.mstri3e.workers.dev/linearjitp-playback/dash-wv/linear/2603/default_primary.mpd
 
 
 =======================================================================================================================================Hiburan======================================================================================================================================================
