@@ -1445,17 +1445,17 @@ https://cdn09jtedge.indihometv.com/dvr/139/arirang/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest_w1300539340_qRFZS.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="INDIHOME |🇮🇩 USEETV",Bioskop Indonesia Indi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="INDIHOME |🇮🇩 USEETV",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/bioskopindonesiaih
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest_windihometv_qRFZS.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4ywZLzt/Dunia-Lain-TV-removebg-preview.png" group-title="INDIHOME |🇮🇩 USEETV",Dunia Lain Indi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4ywZLzt/Dunia-Lain-TV-removebg-preview.png" group-title="INDIHOME |🇮🇩 USEETV",Dunia Lain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/dunialainih
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain_dash/manifest_windihometv_qRFZS.mpd
 
-#EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="INDIHOME |🇮🇩 USEETV"",Flik Indi
+#EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="INDIHOME |🇮🇩 USEETV"",Flik
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/flikih
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_windihometv_qRFZS.mpd
@@ -1545,7 +1545,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies_dash/manifest_windihome
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="INDIHOME |🇮🇩 USEETV",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/zeebioskopih
-https://cdn08jtedge.indihometv.com/dassdvr/134/zbioskop_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/134/zbioskop_dash/manifest_windihometv_qRFZS.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znfPqNV.png" group-title="INDIHOME |🇮🇩 USEETV", ABC Australia
