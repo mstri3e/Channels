@@ -59,7 +59,8 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg406production/ch19/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" group-title="NASIONAL |🇮🇩 INDONESIA",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WJb2oJ.png" group-title="NASIONAL |🇮🇩 INDONESIA", CDI Channel Dangdut Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WJb2oJ.png" group-title="NASIONAL |🇮🇩 INDONESIA", CDI Channel Dangdut Indonesia tes
+#EXTVLCOPT:http-user-agent=QTV-Agent10
 https://103.166.27.2:800/play/a01u
 
 #EXTINF:-1 tvg-id="cnbc.id" tvg-name="cnbc" tvg-logo="https://i.postimg.cc/5NwwqhLp/cnbc-logo-transparent.png" group-title="NASIONAL |🇮🇩 INDONESIA",CNBC Indonesia
@@ -203,6 +204,10 @@ https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298546
 #https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 #http://portalnya.vwoev.opdns.net:80/streams/mentari/index.m3u8
+
+#EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="NASIONAL |🇮🇩 INDONESIA",Mentari TV Tes
+#EXTVLCOPT:http-user-agent=QTV-Agent10
+http://103.166.27.2:800/play/a018
 
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-name= "MetroGlobeNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="NASIONAL |🇮🇩 INDONESIA",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
@@ -1427,9 +1432,73 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 ====================================================================================================================================INDIHOME | USEETV===========================================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="INDIHOME |🇮🇩 USEETV", ATV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest_w1300539340_qRFZS.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="INDIHOME |🇮🇩 USEETV",Bioskop Indonesia Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/bioskopindonesiaih
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest_windihometv_qRFZS.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4ywZLzt/Dunia-Lain-TV-removebg-preview.png" group-title="INDIHOME |🇮🇩 USEETV",Dunia Lain Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/dunialainih
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain_dash/manifest_windihometv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="INDIHOME |🇮🇩 USEETV"",Flik Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/flikih
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_windihometv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FILM |🇮🇩 MAXSTREAM",SCTV Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/sctvih
+https://cdn08jtedge.indihometv.com/dassdvr/133/sctv_dash/manifest_windihome_qRFZS.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DeA35re.png" group-title="INDIHOME |🇮🇩 USEETV",USEE SPORT 1 Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/useesports1ih
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesport_dash/manifest_windihometv_qRFZS.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QanFnCo.png" group-title="INDIHOME |🇮🇩 USEETV"",USEE SPORT 2 Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/useesports2ih
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="FILM |🇮🇩 MAXSTREAM"", USEE PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/chunklist_w1395148783_b894100_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="INDIHOME |🇮🇩 USEETV",Warner TV Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/wernertvih
+https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="INDIHOME |🇮🇩 USEETV",HOREE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/horeeih
+https://cdn08jtedge.indihometv.com/dassdvr/133/horee_dash/manifest_windihometv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="INDIHOME |🇮🇩 USEETV",HITS MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/hitsmoviesih
+https://cdn08jtedge.indihometv.com/dassdvr/133/hitsmovie_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/W9j7SXO.png" group-title="INDIHOME |🇮🇩 USEETV",HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/hitsih
+https://cdn08jtedge.indihometv.com/dassdvr/133/hits_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znfPqNV.png" group-title="INDIHOME |🇮🇩 USEETV", ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #https://cdn09jtedge.indihometv.com/dvr/139/abcaustralia/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name= "ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -2337,10 +2406,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a1aca4db-f26c
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/antvhd/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a1aca4db-f26c-4354-9c5c-bb6b80208d42)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="FILM |🇮🇩 MAXSTREAM", ATV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest_w1300539340_qRFZS.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="FILM |🇮🇩 MAXSTREAM", Axn 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/axn/license-proxy-widevine/cenc/?specConform=true
@@ -2350,11 +2415,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4e768b62-1332
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream5.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4e768b62-1332-4938-b2c7-19dc184fd0d2)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="FILM |🇮🇩 MAXSTREAM",Bioskop Indonesia Indi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/bioskopindonesiaih
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ6f2bH4/images-removebg-preview-16.png" group-title="FILM |🇮🇩 MAXSTREAM", BN Channel 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9263bf14-cd77-401e-a21d-e3683fe6879d)/manifest.mpd
@@ -2374,11 +2434,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4ywZLzt/Dunia-Lain-TV-removebg-preview.png" group-title="FILM |🇮🇩 MAXSTREAM",Dunia Lain Indi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/dunialainih
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain_dash/manifest_windihometv_qRFZS.mpd
-
 #EXTINF:-1 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="FILM |🇮🇩 MAXSTREAM", DW ENGLISH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/dwenglish/license-proxy-widevine/cenc/?specConform=true
@@ -2388,11 +2443,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b1bbe936-d85f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/euronews/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(e78053cd-86f5-41fb-878f-f46f62b36e88)/manifest.mpd
-
-#EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="FILM |🇮🇩 MAXSTREAM"",Flik Indi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/flikih
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 group-title="FILM |🇮🇩 MAXSTREAM" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d2/FTV_%28Indonesia%29.png/revision/latest",FTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2556,11 +2606,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6BDH7BS/download-removebg-preview-8.png" group-title="FILM |🇮🇩 MAXSTREAM", Rans Entertainment
 https://deptokv1.herokuapp.com/index.m3u8?id=8241
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FILM |🇮🇩 MAXSTREAM",SCTV Indi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/sctvih
-https://cdn08jtedge.indihometv.com/dassdvr/133/sctv_dash/manifest_windihome_qRFZS.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PxKVJXV.png" group-title="FILM |🇮🇩 MAXSTREAM", SEA Today Max
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
@@ -2603,15 +2648,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(87e38ea2-30cd
 #KODIPROP:inputstream.adaptive.license_key=https://vipmaxthrill-punya.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(87e38ea2-30cd-4a36-8a2b-087b6d815fd2)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DeA35re.png" group-title="FILM |🇮🇩 MAXSTREAM",USEE SPORT 1 Indi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/useesports1ih
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesport_dash/manifest_windihometv_qRFZS.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QanFnCo.png" group-title="FILM |🇮🇩 MAXSTREAM"",USEE SPORT 2 Indi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/useesports2ih
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63pJ0nW2/download-removebg-preview-9.png" group-title="FILM |🇮🇩 MAXSTREAM", U Channel
 https://deptokv1.herokuapp.com/index.m3u8?id=6898
@@ -2619,9 +2656,6 @@ https://deptokv1.herokuapp.com/index.m3u8?id=6898
 #EXTINF:-1 tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="FILM |🇮🇩 MAXSTREAM", U Channel Backup
 #https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="FILM |🇮🇩 MAXSTREAM"", USEE PRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/chunklist_w1395148783_b894100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="FILM |🇮🇩 MAXSTREAM"", USEE PRIME MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -2637,10 +2671,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream10.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(25b515b8-e41d-470c-a7f0-641ef845d90a)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="FILM |🇮🇩 MAXSTREAM",Warner TV Indi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/wernertvih
-https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd
 
 
 
@@ -3200,30 +3230,30 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 ====================================================================================================================================HITS MOVIES====================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="FILM |🇮🇩 INDONESIA",HITS HD DENS
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/W9j7SXO.png" group-title="FILM |🇮🇩 INDONESIA",HITS HD DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.35/dr9445/h/h37/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="FILM |🇮🇩 INDONESIA",HITS FMX
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/W9j7SXO.png" group-title="FILM |🇮🇩 INDONESIA",HITS FMX
 http://edge.linknetott.swiftserve.com/channelgroup4/cg433production/ch326/02.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/hits.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="FILM |🇮🇩 INDONESIA",HITS HD Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W9j7SXO.png" group-title="FILM |🇮🇩 INDONESIA",HITS HD Vision
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://nxanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="FILM |🇮🇩 INDONESIA",Hits Movies HD Vision
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="FILM |🇮🇩 INDONESIA",Hits Movies HD Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
 https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="FILM |🇮🇩 INDONESIA",Hits Movies HD FMX
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="FILM |🇮🇩 INDONESIA",Hits Movies HD FMX
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg432production/ch324/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="FILM |🇮🇩 INDONESIA",Hits Movies HD
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="FILM |🇮🇩 INDONESIA",Hits Movies HD
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/hitmovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/43/89/film-logo-initial-letter-x-movie-logo-design-vector-39324389.jpg" group-title="FILM |🇮🇩 INDONESIA",X MOVIE
@@ -3337,14 +3367,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685758bcfff0175ab9d2b3
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati-coebmou.mstri3e.workers.dev//license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="FILM |🇮🇩 INDONESIA",Warner TV Indihome
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://usee8.wongwarass.workers.dev/
-#https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
-#https://usee8.wongwarass.workers.dev/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="FILM |🇮🇩 INDONESIA",Warner TV ( Backup )
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
