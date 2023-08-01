@@ -1544,9 +1544,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies_dash/manifest_windihome
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="INDIHOME |🇮🇩 USEETV",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/tvnmoviesih
-https://astvstreaming.my.id/drm/free/zeebioskopih
-
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/zeebioskopih
+https://cdn08jtedge.indihometv.com/dassdvr/134/zbioskop_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znfPqNV.png" group-title="INDIHOME |🇮🇩 USEETV", ABC Australia
