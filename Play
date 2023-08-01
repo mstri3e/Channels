@@ -1462,7 +1462,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain_dash/manifest_windihome
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/flikih
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_windihometv_qRFZS.mpd
 
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://i.imgur.com/PdohVJI.png" group-title="FILM |🇮🇩 INDONESIA",Galaxy HD
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://i.imgur.com/PdohVJI.png" group-title="NDIHOME |🇮🇩 USEETV",Galaxy HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/galaxyih
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
@@ -1487,7 +1487,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hits_dash/manifest_windihometv_qR
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/horeeih
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee_dash/manifest_windihometv_qRFZS.mpd
 
-#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/4r2D8xN.png" group-title="FILM |🇮🇩 INDONESIA", IMC
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/4r2D8xN.png" group-title="NDIHOME |🇮🇩 USEETV", IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/imcih
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
