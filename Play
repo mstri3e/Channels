@@ -2351,6 +2351,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4e768b62-1332
 #KODIPROP:inputstream.adaptive.license_key=https://tesmaxstream5.garudatvvip.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4e768b62-1332-4938-b2c7-19dc184fd0d2)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="FILM |🇮🇩 MAXSTREAM",Bioskop Indonesia Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/bioskopindonesiaih
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest_windihometv_qRFZS.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ6f2bH4/images-removebg-preview-16.png" group-title="FILM |🇮🇩 MAXSTREAM", BN Channel 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9263bf14-cd77-401e-a21d-e3683fe6879d)/manifest.mpd
 
@@ -2368,6 +2373,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati.mstri3e.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4ywZLzt/Dunia-Lain-TV-removebg-preview.png" group-title="FILM |🇮🇩 MAXSTREAM",Dunia Lain Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/dunialainih
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="FILM |🇮🇩 MAXSTREAM", DW ENGLISH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3092,6 +3102,11 @@ https://nonton.site:8443/ekos/7483/2156
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati-coebmou.mstri3e.workers.dev//license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="FILM |🇮🇩 INDONESIA",Bioskop Indonesia Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/bioskopindonesiaih
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest_windihometv_qRFZS.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFtrJxn1/SERIES-removebg-preview.png" group-title="FILM |🇮🇩 INDONESIA",Series Zone HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -3107,6 +3122,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff04901845606f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://baitijannati-coebmou.mstri3e.workers.dev//license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4ywZLzt/Dunia-Lain-TV-removebg-preview.png" group-title="FILM |🇮🇩 INDONESIA",Dunia Lain Indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/dunialainih
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="FILM |🇮🇩 INDONESIA",JOWO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
