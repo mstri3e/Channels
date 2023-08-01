@@ -60,7 +60,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg406production/ch19/02.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9WJb2oJ.png" group-title="NASIONAL |🇮🇩 INDONESIA", CDI Channel Dangdut Indonesia tes
-#EXTVLCOPT:http-user-agent=QTV-Agent10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
 https://103.166.27.2:800/play/a01u
 
 #EXTINF:-1 tvg-id="cnbc.id" tvg-name="cnbc" tvg-logo="https://i.postimg.cc/5NwwqhLp/cnbc-logo-transparent.png" group-title="NASIONAL |🇮🇩 INDONESIA",CNBC Indonesia
@@ -201,11 +201,13 @@ https://deptokv1.herokuapp.com/index.m3u8?id=8237
 
 #EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="NASIONAL |🇮🇩 INDONESIA",Mentari TV
 https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u8
+
+#EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="NASIONAL |🇮🇩 INDONESIA",Mentari Stream
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298546
 #https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 #http://portalnya.vwoev.opdns.net:80/streams/mentari/index.m3u8
 
-#EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="NASIONAL |🇮🇩 INDONESIA",Mentari TV Tes
+#EXTINF:-1 tvg-id="Mentari.id" tvg-name= "MentariTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="NASIONAL |🇮🇩 INDONESIA",Mentari
 #EXTVLCOPT:http-user-agent=QTV-Agent10
 http://103.166.27.2:800/play/a018
 
