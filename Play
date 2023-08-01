@@ -1480,7 +1480,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_
 #EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="INDIHOME |🇮🇩 USEETV",HOREE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/horeeih
-https://cdn08jtedge.indihometv.com/dassdvr/133/horee_dash/manifest_windihometv_qRFZS.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="INDIHOME |🇮🇩 USEETV",HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
