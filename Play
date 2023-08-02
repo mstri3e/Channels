@@ -1482,7 +1482,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest_windiho
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbnztGy.png" group-title="INDIHOME |🇮🇩 USEETV",Citra Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="INDIHOME |🇮🇩 USEETV", CNN Indonesia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1628,9 +1628,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia_dash/manifest_windih
 #KODIPROP:inputstream.adaptive.license_key=????????
 #https://cdn08jtedge.indihometv.com/dassdvr/133/myfamily/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="INDIHOME |🇮🇩 USEETV", My Kidz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="INDIHOME |🇮🇩 USEETV", My Kidz IH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn08jtedge.indihometv.com/dassdvr/134/mykids_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="INDIHOME |🇮🇩 USEETV", National Geographic ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1655,7 +1655,6 @@ https://cdn09jtedge.indihometv.com/dvr/139/nusantaratv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
-
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name= "RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="INDIHOME |🇮🇩 USEETV"",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
@@ -1667,7 +1666,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sctv_dash/manifest_windihome_qRFZ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="INDIHOME |🇮🇩 USEETV", Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/thrilli
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/thrill-ih
 https://cdn08jtedge.indihometv.com/dassdvr/134/thrill_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/640px-TRT_World_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV", TRT World
