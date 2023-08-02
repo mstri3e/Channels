@@ -1435,6 +1435,15 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 ====================================================================================================================================INDIHOME | USEETV===========================================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png" group-title="INDIHOME |🇮🇩 USEETV", Al Jazeera Vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/130/aljazeera/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="INDIHOME |🇮🇩 USEETV",ANIPLUS ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/aniplusih/
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiCWRg1.png" group-title="INDIHOME |🇮🇩 USEETV", Antara TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
@@ -1442,6 +1451,11 @@ https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="INDIHOME |🇮🇩 USEETV", Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/dvr/139/arirang/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="INDIHOME |🇮🇩 USEETV", AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/axnih
+https://cdn08jtedge.indihometv.com/dassdvr/133/axn_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="INDIHOME |🇮🇩 USEETV", ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -1452,15 +1466,68 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest_w1300539340_qRFZS.mp
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/bioskopindonesiaih
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest_windihometv_qRFZS.mpd
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png" group-title="INDIHOME |🇮🇩 USEETV", Bloomberg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/bloomberg/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="INDIHOME |🇮🇩 USEETV",Cinema World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/cinemaworldih
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="INDIHOME |🇮🇩 USEETV",Citra Dangdut
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=???????
+#https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbnztGy.png" group-title="INDIHOME |🇮🇩 USEETV",Citra Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="INDIHOME |🇮🇩 USEETV", CNN Indonesia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=????????
+#https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="INDIHOME |🇮🇩 USEETV", CNBC Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/cnbcasia/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640" group-title="INDIHOME |🇮🇩 USEETV", CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/cgtndocumentary/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="INDIHOME |🇮🇩 USEETV",Dunia Anak HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=????????
+#https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4ywZLzt/Dunia-Lain-TV-removebg-preview.png" group-title="INDIHOME |🇮🇩 USEETV",Dunia Lain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/dunialainih
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain_dash/manifest_windihometv_qRFZS.mpd
 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="INDIHOME |🇮🇩 USEETV",Eat N Go HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IficfLy.png" group-title="INDIHOME |🇮🇩 USEETV", Euronews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="INDIHOME |🇮🇩 USEETV", Fashion TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/fashiontvih
+https://cdn08jtedge.indihometv.com/dassdvr/133/fashiontv_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="INDIHOME |🇮🇩 USEETV",Flik
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/flikih
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_windihometv_qRFZS.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13" group-title="INDIHOME |🇮🇩 USEETV", France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/france24/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://i.imgur.com/PdohVJI.png" group-title="INDIHOME |🇮🇩 USEETV",Galaxy HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1471,6 +1538,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy_dash/manifest_windihometv_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/galaxypremiumih
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ6k1nA.png" group-title="INDIHOME |🇮🇩 USEETV", GEM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="INDIHOME |🇮🇩 USEETV",HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1487,10 +1558,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hits_dash/manifest_windihometv_qR
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/horeeih
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee_dash/manifest_windihometv_qRFZS.mpd
 
+#EXTINF:-1 tvg-logo="https://d1io3yog0oux5.cloudfront.net/_cdd5ea87a1d8b97db98a193ff659cb9e/mainstcapital/db/Companies/5884/logo_resized.png" group-title="INDIHOME |🇮🇩 USEETV", IDX CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/idx/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/4r2D8xN.png" group-title="INDIHOME |🇮🇩 USEETV", IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/imcih
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-id="Indonesiana.id" tvg-name="IndonesianaTV" tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="INDIHOME |🇮🇩 USEETV",Indonesiana TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/133/indonesiana/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name= "iNews" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="INDIHOME |🇮🇩 USEETV",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -1500,17 +1579,100 @@ https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/dvr/139/jaktv/manifest.mpd
 
+#EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/ZZGUuhE.png" group-title="INDIHOME |🇮🇩 USEETV",K+ HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/kplusih
+https://cdn08jtedge.indihometv.com/dassdvr/133/kplus_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="INDIHOME |🇮🇩 USEETV",KBS WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/kbsworldih/
+https://cdn08jtedge.indihometv.com/dassdvr/133/kbsworld_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name= "Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png" group-title="INDIHOME |🇮🇩 USEETV",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0o4n4d.png" group-title="INDIHOME |🇮🇩 USEETV",Kungfu TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="INDIHOME |🇮🇩 USEETV",Lingua
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/linguaih/
+https://cdn08jtedge.indihometv.com/dassdvr/133/lingua_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="INDIHOME |🇮🇩 USEETV",Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="INDIHOME |🇮🇩 USEETV", Moji HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mghVC1XD/download-removebg-preview-17.png" group-title="INDIHOME |🇮🇩 USEETV", MOONBUG KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHwQavF.png" group-title="Home TV |🇮🇩 Indonesia", My Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="INDIHOME |🇮🇩 USEETV", My Cinema asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/mycinemaasiaih
+https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="INDIHOME |🇮🇩 USEETV", My Family Channels
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=????????
+#https://cdn08jtedge.indihometv.com/dassdvr/133/myfamily/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="INDIHOME |🇮🇩 USEETV", My Kidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/mykids_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="INDIHOME |🇮🇩 USEETV", National Geographic ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/natgeoih
+https://cdn08jtedge.indihometv.com/dassdvr/133/natgeo_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zqa20Bh.png" group-title="INDIHOME |🇮🇩 USEETV", National Geographic Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/natgeowildih
+https://cdn08jtedge.indihometv.com/dassdvr/133/natgeowild_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name= "NusantaraTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png" group-title="INDIHOME |🇮🇩 USEETV",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/dvr/139/nusantaratv/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="INDIHOME |🇮🇩 USEETV",ONE TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/soneih
+#https://cdn08jtedge.indihometv.com/dassdvr/133/sone_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wbfGCji.png" group-title="INDIHOME |🇮🇩 USEETV",PANDA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
+
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name= "RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="INDIHOME |🇮🇩 USEETV"",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV"",SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/sctvih
+https://cdn08jtedge.indihometv.com/dassdvr/133/sctv_dash/manifest_windihome_qRFZS.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="INDIHOME |🇮🇩 USEETV", Thrill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/thrilli
+https://cdn08jtedge.indihometv.com/dassdvr/134/thrill_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/640px-TRT_World_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV", TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/trtworld/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="INDIHOME |🇮🇩 USEETV",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1520,11 +1682,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies_dash/manifest_windihome
 #EXTINF:-1 tvg-url="http://www.dens.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="INDIHOME |🇮🇩 USEETV",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/dvr/139/tvri/manifest.mpd
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FILM |🇮🇩 MAXSTREAM",SCTV Indi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/sctvih
-https://cdn08jtedge.indihometv.com/dassdvr/133/sctv_dash/manifest_windihome_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DeA35re.png" group-title="INDIHOME |🇮🇩 USEETV",USEE SPORT 1 Indi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1563,12 +1720,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_
 https://cdn08jtedge.indihometv.com/dassdvr/134/zbioskop_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znfPqNV.png" group-title="INDIHOME |🇮🇩 USEETV", ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #https://cdn09jtedge.indihometv.com/dvr/139/abcaustralia/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name= "ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="INDIHOME |🇮🇩 USEETV", ATV
@@ -1578,6 +1739,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/zbioskop_dash/manifest_windihomet
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="INDIHOME |🇮🇩 USEETV", Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/balitvnew/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/balitv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV", Berita Satu BTV
@@ -1586,26 +1748,35 @@ https://cdn09jtedge.indihometv.com/dvr/139/beritasatu/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="INDIHOME |🇮🇩 USEETV", DW TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/133/dwtv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/dwtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="DAAI.id" tvg-name="DAAITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="INDIHOME |🇮🇩 USEETV",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/daaitv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="INDIHOME |🇮🇩 USEETV",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png" group-title="FILM |🇮🇩 MAXSTREAM",JTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/jtv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="INDIHOME |🇮🇩 USEETV", INDI KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name= "Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="INDIHOME |🇮🇩 USEETV",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Logo_RRI_NET.png" group-title="INDIHOME |🇮🇩 USEETV", RRI Net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/130/rrinet/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV",SCTV
@@ -1614,24 +1785,35 @@ https://cdn09jtedge.indihometv.com/dvr/139/beritasatu/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PxKVJXV.png" group-title="INDIHOME |🇮🇩 USEETV", SEA Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/133/seatoday/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/seatoday/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PxKVJXV.png" group-title="INDIHOME |🇮🇩 USEETV", SEA Today MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sindonews.png/640px-Sindonews.png" group-title="INDIHOME |🇮🇩 USEETV", Sindo News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/134/mncnews/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="INDIHOME |🇮🇩 USEETV",Trans 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="INDIHOME |🇮🇩 USEETV",Trans TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="TvOne.id" tvg-name= "TVOne" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="INDIHOME |🇮🇩 USEETV",TV ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/130/tvone/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/tvone/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="INDIHOME |🇮🇩 USEETV",Tech Storm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 
 
