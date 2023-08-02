@@ -1486,11 +1486,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest_windihometv_qRFZS
 
 #EXTINF:-1 tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="INDIHOME |🇮🇩 USEETV", CNN Indonesia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=????????
-#https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/cnnindonesiaih
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="INDIHOME |🇮🇩 USEETV", CNBC Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/cnbcasiaih
 https://cdn08jtedge.indihometv.com/dassdvr/134/cnbcasia/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640" group-title="INDIHOME |🇮🇩 USEETV", CGTN Documentary
@@ -1666,7 +1668,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sctv_dash/manifest_windihome_qRFZ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="INDIHOME |🇮🇩 USEETV", Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/thrilli
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/thrillih
 https://cdn08jtedge.indihometv.com/dassdvr/134/thrill_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/640px-TRT_World_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV", TRT World
@@ -1756,7 +1758,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest_windihometv_qRFZS
 #https://cdn09jtedge.indihometv.com/dvr/139/daaitv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="INDIHOME |🇮🇩 USEETV",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/indosiarih
+https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png" group-title="FILM |🇮🇩 MAXSTREAM",JTV HD
