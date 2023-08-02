@@ -1480,8 +1480,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest_windiho
 #KODIPROP:inputstream.adaptive.license_key=???????
 #https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RbnztGy.png" group-title="INDIHOME |🇮🇩 USEETV",Citra Drama Usee
-#EXTVLCOPT:http-user-agent=UseeTVAndroid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbnztGy.png" group-title="INDIHOME |🇮🇩 USEETV",Citra Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="INDIHOME |🇮🇩 USEETV", CNN Indonesia HD
@@ -1628,8 +1628,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia_dash/manifest_windih
 #KODIPROP:inputstream.adaptive.license_key=????????
 #https://cdn08jtedge.indihometv.com/dassdvr/133/myfamily/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="INDIHOME |🇮🇩 USEETV", My Kidz Usee
-#EXTVLCOPT:http-user-agent=UseeTVAndroid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="INDIHOME |🇮🇩 USEETV", My Kidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="INDIHOME |🇮🇩 USEETV", National Geographic ID
@@ -1668,7 +1668,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sctv_dash/manifest_windihome_qRFZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/thrilli
 https://cdn08jtedge.indihometv.com/dassdvr/134/thrill_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/640px-TRT_World_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV", TRT World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
