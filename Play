@@ -1441,7 +1441,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/aljazeera/manifest_windihometv_qR
 
 #EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="INDIHOME |🇮🇩 USEETV",ANIPLUS ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/aniplusih/
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/aniplus
 https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiCWRg1.png" group-title="INDIHOME |🇮🇩 USEETV", Antara TV HD
@@ -1454,16 +1454,16 @@ https://cdn09jtedge.indihometv.com/dvr/139/arirang/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="INDIHOME |🇮🇩 USEETV", AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/axnih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/axn
 https://cdn08jtedge.indihometv.com/dassdvr/133/axn_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png" group-title="INDIHOME |🇮🇩 USEETV", ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest_w1300539340_qRFZS.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="INDIHOME |🇮🇩 USEETV",Bioskop Indonesia MS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="INDIHOME |🇮🇩 USEETV",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/tes/bioskopindonesia
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/bioskopindonesia
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png" group-title="INDIHOME |🇮🇩 USEETV", Bloomberg
@@ -1472,7 +1472,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/bloomberg/manifest_windihometv_qR
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="INDIHOME |🇮🇩 USEETV",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/cinemaworldih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/cinemaworld
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="INDIHOME |🇮🇩 USEETV",Citra Dangdut
@@ -1485,12 +1485,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest_windihometv_qRFZS
 
 #EXTINF:-1 tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="INDIHOME |🇮🇩 USEETV", CNN Indonesia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/cnnindonesiaih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/cnnindonesia
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="INDIHOME |🇮🇩 USEETV", CNBC Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/cnbcasiaih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/cnbcasia
 https://cdn08jtedge.indihometv.com/dassdvr/134/cnbcasia/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640" group-title="INDIHOME |🇮🇩 USEETV", CGTN Documentary
@@ -1504,7 +1504,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cgtndocumentary/manifest_windihom
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4ywZLzt/Dunia-Lain-TV-removebg-preview.png" group-title="INDIHOME |🇮🇩 USEETV",Dunia Lain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/dunialainih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/dunialain
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="INDIHOME |🇮🇩 USEETV",Eat N Go HD
@@ -1517,12 +1517,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest_windihometv_qRF
 
 #EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="INDIHOME |🇮🇩 USEETV", Fashion TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/fashiontvih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/fashiontv
 https://cdn08jtedge.indihometv.com/dassdvr/133/fashiontv_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png" group-title="INDIHOME |🇮🇩 USEETV",Flik
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/flikih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/flik
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13" group-title="INDIHOME |🇮🇩 USEETV", France 24
@@ -1531,12 +1531,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/france24/manifest_windihometv_qRF
 
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://i.imgur.com/PdohVJI.png" group-title="INDIHOME |🇮🇩 USEETV",Galaxy HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/galaxyih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/galaxy
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
 
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.imgur.com/FbqpsDe.png" group-title="INDIHOME |🇮🇩 USEETV",Galaxy Premium HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/galaxypremiumih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/galaxypremium
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ6k1nA.png" group-title="INDIHOME |🇮🇩 USEETV", GEM HD
@@ -1545,17 +1545,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sgem_dash/manifest_windihometv_qR
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="INDIHOME |🇮🇩 USEETV",HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/hitsmoviesih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/hitsmovies
 https://cdn08jtedge.indihometv.com/dassdvr/133/hitsmovie_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/W9j7SXO.png" group-title="INDIHOME |🇮🇩 USEETV",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/hitsih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/hits
 https://cdn08jtedge.indihometv.com/dassdvr/133/hits_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="Horee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="INDIHOME |🇮🇩 USEETV",HOREE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/horeeih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/horee
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://d1io3yog0oux5.cloudfront.net/_cdd5ea87a1d8b97db98a193ff659cb9e/mainstcapital/db/Companies/5884/logo_resized.png" group-title="INDIHOME |🇮🇩 USEETV", IDX CHANNEL
@@ -1564,7 +1564,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/idx/manifest_windihometv_qRFZS.mp
 
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/4r2D8xN.png" group-title="INDIHOME |🇮🇩 USEETV", IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/imcih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/imc
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="Indonesiana.id" tvg-name="IndonesianaTV" tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="INDIHOME |🇮🇩 USEETV",Indonesiana TV
@@ -1581,12 +1581,12 @@ https://cdn09jtedge.indihometv.com/dvr/139/jaktv/manifest.mpd
 
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/ZZGUuhE.png" group-title="INDIHOME |🇮🇩 USEETV",K+ HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/kplusih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/k+plus
 https://cdn08jtedge.indihometv.com/dassdvr/133/kplus_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="INDIHOME |🇮🇩 USEETV",KBS WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/kbsworldih/
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/kbsworld
 https://cdn08jtedge.indihometv.com/dassdvr/133/kbsworld_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name= "Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png" group-title="INDIHOME |🇮🇩 USEETV",Kompas TV
@@ -1599,7 +1599,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest_windihometv_qRF
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="INDIHOME |🇮🇩 USEETV",Lingua
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/linguaih/
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/lingua
 https://cdn08jtedge.indihometv.com/dassdvr/133/lingua_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="INDIHOME |🇮🇩 USEETV",Mentari TV
@@ -1620,7 +1620,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema_dash/manifest_windihomet
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="INDIHOME |🇮🇩 USEETV", My Cinema asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/mycinemaasiaih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/mycinemaasi
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="INDIHOME |🇮🇩 USEETV", My Family Channels
@@ -1633,12 +1633,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest_windihometv_qRFZS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="INDIHOME |🇮🇩 USEETV", National Geographic ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/natgeoih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/natgeo
 https://cdn08jtedge.indihometv.com/dassdvr/133/natgeo_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zqa20Bh.png" group-title="INDIHOME |🇮🇩 USEETV", National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/natgeowildih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/natgeowild
 https://cdn08jtedge.indihometv.com/dassdvr/133/natgeowild_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name= "NusantaraTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png" group-title="INDIHOME |🇮🇩 USEETV",Nusantara TV
@@ -1647,7 +1647,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/nusantaratv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="INDIHOME |🇮🇩 USEETV",ONE TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/soneih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/sone
 #https://cdn08jtedge.indihometv.com/dassdvr/133/sone_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbfGCji.png" group-title="INDIHOME |🇮🇩 USEETV",PANDA TV HD
@@ -1660,12 +1660,12 @@ https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name= "SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV"",SCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/sctvih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/sctv
 https://cdn08jtedge.indihometv.com/dassdvr/133/sctv_dash/manifest_windihome_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="INDIHOME |🇮🇩 USEETV", Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/thrillih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/thrill
 https://cdn08jtedge.indihometv.com/dassdvr/134/thrill_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/640px-TRT_World_logo.svg.png" group-title="INDIHOME |🇮🇩 USEETV", TRT World
@@ -1674,7 +1674,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/trtworld/manifest_windihometv_qRF
 
 #EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="INDIHOME |🇮🇩 USEETV",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/tvnmoviesih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/tvnmovies
 https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-url="http://www.dens.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="INDIHOME |🇮🇩 USEETV",TVRI
@@ -1683,12 +1683,12 @@ https://cdn09jtedge.indihometv.com/dvr/139/tvri/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DeA35re.png" group-title="INDIHOME |🇮🇩 USEETV",USEE SPORT 1 Indi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/useesports1ih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/useesports1
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesport_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QanFnCo.png" group-title="INDIHOME |🇮🇩 USEETV"",USEE SPORT 2 Indi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/useesports2ih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/useesports2
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="INDIHOME |🇮🇩 USEETV", USEE PRIME
@@ -1709,12 +1709,12 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="INDIHOME |🇮🇩 USEETV",Warner TV Indi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/wernertvih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/warnertv
 https://cdn08jtedge.indihometv.com/dassdvr/133/warner_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="INDIHOME |🇮🇩 USEETV",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/zeebioskopih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/zeebioskop
 https://cdn08jtedge.indihometv.com/dassdvr/134/zbioskop_dash/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 
 
@@ -1756,7 +1756,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest_windihometv_qRFZS
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="INDIHOME |🇮🇩 USEETV",INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/indosiarih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/UseeTV/indosiar
 https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest_windihometv_qRFZS.mpd?encp=&uid=&expp=
 #https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
