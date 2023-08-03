@@ -1461,9 +1461,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/axn_dash/manifest_windihometv_qRF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest_w1300539340_qRFZS.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="INDIHOME |🇮🇩 USEETV",Bioskop Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="INDIHOME |🇮🇩 USEETV",Bioskop Indonesia MS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astvstreaming.my.id/drm/free/bioskopindonesiaih
+#KODIPROP:inputstream.adaptive.license_key=https://mschannelsfamily.my.id/drm/tes/bioskopindonesia
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest_windihometv_qRFZS.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png" group-title="INDIHOME |🇮🇩 USEETV", Bloomberg
